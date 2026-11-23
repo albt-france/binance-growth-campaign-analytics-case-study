@@ -44,7 +44,10 @@ def main():
     meth = v["methods"]
     pipe = F.get("pipeline", {})
 
+    pages = "https://albt-france.github.io/binance-growth-campaign-analytics-case-study"
     readme = f"""# Campaign, crowd, cycle or counting? Growth-campaign analytics for Binance
+
+### 📄 [Read the PDF report (10 pages)]({pages}/report/Binance_growth_campaign_analytics.pdf) · 📊 [Open the interactive dashboard (6 tabs)]({pages}/dashboard/index.html)
 
 Independent case study for the **Data Analyst (12 months contract)** role at Binance (Central Data Analytics).
 When a growth number moves, four causes have to be separated before recommending anything: the **campaign**

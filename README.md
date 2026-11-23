@@ -1,5 +1,7 @@
 # Campaign, crowd, cycle or counting? Growth-campaign analytics for Binance
 
+### 📄 [Read the PDF report (10 pages)](https://albt-france.github.io/binance-growth-campaign-analytics-case-study/report/Binance_growth_campaign_analytics.pdf) · 📊 [Open the interactive dashboard (6 tabs)](https://albt-france.github.io/binance-growth-campaign-analytics-case-study/dashboard/index.html)
+
 Independent case study for the **Data Analyst (12 months contract)** role at Binance (Central Data Analytics).
 When a growth number moves, four causes have to be separated before recommending anything: the **campaign**
 (incremental effect), the **crowd** (who was acquired), the **cycle** (the market) and the **counting** (the
