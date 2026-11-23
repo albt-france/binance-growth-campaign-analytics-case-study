@@ -1,0 +1,751 @@
+article_code,release_date_utc,period_start_utc,period_end_utc,type,region,asset,detail_in_scope,detail_read
+7c45d03564054b60b8230493da4b7589,2025-12-08 09:15:03.712,,,other,not stated,other or none,False,False
+406b3a1beeea44ecb98adf43dcb067ae,2025-12-10 07:00:13.721,,,other,not stated,USDC,False,False
+50b8c2c181a3439195f1d3f82da4e960,2025-12-10 08:00:19.613,,,deposit,MENA,USDT,False,False
+2703ad9b021d4b03904d2c9dc469e072,2025-12-10 10:00:11.307,,,alpha,not stated,other or none,False,False
+54181809083045e7ba2f9b80e4dfdcb4,2025-12-10 11:00:06.919,,,other,not stated,other or none,False,False
+99f6878ba1744c30a4cc4489ec0cac4c,2025-12-10 14:00:25.982,,,trading_competition,not stated,other or none,False,False
+a6e0b68ee1774ab9a16335e826264d57,2025-12-11 04:00:02.696,,,other,MENA,other or none,False,False
+b1009f23afa346a1875214058d96fedc,2025-12-11 10:34:21.308,,,trading_competition,not stated,other or none,False,False
+981078e9498e4b0b8020f8c266ef290b,2025-12-11 14:00:01.393,,,trading_competition,not stated,other or none,False,False
+e2336544bb754d929aa4d0b3a07cc26c,2025-12-15 03:00:25.886,,,other,not stated,USDC,False,False
+8f12d45e8a4e414bab37b863406a525d,2025-12-15 04:00:12.432,,,learn_quiz,not stated,other or none,False,False
+dc2e33628f7249418b059d4a9552562a,2025-12-15 08:00:11.882,,,trading_competition,not stated,USDT,False,False
+cbe26ba2478d4c43a43fef2825fe10b2,2025-12-16 02:00:14.121,,,earn_apr,CIS,USDT,False,False
+6e406e08f1754f6aa942ad67a8ba226e,2025-12-17 07:00:04.008,,,other,not stated,other or none,False,False
+f247c20540c24803abb6ba342a2cfe6d,2025-12-17 09:00:02.688,,,earn_apr,not stated,other or none,False,False
+7c9e615a685743e29140ebec72d09eb5,2025-12-18 00:00:00.000,,,deposit,not stated,other or none,False,False
+4c56b2a71d254f0bb96766f04891700b,2025-12-18 04:00:01.474,,,other,not stated,BNB,False,False
+cd80fabcb372463382e19d5c7b783e90,2025-12-18 14:00:09.555,,,trading_competition,not stated,other or none,False,False
+ab0b74c5868c40c78b0955cc503778dd,2025-12-19 00:00:00.000,,,deposit,not stated,USDC,False,False
+b72f45ecd48b4e8ebd19b243980bc8c0,2025-12-19 03:00:19.554,,,other,not stated,USDC,False,False
+4b3ef90b24264abc867e30a8a38c3212,2025-12-19 04:00:19.471,,,trading_competition,not stated,other or none,False,False
+c5cd08ebd66f45b587f8cd82245c6aa8,2025-12-19 10:00:05.226,,,alpha,not stated,other or none,False,False
+319f2d73317e47859769affa75712b8e,2025-12-22 00:00:00.000,,,alpha,not stated,other or none,False,False
+c22264dedfea4dd8b11cecca118e5002,2025-12-22 02:00:01.682,,,learn_quiz,not stated,other or none,False,False
+fd6f4a5ae9e24c94aaa3f06b204d17c2,2025-12-22 12:00:02.077,,,other,not stated,USDC,False,False
+ce488444c40f41aa9e3343a183c14d42,2025-12-23 00:00:00.000,,,referral,not stated,other or none,False,False
+403eb1d321fd43a0866d0ff844134ec3,2025-12-23 14:00:00.000,,,trading_competition,not stated,BNB,False,False
+7d987a6b16f649e3bb12665cc567c1d9,2025-12-24 00:00:00.000,,,learn_quiz,not stated,other or none,False,False
+8597cc2f40b6437c8687f52ab96bf77e,2025-12-24 03:00:04.835,,,alpha,not stated,other or none,False,False
+f5740b634966476890d8a61b07fe4557,2025-12-25 13:00:00.000,,,trading_competition,not stated,other or none,False,False
+bfa64ab3c47d4d2c8b69f3ebb50d81a8,2025-12-25 14:00:00.000,,,trading_competition,not stated,other or none,False,False
+fcc2651bb74546a4a56e9dc8d34fef56,2025-12-26 07:01:16.549,,,earn_apr,not stated,other or none,False,False
+ae1f729330734a17a725472f98f56f48,2025-12-26 08:00:08.553,,,other,not stated,other or none,False,False
+583a5c233d2941a1809d59fe89fdd2f8,2025-12-29 02:00:06.281,,,learn_quiz,not stated,other or none,False,False
+fe4ff72f274540dfbb75d97c85b121db,2025-12-29 06:00:02.165,,,other,not stated,other or none,False,False
+e41c3376bdd546ac96682becbb0236c6,2025-12-29 09:00:01.929,,,other,not stated,USDC,False,False
+2c45904cdee04b92ac2813a671a6c3e9,2025-12-29 13:00:00.000,,,trading_competition,not stated,other or none,False,False
+1c83add63369448f821e93fbebb530b9,2025-12-30 14:00:00.000,,,trading_competition,not stated,other or none,False,False
+629e48e1b7a645bfa8ddd20a3b9bde45,2026-01-05 02:00:13.020,,,learn_quiz,not stated,other or none,False,False
+4a0f360c7f054cce97ff9086409be476,2026-01-06 10:00:10.155,,,other,not stated,other or none,False,False
+d1156721f18d4e97982303008a467c1d,2026-01-06 12:00:02.025,,,trading_competition,not stated,other or none,False,False
+0f576447fa454577bae89b07eb5b2591,2026-01-06 12:30:09.047,,,other,not stated,other or none,False,False
+8d429b9e5da841b1b630e486c2e64e19,2026-01-07 11:00:23.136,,,trading_competition,not stated,other or none,False,False
+d17acd4cb47c441384656641cb665242,2026-01-08 07:00:13.304,,,earn_apr,not stated,USDC,False,False
+7eb321370ee74fa5948ab7e859c606b5,2026-01-08 09:00:12.209,,,earn_apr,not stated,USDC,False,False
+2db4a7ae390f42a2a84d63f7aad5f0d5,2026-01-08 10:00:10.487,,,other,not stated,other or none,False,False
+202ad5cbf5c646a3b0d7670e0b87d8d5,2026-01-08 10:30:01.498,,,referral,not stated,other or none,False,False
+ca3986894c694c3db393d64fcffc925c,2026-01-09 01:00:01.354,,,trading_competition,not stated,USDC,False,False
+f4808a3996a74740ad9516d2edbfee7d,2026-01-09 11:00:09.799,,,trading_competition,not stated,other or none,False,False
+9591b4ebbc254975807e317a66c65e70,2026-01-09 12:00:01.941,,,alpha,not stated,other or none,False,False
+b5183318c6534de49ec418eff10cb624,2026-01-12 02:00:06.606,,,learn_quiz,not stated,other or none,False,False
+2cbf8ebc2c874c458855f55428dbb44f,2026-01-12 12:00:00.000,,,trading_competition,not stated,BNB,False,False
+c5e19ca585ff4fc5b02be5d7ae1a0ebe,2026-01-13 03:00:01.534,,,earn_apr,not stated,USDC,False,False
+952a98b6bb06436ca441416ce218e273,2026-01-13 10:00:11.663,,,other,not stated,other or none,False,False
+faae1fdb8d95415b8dff79dc1ed7f6e9,2026-01-15 01:00:11.584,,,other,EU,USDC,False,False
+2647eff1e6224b13a77a855fd585b849,2026-01-15 13:00:05.784,,,other,not stated,other or none,False,False
+3abb36dbd37a41be9206e8d5dc2044a1,2026-01-16 10:00:01.710,,,earn_apr,not stated,other or none,False,False
+72789af3123142229e2d686130f62cf1,2026-01-16 11:00:07.434,,,trading_competition,not stated,other or none,False,False
+c5ec30905fb946a9a94269de1ba5052a,2026-01-16 13:00:01.814,,,other,not stated,other or none,False,False
+bc6fdcc4e4474750bad743190bd81820,2026-01-18 08:00:08.203,,,alpha,not stated,BNB,False,False
+ec5c73640c6a45f2bbd01de9088c0731,2026-01-19 02:00:12.354,,,learn_quiz,not stated,other or none,False,False
+8cd34f9f379d40779f2cb7d6d42de08e,2026-01-20 06:00:02.631,,,other,not stated,other or none,False,False
+c156edd4f2c64bc08e1e2d72598f4567,2026-01-20 09:00:04.191,,,other,not stated,other or none,False,False
+f06c7ac95219409cb242bf80b06fb755,2026-01-20 14:00:07.437,,,other,not stated,other or none,False,False
+a1a0d0d5212a4ecf980caaaebb04173b,2026-01-21 03:00:02.157,,,earn_apr,not stated,ETH,False,False
+d205a6cb01724f86b5ee30753a39fdbb,2026-01-22 00:00:00.000,,,pay,not stated,other or none,False,False
+96fb54c01f854b5980ba6b4e7e9acbe7,2026-01-22 08:50:02.315,,,trading_competition,not stated,other or none,False,False
+b49f3064f420498c8d1f711a78dff645,2026-01-22 08:55:03.917,,,trading_competition,not stated,other or none,False,False
+fdcb95e74a1645729a1b8923a5e4187f,2026-01-22 23:59:03.592,,,earn_apr,not stated,other or none,False,False
+ce5b316682804adaa1b5f40a56a0d45d,2026-01-23 07:00:16.779,,,earn_apr,not stated,other or none,False,False
+174239a4a6f84ee19ae1fe5e2b2c3367,2026-01-23 09:00:07.585,,,alpha,not stated,other or none,False,False
+9321aef29b4242969974f856661d9855,2026-01-23 10:00:02.372,,,other,not stated,other or none,False,False
+54fd13b870a14234998b60db34f030fd,2026-01-23 11:00:00.000,,,trading_competition,not stated,other or none,False,False
+f71ba56b77cf4f7597d4e22827837fa5,2026-01-23 16:12:02.633,,,other,not stated,BTC,False,False
+f841fcacfca84da3bec25f1afb603a8b,2026-01-26 02:00:07.545,,,learn_quiz,not stated,other or none,False,False
+1ae9a8a6bd80429db6dab0d37daeb703,2026-01-26 09:00:09.103,,,alpha,EU,other or none,False,False
+e23a7210e58d41108df2fbf80a3e3bc0,2026-01-26 11:00:08.406,,,p2p,not stated,USDT,False,False
+e86172b9b5a64b668188879135b4499f,2026-01-28 00:00:00.000,,,deposit,not stated,USDC,False,False
+05aa6a1c1df9431c8c2dd808c7b7dd2d,2026-01-28 03:07:05.649,,,p2p,AFRICA,other or none,False,False
+f50843a598d8458b8a23b43680bcde8f,2026-01-28 11:00:02.205,,,trading_competition,not stated,other or none,False,False
+7d3e0ac76aed4929938ce78932135fe6,2026-01-28 12:00:02.665,,,trading_competition,not stated,other or none,False,False
+5bd0eb01185d4d119019e8e688853ed9,2026-01-29 03:00:05.079,,,other,not stated,other or none,False,False
+42848b94d4374125900fe9de2470d64c,2026-01-29 10:00:04.697,,,referral,not stated,USDT,False,False
+b4da45dac5de4f5b9747c356165f53d9,2026-01-29 11:00:05.208,,,trading_competition,not stated,other or none,False,False
+7c9eb155a35d49aaa0e88dd0554ba0c8,2026-02-02 02:00:01.178,,,learn_quiz,not stated,other or none,False,False
+abc70db36f2b4e2abf49d48ff7905d3a,2026-02-02 03:00:01.367,,,p2p,not stated,other or none,False,False
+5212cdbc463e41cf8e8d6402bed6ec30,2026-02-02 04:00:17.070,,,other,not stated,other or none,False,False
+34ae842a39bc49cdb7d3c75a952e3985,2026-02-02 05:00:08.701,,,alpha,not stated,other or none,False,False
+48edba3e6d0d465faaf9576067270514,2026-02-02 06:00:05.844,,,other,not stated,other or none,False,False
+2d3825a3181c4078a9ca47215a655ea4,2026-02-03 03:00:04.248,,,earn_apr,not stated,USDC,False,False
+9d33116a787a4fb5b885b9fdf2444df9,2026-02-03 09:00:07.690,,,other,not stated,other or none,False,False
+98d7b38da1d94687ac79096499881c8f,2026-02-03 11:00:05.648,,,trading_competition,not stated,BNB,False,False
+0c58120093274b3c86be599440daa7b9,2026-02-04 08:00:06.220,,,earn_apr,AFRICA,USDT,False,False
+66221f001e614356bee3dc04af8d855e,2026-02-04 08:30:05.007,,,alpha,not stated,other or none,False,False
+9ccb55c1069340d99123d2443f4de912,2026-02-04 09:00:01.295,,,trading_competition,not stated,other or none,False,False
+7022b93d57f94781b13bddc19b6a9fb8,2026-02-05 00:00:00.000,,,learn_quiz,not stated,BTC,False,False
+ba6f32c893a847389e632bda9909dda0,2026-02-05 02:00:06.029,,,earn_apr,not stated,USDT,False,False
+397ee3cb6ca64777960ffb6ed137c729,2026-02-05 03:00:01.327,,,referral,MENA,USDT,False,False
+ccc0a12affcb40ff989d159014d8b3a1,2026-02-09 03:00:03.567,,,p2p,not stated,other or none,False,False
+f54bcb5250ed4d33850a77b550fed41e,2026-02-09 04:00:01.565,,,trading_competition,not stated,other or none,False,False
+27ca2fc7e79444f5b11d8a8be5cdcaea,2026-02-09 08:00:01.084,,,referral,not stated,other or none,False,False
+b688b19fd7f94128a949107884b69eee,2026-02-10 02:00:13.848,,,earn_apr,not stated,BTC,False,False
+f03e63a37f4b4cc7af643e4de99abae9,2026-02-10 11:00:01.265,,,trading_competition,not stated,other or none,False,False
+91ce7b1baac54051a210831f1e5cf6eb,2026-02-11 10:30:01.411,,,trading_competition,not stated,other or none,False,False
+ebb4e7d69bf549ca8ff65687aa98a051,2026-02-11 11:00:02.977,,,alpha,not stated,other or none,False,False
+a8e0bc19c7a847f98c60e9f7b9597866,2026-02-12 03:00:07.088,,,other,not stated,USDC,False,False
+714829fad15a42408bc2536b02acb18a,2026-02-12 09:00:03.906,,,alpha,not stated,USDT,False,False
+f276cec35e6f4417900736ea184b9099,2026-02-12 11:00:02.131,,,p2p,MENA,other or none,False,False
+5a8f289e47bc4e3fae2da95597f4f050,2026-02-13 01:00:04.124,,,other,not stated,other or none,False,False
+85451a37c4b44a63bdbc201ac9fef418,2026-02-13 02:00:05.525,,,earn_apr,not stated,other or none,False,False
+f557fb159aaa4b8fb7daf9ada2134372,2026-02-13 04:00:02.238,,,earn_apr,not stated,other or none,False,False
+a90f25e78baf441a990518608e806dbf,2026-02-13 07:00:05.000,,,other,CIS,other or none,False,False
+f94082eb5ac64355ab591a49d61b47ab,2026-02-16 02:00:01.628,,,learn_quiz,not stated,other or none,False,False
+8ad2a22800344d7e8692865dff21f71f,2026-02-17 08:00:01.189,,,earn_apr,not stated,other or none,False,False
+1b67dda598af499c91be614ce1cb24c5,2026-02-18 00:00:00.000,,,new_user,not stated,other or none,False,False
+6f2f8fed49c64b11a16945d9afc61ab0,2026-02-18 00:15:00.000,,,other,not stated,other or none,False,False
+01edce195c8b4fca8a1c8bb805f0f23c,2026-02-18 00:30:00.000,,,other,not stated,other or none,False,False
+fb804fb4325a424e98925fa535c1517f,2026-02-18 00:45:00.000,,,earn_apr,not stated,BNB,False,False
+42c68cddcdcc435fad4a4cc7a08fc5e3,2026-02-18 01:00:00.000,,,pay,not stated,other or none,False,False
+522785bde0dc468aae994b6e9949fe8d,2026-02-18 01:15:00.000,,,referral,not stated,other or none,False,False
+9deaff4ebffe485ca83ccd12cda1b319,2026-02-18 02:00:00.000,,,earn_apr,not stated,other or none,False,False
+96537e102f78416fb74b87aa7d377b61,2026-02-19 00:00:00.000,,,other,not stated,other or none,False,False
+831eef7b69f44c21b65c055a7adc81ed,2026-02-19 12:00:00.000,,,other,not stated,USDC,False,False
+77d263687a514d009a68140a90acd389,2026-02-19 13:00:00.000,,,pay,not stated,other or none,False,False
+1af3f536dd474c0d9a2cd5b7de8326da,2026-02-19 18:00:00.000,,,learn_quiz,not stated,other or none,False,False
+a428fa84ac634387b6adb68406d52d25,2026-02-21 00:00:00.000,,,other,not stated,other or none,False,False
+23a8423d39f748248a86e6e5e6b0156d,2026-02-22 00:00:00.000,,,other,not stated,other or none,False,False
+abdeb8a9f3624e0ebefa8488bc2b1acd,2026-02-23 00:00:00.000,,,other,not stated,USDC,False,False
+7deb087493b14a42b2a8d53dcb0f8c30,2026-02-23 02:00:15.371,,,learn_quiz,not stated,other or none,False,False
+ee0a9bbbebea42b8a9ac207f7f6e333f,2026-02-24 00:00:00.000,,,deposit,not stated,USDC,False,False
+5baa1b51315840ee9e5b4d5fb076b958,2026-02-24 12:00:00.000,,,trading_competition,not stated,other or none,False,False
+7c6cc5f8808f4dfd94e74c8d73a22af0,2026-02-25 11:00:07.855,,,alpha,not stated,other or none,False,False
+cc955ad5e8874caeaef045693585c698,2026-02-25 12:00:02.548,,,trading_competition,not stated,other or none,False,False
+8798776a393841a781985a086345eddf,2026-02-26 08:00:10.268,,,pay,not stated,other or none,False,False
+193eff72eac54970a64cdbc9c7b7a13d,2026-02-26 09:00:03.496,,,earn_apr,not stated,other or none,False,False
+2eed4f991d8c45cfa0cd6e3c6c05fd4e,2026-02-26 10:00:01.564,,,other,not stated,other or none,False,False
+56caae80406449579ed496bb2fb60ba2,2026-02-26 12:00:10.801,,,trading_competition,not stated,other or none,False,False
+251b268bfabf49748daab8fb2ce37d55,2026-02-27 07:30:11.586,,,earn_apr,not stated,USDC,False,False
+820d2bb637d04f17983048ab7f4bf1f1,2026-02-27 10:30:01.049,,,other,not stated,other or none,False,False
+0a2ddde86af548ffa0ba31c8e135b115,2026-02-27 13:30:16.642,,,alpha,not stated,other or none,False,False
+f1c659377dc54dd78d28703e591ac264,2026-03-02 01:00:00.000,,,other,not stated,USDT,False,False
+d290e76b672c4eb299da8f57f288812b,2026-03-02 08:00:01.367,,,alpha,not stated,other or none,False,False
+a2523f2804424cf3aca814df4d6fac5d,2026-03-02 11:30:06.595,,,learn_quiz,not stated,other or none,False,False
+6e1bee9d7a424f509a18e51a458ad1d3,2026-03-03 12:00:06.785,,,trading_competition,not stated,other or none,False,False
+5e3bd35d5e6541e9beccbd7c12d28413,2026-03-04 05:00:07.093,,,other,not stated,USDC,False,False
+a7597b96785e4594881c2b87b86c3949,2026-03-04 08:00:01.827,,,earn_apr,not stated,other or none,False,False
+392c9e81e76d4ea1a6d3d6b9f0cbac3c,2026-03-04 09:00:28.995,,,learn_quiz,not stated,other or none,False,False
+4c2852795e0a49a0bf72cd83714f743b,2026-03-04 12:00:02.683,,,trading_competition,not stated,USDC,False,False
+70735b44f2de4791a6068cf3797ca084,2026-03-04 13:30:00.000,,,trading_competition,not stated,other or none,False,False
+911c48510326483c913d1ed229dff2ae,2026-03-05 01:00:00.000,,,learn_quiz,not stated,BTC,False,False
+4bbd4a6c37ef40f2b29189e72cbb0bbe,2026-03-05 09:30:25.396,,,earn_apr,not stated,other or none,False,False
+7588c8608e6f42cbb53e8d4d0f200d09,2026-03-05 11:00:08.926,,,other,not stated,other or none,False,False
+0d53b443694c475f9ef0b86370617985,2026-03-05 11:30:06.702,,,trading_competition,not stated,other or none,False,False
+e2b6edf5ab84431eb2d3be2cfc276a60,2026-03-05 12:00:06.522,,,other,TR,USDC,False,False
+da8a68fc449d405db82970c65a518c15,2026-03-06 01:00:00.000,,,earn_apr,EU,USDC,False,False
+6512b63e046c4cad904aed12a9efbf9c,2026-03-06 09:30:06.255,,,other,not stated,other or none,False,False
+4a659cc17d464adb8ccc2890d202e39a,2026-03-06 11:00:00.000,,,trading_competition,not stated,other or none,False,False
+5e315527b4574393bf02f6bd6bc5ae9f,2026-03-06 13:00:07.361,,,other,not stated,other or none,False,False
+0638bbd50c2949d582bf4248f410a7c0,2026-03-09 02:00:11.661,,,learn_quiz,not stated,other or none,False,False
+748940924c614022af048669e2b087d9,2026-03-09 08:00:00.000,,,tokenized_stock,not stated,tokenized stock,False,False
+f6106586265d496faf88b135635d9203,2026-03-09 11:00:09.355,,,earn_apr,not stated,USDC,False,False
+611bfd0165cc46cb89e06a6549ce2ccf,2026-03-11 01:00:08.581,,,earn_apr,not stated,ETH,False,False
+4ad6e3210efc472d9836e172e930aa23,2026-03-11 12:00:10.397,,,alpha,not stated,USDT,False,False
+b588526af58645b994c85e7f0cd47823,2026-03-12 08:00:06.253,,,earn_apr,AFRICA,USDT,False,False
+c5b35c7e635e42ea96e290274e54fb15,2026-03-12 09:00:21.553,,,trading_competition,not stated,other or none,False,False
+d6fd86054b00445a97897606033970d8,2026-03-12 10:00:01.905,,,other,not stated,other or none,False,False
+17fc30341dc0422488f62b94dc21ad96,2026-03-12 11:00:04.824,,,trading_competition,not stated,other or none,False,False
+65317d61d1c445f99f73a04c05233dd2,2026-03-13 03:00:07.387,,,earn_apr,not stated,other or none,False,False
+622b7c207e104e28a94f47afb619e7df,2026-03-13 07:00:11.676,,,other,not stated,other or none,False,False
+8644afba94b5447883dd2f333d9d716b,2026-03-13 09:30:03.693,,,trading_competition,EU,USDC,False,False
+1a40fb55893c438db6bc117bfc200d88,2026-03-13 11:00:00.000,,,trading_competition,not stated,other or none,False,False
+0ce108af7faa444e9787dca6b5c75309,2026-03-16 01:00:08.173,,,referral,SOUTH_ASIA,other or none,False,False
+000a4567414b424791a511038c5d855b,2026-03-16 02:02:00.590,,,learn_quiz,not stated,other or none,False,False
+322388e719b84851b8bd71ac50c6b34f,2026-03-16 08:00:02.646,,,earn_apr,not stated,other or none,False,False
+f94b496c858448c6ac9847b306babbfd,2026-03-17 11:00:01.907,,,trading_competition,not stated,other or none,False,False
+49a9f743c4e646579207517db4d9503c,2026-03-18 06:00:12.082,,,trading_competition,not stated,other or none,False,False
+a2e3dda0471b4fabb3ec805ad71bc135,2026-03-19 06:00:01.669,,,earn_apr,not stated,other or none,False,False
+d092195abca64386929cc6517130ffc3,2026-03-19 07:00:03.779,,,earn_apr,not stated,USDC,False,False
+549b60c5e8934278904d3e36afb27275,2026-03-19 08:00:05.034,,,other,not stated,other or none,False,False
+d0886cd0da82460ba8c32b466f7b2cc1,2026-03-19 09:30:01.573,,,other,not stated,other or none,False,False
+f13e037d54914a8ea0cdbc80a4a953d4,2026-03-19 10:00:02.600,,,other,CIS,USDT,False,False
+3e4b4993757142f79c81db9675d77878,2026-03-19 11:00:08.600,,,p2p,not stated,other or none,False,False
+bc1729b3299c45689b6780b2428b845c,2026-03-20 02:00:05.389,,,earn_apr,not stated,other or none,False,False
+368c423ca72c4504a3028885f23d08db,2026-03-20 08:00:04.000,,,earn_apr,not stated,other or none,False,False
+342cf2d1aa4c4ac7a2b651b55db5abc1,2026-03-20 09:00:04.851,,,trading_competition,not stated,other or none,False,False
+703d0a3d099d436894ddfcec15fcbdf3,2026-03-20 11:00:02.281,,,trading_competition,not stated,other or none,False,False
+9d6b1a54c0854bc58381ca5752f74e39,2026-03-23 02:00:09.390,,,learn_quiz,not stated,USDC,False,False
+f95c547012f24042b1b692aa1865f2e2,2026-03-24 08:00:05.472,,,earn_apr,CIS,USDT,False,False
+b8bd2509c81b411b9029b2e45e71a7a1,2026-03-24 09:30:00.000,,,other,not stated,USDT,False,False
+3f3fb7526a1a42268659879b2130966f,2026-03-25 01:00:00.000,,,deposit,not stated,USDT,False,False
+ac91a033a68a45a4b3e190b13e5f11a5,2026-03-25 04:30:05.906,,,earn_apr,not stated,other or none,False,False
+a9f507ab1c00425eb666c1ff8423077f,2026-03-25 06:00:10.437,,,other,not stated,other or none,False,False
+8971bf1f7cc64e30a35aebb0006d6e9a,2026-03-25 11:00:02.077,,,trading_competition,not stated,other or none,False,False
+c871cb5293ff4f4085eb4913faf33610,2026-03-26 08:00:01.857,,,trading_competition,not stated,other or none,False,False
+f2ca5a737de9405f881a5c44a6e1db39,2026-03-26 10:00:02.317,,,other,not stated,other or none,False,False
+1ba607f354374d4f8d9c67887394ca80,2026-03-26 11:00:03.416,,,trading_competition,not stated,other or none,False,False
+505050b659b341bf97268a9718c075af,2026-03-26 13:30:00.000,,,other,SOUTH_ASIA,other or none,False,False
+d4d161abef6a44f89ac7727459aad1a0,2026-03-27 04:19:07.509,,,referral,MENA,other or none,False,False
+04d69e003d6e4f458ab39c4021f01e49,2026-03-27 05:00:00.800,,,pay,not stated,other or none,False,False
+8a14fe63b4d44442a77b957c653e8bb5,2026-03-27 05:30:00.000,,,other,not stated,USDT,False,False
+bed7e1e7464e4569ad1a8851fd7740ec,2026-03-27 08:30:01.662,,,trading_competition,not stated,other or none,False,False
+9437de361c8c4ecfbad74842a9931676,2026-03-27 11:00:01.365,,,trading_competition,not stated,other or none,False,False
+53f9992190244fae85948661d949be54,2026-03-30 04:00:01.194,,,earn_apr,not stated,other or none,False,False
+39d86ad82df54ddab48588518e435287,2026-03-30 05:00:03.866,,,earn_apr,not stated,ETH,False,False
+07e6ac67060f4767bc5bdde24bbfc03f,2026-03-31 00:00:00.000,,,earn_apr,not stated,USDC,False,False
+edd7441bd22841229e8eec5f93eda64a,2026-03-31 01:00:00.000,,,earn_apr,not stated,USDC,False,False
+d71be6df0c544d799abc9281b7381187,2026-03-31 09:30:03.193,,,trading_competition,not stated,USDT,False,False
+bc8831c358ae4aa6979ef3c78196258e,2026-03-31 10:00:07.439,,,trading_competition,not stated,other or none,False,False
+95596f18a1444f8ba49acc9ce8219e79,2026-03-31 11:00:07.153,,,trading_competition,not stated,other or none,False,False
+599c19e39a06492ea401f6f020f88eae,2026-03-31 13:00:05.154,,,other,not stated,BTC,False,False
+7ee3440f818a49c198e0e9494429429e,2026-04-01 02:00:09.598,,,earn_apr,not stated,USDC,False,False
+08e353752b564eb5b0a494f143e68a5c,2026-04-01 03:00:17.133,,,earn_apr,not stated,USDC,False,False
+7b7d79ae142542198e156faac7ade035,2026-04-01 10:00:07.749,,,p2p,SOUTH_ASIA,other or none,False,False
+f1e9fd68377e4931b624ac8970ba1c41,2026-04-01 11:30:01.678,,,trading_competition,not stated,other or none,False,False
+ca0de370ce8d494d9c1264839f9c9ade,2026-04-02 00:00:00.000,,,earn_apr,MENA,USDT,False,False
+73375089a08d4fc584403eaef5ae50e5,2026-04-02 02:00:09.684,,,other,not stated,USDC,False,False
+82cc6245943544a991166bb291e73200,2026-04-02 08:00:09.399,,,trading_competition,not stated,other or none,False,False
+eb869390277a4248802e3f87b9619387,2026-04-02 09:00:11.964,,,learn_quiz,not stated,other or none,False,False
+983a39d9c873427cae1cb8da8ff5acf7,2026-04-02 12:00:00.000,,,other,not stated,other or none,False,False
+867621f705cc49ed8fdb282b02b21500,2026-04-03 12:00:00.000,,,other,not stated,USDC,False,False
+c3a2698c5b3c404c89033fd08e9832b7,2026-04-06 02:00:20.954,,,learn_quiz,not stated,BNB,False,False
+32efafb3054746d28c82d8023ae52465,2026-04-06 04:00:13.424,,,referral,not stated,other or none,False,False
+fc74f82d4d114221a12d9b114456536b,2026-04-06 08:00:12.937,,,alpha,not stated,other or none,False,False
+586c9ff1b7d1489f8c31a0523517690f,2026-04-07 00:00:00.000,,,learn_quiz,not stated,BTC,False,False
+9aaf058de7d4481b921521df43135af6,2026-04-08 09:00:05.220,,,trading_competition,not stated,other or none,False,False
+160d82e445b6486489058d0c02070fe2,2026-04-09 09:00:58.125,,,learn_quiz,not stated,other or none,False,False
+1b8af58210ce44d0b120bc5a809efa8b,2026-04-09 09:30:13.452,,,trading_competition,not stated,other or none,False,False
+99c964d5f1494d0b8822403ca6c92877,2026-04-09 11:00:00.000,,,trading_competition,not stated,other or none,False,False
+35509d42de1645c097371c651936f78e,2026-04-09 12:00:04.096,,,trading_competition,not stated,other or none,False,False
+55f57d60bcf841b191379ee3cd25189f,2026-04-10 02:00:12.638,,,earn_apr,not stated,other or none,False,False
+5205ebd249224b7c8805a4593370f8bb,2026-04-10 08:00:01.264,,,other,MENA,other or none,False,False
+fe2b0d2853004943aba45f2e87a4081c,2026-04-10 09:00:07.441,,,other,not stated,BTC,False,False
+956113e442ac4e88be4671124b3cdb68,2026-04-10 11:00:01.195,,,trading_competition,not stated,other or none,False,False
+9cff79daf60046baa1b52d1796470e63,2026-04-13 03:00:04.968,,,learn_quiz,not stated,BNB,False,False
+b09d1bb86e6a4110a3df581e1fdac68a,2026-04-13 12:00:04.363,,,other,LATAM,USDC,False,False
+018fa674fd8b4206b3bcdc97c32a070a,2026-04-14 01:00:00.000,,,other,MENA,other or none,False,False
+3fe109b131d047c7a6f1b1862b8c2e74,2026-04-14 03:00:08.721,,,trading_competition,EU,USDC,False,False
+7249f7f6fa274ab4a735609bab682c89,2026-04-14 05:00:14.221,,,earn_apr,not stated,other or none,False,False
+111c00b8c5904ae29d97c9d669936d66,2026-04-14 09:00:04.091,,,other,not stated,other or none,False,False
+4dac55c1d95b4e9f942fc39143b175f0,2026-04-14 10:00:01.334,,,earn_apr,not stated,other or none,False,False
+a8f2a1de9081455182208c0bafc97b94,2026-04-15 00:00:13.084,,,p2p,LATAM,USDT,False,False
+0c1226f1e3e04b3eabb7ee96fa4e142e,2026-04-15 01:30:00.000,,,other,MENA,other or none,False,False
+2b410dc9ef094cbb9c39e96b25720d1e,2026-04-15 08:30:02.579,,,earn_apr,not stated,other or none,False,False
+e4447c854c944edba03a1fb307fc9abe,2026-04-15 11:00:05.837,,,trading_competition,not stated,other or none,False,False
+b9e462074a934883b0d36ad8b478a274,2026-04-15 11:30:27.250,,,trading_competition,not stated,USDC,False,False
+6622f0b2f37b46ce9009e86e4914d551,2026-04-16 01:00:00.000,,,earn_apr,not stated,other or none,False,False
+99a4837f27f34a2a907acdbb44110eee,2026-04-16 03:00:09.386,,,earn_apr,EU,USDT,False,False
+ad1beda5cf834a8da638c67f8c38db6c,2026-04-16 09:00:59.389,,,earn_apr,not stated,USDC,False,False
+5cfe769110d242f68b1996cf09b15041,2026-04-16 10:00:01.053,,,trading_competition,not stated,other or none,False,False
+a697faab2f6e4216b6cf1ee06debec6e,2026-04-16 11:00:00.000,,,trading_competition,not stated,other or none,False,False
+49bca20b219744ac8c92f329ea264769,2026-04-17 11:00:08.321,,,trading_competition,not stated,other or none,False,False
+e1ce6ea9a5b34f20853bd6c597600e33,2026-04-20 02:00:10.077,,,tokenized_stock,not stated,tokenized stock,False,False
+2291607643f44f50ad6544e9e052d66d,2026-04-21 11:00:16.375,,,trading_competition,not stated,other or none,False,False
+e683874e195e441c9b8568d8994491f2,2026-04-22 02:00:07.148,,,other,not stated,BTC,False,False
+afc920d9261141d4b8100aca5445cc65,2026-04-22 10:00:02.630,,,other,not stated,other or none,False,False
+45d18eba4efd40e4b0d8b22ae97ef5a6,2026-04-22 11:00:25.002,,,trading_competition,not stated,other or none,False,False
+36bda2870aef41ee9ed9b507a9be1132,2026-04-23 08:00:17.327,,,tokenized_stock,not stated,tokenized stock,False,False
+93f7a45848624674aecc424f479de66c,2026-04-23 10:00:03.146,,,trading_competition,not stated,BNB,False,False
+284add8252634349920b1e0c5f92563d,2026-04-24 11:00:00.000,,,trading_competition,not stated,other or none,False,False
+ee89d162ce5046bfacc0fa9a9effa7cb,2026-04-27 02:00:07.182,,,learn_quiz,not stated,BNB,False,False
+ab57e99e7a824f8faa549f45d0f86d3b,2026-04-27 04:00:08.395,,,earn_apr,not stated,other or none,False,False
+ad520eedd240425a859c5c6f8be49368,2026-04-28 03:00:30.439,,,earn_apr,not stated,other or none,False,False
+a92dcfd80ec2455a84e32a17011273ec,2026-04-28 11:00:05.765,,,trading_competition,not stated,other or none,False,False
+686a9950399440a19c73940768b2c92b,2026-04-29 06:00:03.250,,,earn_apr,not stated,other or none,False,False
+849cb4ba45f542fca49502dce5930e72,2026-04-29 11:00:01.784,,,trading_competition,not stated,other or none,False,False
+7139808b68ca4f498529a1aaec8d39eb,2026-04-30 04:00:15.563,,,earn_apr,not stated,BNB,False,False
+cc292e6d58824f1cbc8d43074f7b521c,2026-04-30 07:30:00.000,,,deposit,AFRICA,other or none,False,False
+1f106c50d90143b8a171d56267a35b98,2026-04-30 08:30:02.457,,,earn_apr,not stated,USDC,False,False
+1f4d3748796348679d6287d06527bbcc,2026-04-30 09:00:01.663,,,learn_quiz,not stated,other or none,False,False
+2ef9da217b8a4507a33861f4b74795f8,2026-04-30 11:00:04.274,,,trading_competition,not stated,other or none,False,False
+07f001ac2f8e4d6bad52f048319d0281,2026-04-30 13:00:02.749,,,other,not stated,other or none,False,False
+2b8cfb6a3f8c4619941762b51c0df9c5,2026-05-04 02:00:19.556,,,learn_quiz,not stated,BNB,False,False
+5695820aac264ca581a495d3fcf39c57,2026-05-04 03:00:03.520,,,earn_apr,not stated,USDC,False,False
+d46e5d2d23b74a9190712dee0c2dfeda,2026-05-04 06:00:07.092,,,earn_apr,not stated,ETH,False,False
+cf8b50ae62804c34aac6655e79527c71,2026-05-05 08:00:13.551,,,trading_competition,not stated,USDC,False,False
+bfb5df6ee56d4e3aacfb8d8ab348154a,2026-05-06 12:50:02.586,,,alpha,not stated,other or none,False,False
+c82eeb12c91f449db5976e8ba34bc017,2026-05-07 03:30:11.321,,,other,not stated,USDC,False,False
+854ba3fda59648799882ff19b5296645,2026-05-07 04:00:00.000,,,new_user,not stated,other or none,False,False
+f7cdedc3f3674af8bb15b67f22a42484,2026-05-07 09:00:24.993,,,trading_competition,not stated,USDC,False,False
+5b482a9d06224b4bab5cd4dad61e105e,2026-05-07 12:00:00.000,,,referral,MENA,other or none,False,False
+bba9db9ababa45cfa1ff01089f3c054b,2026-05-07 13:00:00.000,,,earn_apr,SOUTH_ASIA,USDT,False,False
+12d1f3ca1f634f1cada6f5af4204335e,2026-05-07 13:30:27.121,,,alpha,not stated,other or none,False,False
+d3258bc7bde244e2befeef920c271aca,2026-05-08 00:00:00.000,,,learn_quiz,not stated,BTC,False,False
+885aa54f17f6403ab5e1e2a7dfacdc31,2026-05-08 09:00:03.958,,,trading_competition,not stated,USDC,False,False
+c28105c68ab8435782ad1a7f4ba91755,2026-05-11 02:00:07.557,,,learn_quiz,not stated,BNB,False,False
+c69df76199414522975101cd5c344b3c,2026-05-11 11:00:02.380,,,trading_competition,not stated,other or none,False,False
+75d59759c5024327990ddec46a8defce,2026-05-12 04:00:06.532,,,other,CIS,other or none,False,False
+488dcf2c67de435a92ad65dfb8e5dcd1,2026-05-12 08:00:02.428,,,learn_quiz,not stated,other or none,False,False
+b3c24fa5f066482ebc1e9ea0975b5c85,2026-05-12 09:00:02.656,,,trading_competition,not stated,other or none,False,False
+8e048c79c4a44742b2a68974114c9fd1,2026-05-12 11:00:17.698,,,trading_competition,not stated,other or none,False,False
+bc6df0f50c824898986e2ef3649ee1c9,2026-05-12 12:00:06.660,,,other,not stated,USDC,False,False
+814f470c6bb94eccb52f3074e0a0bc6e,2026-05-13 06:00:02.569,,,pay,not stated,other or none,False,False
+1f60c997f57a48799dd9a825aa684684,2026-05-13 09:00:02.282,,,trading_competition,not stated,other or none,False,False
+2d66810bc904445d91664881fc11f5cb,2026-05-13 10:00:06.888,,,earn_apr,not stated,other or none,False,False
+bf793514a237434fa54283446e15642b,2026-05-13 11:30:00.000,,,other,not stated,USDC,False,False
+e99478de2ee44582b8486a037a749c16,2026-05-14 08:00:03.440,,,earn_apr,not stated,other or none,False,False
+f6de7292f05f4f2889e584ee56489929,2026-05-14 08:30:01.619,,,pay,not stated,other or none,False,False
+95c45dbd9cbf45638e3a4e77e80997f0,2026-05-14 09:00:05.225,,,trading_competition,not stated,BNB,False,False
+200f578fd45a444b86a4ae606e610b43,2026-05-14 11:00:10.363,,,trading_competition,not stated,other or none,False,False
+bc4c1ad00cf2407585cea88267d6b52a,2026-05-15 06:00:00.000,,,pay,not stated,other or none,False,False
+1f121982fa274ff2b2cc5c0b6ea11188,2026-05-15 08:00:00.000,,,other,MENA,USDC,False,False
+c3f7c671a947412382d9f846e0d7807e,2026-05-15 10:30:00.000,,,trading_competition,not stated,other or none,False,False
+b7fb47cf332e4c9f88845d5029cf8477,2026-05-18 02:00:13.210,,,learn_quiz,not stated,BNB,False,False
+8afaeead63be4e60a7761ce2985c3f7e,2026-05-18 06:00:14.249,,,earn_apr,not stated,other or none,False,False
+885bf400aeb84ae58cdb5ebc99469e2e,2026-05-18 12:00:05.883,,,tokenized_stock,not stated,tokenized stock,False,False
+ade08dbb9a864b05a6c17938de0cb775,2026-05-19 00:00:00.000,,,referral,SOUTH_ASIA,USDT,False,False
+f7f900db713e47cfa4debc6daa463484,2026-05-19 01:00:00.000,,,other,SOUTH_ASIA,USDT,False,False
+e9821f5759ab492ab8b5011af8581bf7,2026-05-19 09:00:07.170,,,other,not stated,USDC,False,False
+e8ec43cff15b40abb19bfc6bc4eb3c44,2026-05-19 11:00:04.437,,,trading_competition,not stated,other or none,False,False
+0f5052a81d0c47e1bbea498f126cb3c7,2026-05-19 13:45:03.705,,,alpha,not stated,other or none,False,False
+1116de17858d4a728bc35652b2db3d02,2026-05-20 06:00:06.219,,,other,not stated,USDC,False,False
+9c1b1376ee9f4858827fd75c7888f932,2026-05-20 09:00:06.365,,,trading_competition,not stated,BNB,False,False
+53955422b73546ba8eff646c69c8e64f,2026-05-20 11:00:01.693,,,trading_competition,not stated,other or none,False,False
+d785efc87b1a4632a5f990d3eb7b68b8,2026-05-21 02:00:02.767,,,other,not stated,USDT,False,False
+da0e08059ad64d40bf9743077bcbabbf,2026-05-21 09:00:11.391,,,trading_competition,not stated,BNB,False,False
+575b91fc8f49430a93ced66e6236b70d,2026-05-21 12:00:00.000,,,other,not stated,USDC,False,False
+9d5beee15d8b4219bb643071b223b607,2026-05-22 00:00:00.000,,,other,not stated,BTC,False,False
+b0ebc825228848e3a3a8a77f33efc1c0,2026-05-22 06:00:03.323,,,other,not stated,other or none,False,False
+c953f2ee497d449aad65e21b36df2aa1,2026-05-22 09:00:05.046,,,trading_competition,not stated,BNB,False,False
+076cb95fec7a4b0d94b13bc3379ce2b0,2026-05-22 11:00:00.000,,,trading_competition,not stated,other or none,False,False
+8a6408922e3c41369ebca2615e3ac75b,2026-05-25 02:00:08.349,2026-05-25 00:00:00,2026-05-31 23:59:00,learn_quiz,not stated,BNB,True,True
+4e621e14484e4130adb6f1c4ad034fbd,2026-05-25 03:00:13.074,2026-06-01 00:00:00,2026-08-30 23:59:00,other,not stated,other or none,True,True
+89a6fcb7fcf14806aaaba95e988503b7,2026-05-25 09:00:03.126,2026-05-25 09:00:00,2026-06-08 23:59:00,other,not stated,other or none,True,True
+a30ba3528d8b4e3881bcb30124235cd1,2026-05-26 10:00:07.430,2026-05-26 11:00:00,2026-06-09 11:00:00,trading_competition,not stated,other or none,True,True
+e719094bd91844a39a5ea5866a1bd19d,2026-05-26 11:00:03.214,2026-05-26 13:00:00,2026-06-02 13:00:00,trading_competition,not stated,other or none,True,True
+934f3858653f4ec2aa9616878aa4cf42,2026-05-27 09:00:02.828,2026-05-27 10:00:00,2026-06-10 10:00:00,trading_competition,not stated,other or none,True,True
+8313e84b32174279957aca371d856ad6,2026-05-28 02:00:01.895,2026-06-01 00:00:00,2026-08-31 23:59:00,other,not stated,USDT,True,True
+ef7615a969c24884933aa2b22a9f365c,2026-05-28 04:00:02.406,2026-05-28 00:00:00,2026-06-11 23:59:59,earn_apr,not stated,other or none,True,True
+0c9c0beefac5476caf698fa273fc2750,2026-05-28 11:00:02.181,2026-05-28 13:00:00,2026-06-04 13:00:00,trading_competition,not stated,other or none,True,True
+db2abfa716de40cd930400ad418583a4,2026-05-28 13:45:01.614,2026-05-28 14:00:00,2026-06-04 14:00:00,alpha,not stated,other or none,True,True
+5c0d0e98e48f45c1a2324d268e41c212,2026-05-29 01:00:00.000,,,other,CIS,USDT,True,True
+5060780cb3194a2c98033b05f63b9105,2026-05-29 03:00:08.442,2026-05-28 09:00:00,2026-06-25 23:59:00,referral,EU,USDT,True,True
+0e9b4c9a121245bb8afbcd0a9143d55a,2026-05-29 09:00:01.751,2026-05-29 10:00:00,2026-06-05 10:00:00,trading_competition,not stated,BNB,True,True
+ee4bbdd56a9442cfbf240ea0a9b68a87,2026-06-01 02:00:01.585,2026-06-01 02:00:00,2026-06-30 23:59:00,earn_apr,not stated,USDC,True,True
+562eda74c3594ba5aa0b2845059c3f0f,2026-06-01 03:00:01.173,2026-06-01 00:00:00,2026-06-07 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+a22eb935351242ecae875d8d41ef6bac,2026-06-01 04:30:02.575,2026-06-01 00:00:00,2026-06-30 23:59:59,earn_apr,not stated,USDC,True,True
+0e44fa8e6d544a7b87b0afa5b2a6e6c9,2026-06-01 08:30:03.393,2026-06-01 00:00:00,2026-08-31 23:59:00,other,not stated,other or none,True,True
+4f6df39ceb71439b979c961c31cc20e9,2026-06-01 09:00:03.206,2026-06-01 09:00:00,2026-06-15 23:59:00,other,not stated,other or none,True,True
+1424dbadd9fb45b7a191b60fe65b6861,2026-06-01 10:30:02.046,2026-06-01 09:00:00,2026-06-01 23:59:00,other,not stated,USDC,True,True
+353b1d7ce07546bc8bf8d32da22dfc06,2026-06-01 11:00:02.542,,,p2p,not stated,other or none,True,True
+dee030ef33fd477d84a380e142eda0cf,2026-06-02 09:30:03.368,2026-06-02 10:00:00,2026-06-09 10:00:00,trading_competition,not stated,USDC,True,True
+4511697adf3f4767811c923cba7ee3b7,2026-06-02 10:00:03.242,2026-06-02 10:00:00,2026-06-30 23:59:00,trading_competition,not stated,USDC,True,True
+900452675ca546b784aede1ea4dd1b24,2026-06-02 13:00:00.000,2026-06-02 00:00:00,2026-07-01 23:59:00,pay,not stated,other or none,True,True
+623b1a7037a0471c9be319738d479a6b,2026-06-03 03:30:31.213,,,other,not stated,other or none,True,True
+2504fae5fa1d474caf9233f0b39e76c0,2026-06-03 06:00:03.192,2026-06-03 00:00:00,2026-06-30 23:59:00,deposit,not stated,USDC,True,True
+01972f67daab43968fd656acb07ca265,2026-06-03 07:30:21.038,2026-06-04 00:00:00,2026-06-17 23:59:59,earn_apr,not stated,other or none,True,True
+92359220692b4bf4b4b32514f2777e31,2026-06-03 07:45:01.768,2026-06-03 10:00:00,2026-06-10 10:00:00,tokenized_stock,not stated,tokenized stock,True,True
+e187a603a2084c4cafe8acd651dca160,2026-06-03 08:05:17.590,2026-06-03 12:00:00,2026-06-30 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+77b2ebc98e9948a5bcf371143dd8084d,2026-06-03 09:00:11.789,2026-06-03 10:00:00,2026-06-10 10:00:00,trading_competition,not stated,BNB,True,True
+711c92f75e4a4a74a21060ca4c8bcffb,2026-06-03 12:00:15.044,2026-06-03 12:00:00,2026-06-23 12:00:00,alpha,not stated,other or none,True,True
+7c272e07830b47fa9378827c5b15de81,2026-06-04 03:30:01.839,2026-06-04 00:00:00,2026-07-03 23:59:59,earn_apr,not stated,USDT,True,True
+30f2af3a81a44defa911befcda238531,2026-06-04 09:00:07.904,2026-06-04 10:00:00,2026-06-11 10:00:00,trading_competition,not stated,other or none,True,True
+e48ee189805b49d099648f496916bcfe,2026-06-04 09:30:01.222,2026-06-04 09:30:00,2026-06-12 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+0f4e34d888884475ba1a240c8ccf674e,2026-06-04 10:00:09.302,,,learn_quiz,not stated,BTC,True,True
+e03b8b6a88284e579613a37542b5eb7c,2026-06-04 11:00:01.807,2026-06-04 13:00:00,2026-06-11 13:00:00,trading_competition,not stated,other or none,True,True
+eca06eb25ae84824bfb3ee9ba0d40587,2026-06-05 05:00:01.789,2026-06-05 07:00:00,2026-06-12 07:00:00,trading_competition,not stated,other or none,True,True
+f77415d58adf45dea6eff161bc62d686,2026-06-05 06:00:06.697,2026-06-05 06:00:00,2026-06-12 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+941cc5e46d3a4d1b8ee6c8e99fb1c476,2026-06-08 02:00:13.351,2026-06-08 00:00:00,2026-06-14 23:59:00,tokenized_stock,not stated,tokenized-stock voucher,True,True
+9ee205049edd4b91887b8610bce0c2ab,2026-06-08 09:00:09.337,2026-06-09 00:00:00,2026-06-22 23:59:59,earn_apr,not stated,other or none,True,True
+92b1c5c7761443309c8594185a5e8989,2026-06-09 03:45:03.993,,,trading_competition,not stated,USDT,True,True
+5c7529d7556d4702b12698a276dc3bdd,2026-06-09 09:00:05.860,2026-06-09 10:00:00,2026-06-16 10:00:00,trading_competition,not stated,BNB,True,True
+4d7669d3008048cabadc23701bc6dce6,2026-06-09 11:00:04.334,2026-06-09 13:00:00,2026-06-16 13:00:00,trading_competition,not stated,other or none,True,True
+3aa1f4a3fe1344ff8f5e9335269c881f,2026-06-10 06:00:08.739,2026-06-10 04:00:00,2026-06-30 23:59:00,referral,SOUTH_ASIA,USDT,True,True
+39e4f49b1f3e4f968a5ead463c74d2cd,2026-06-10 07:45:03.067,,,trading_competition,not stated,other or none,True,True
+08e5e3d8310242e5a2294b805af47d85,2026-06-10 08:00:02.186,2026-06-10 08:00:00,2026-06-30 23:59:00,referral,MENA,USDC,True,True
+836fb54e92044caab159c342222dfabb,2026-06-10 09:00:01.187,2026-06-10 10:00:00,2026-06-17 10:00:00,trading_competition,not stated,USDC,True,True
+a6f02526afd1466ab72fe29af4c84c67,2026-06-10 13:30:02.840,2026-06-10 08:00:00,2026-07-19 23:59:00,other,not stated,other or none,True,True
+d87800f67afd4f31967a34f358728e40,2026-06-11 01:30:00.981,2026-06-11 00:00:00,2026-06-12 04:00:00,tokenized_stock,not stated,tokenized stock,True,True
+7abcbc45826e4b00869ade38d3b1d45f,2026-06-11 09:00:08.901,,,trading_competition,not stated,other or none,True,True
+a579d765812442698feded872cdff712,2026-06-11 09:30:04.976,2026-06-11 10:00:00,2026-06-18 10:00:00,trading_competition,not stated,USDC,True,True
+76d2b291ccda473a81ed1aecf1e1304f,2026-06-11 10:00:20.201,2026-06-11 10:00:00,2026-06-18 10:00:00,other,not stated,USDT,True,True
+08a45ae29cc94500bd71c91f8f626b13,2026-06-11 10:30:09.559,2026-06-11 13:00:00,2026-06-18 13:00:00,trading_competition,not stated,other or none,True,True
+d9c3577e8ed249a88af7ec55a3d3a284,2026-06-12 04:00:07.622,2026-06-12 04:00:00,2026-06-21 23:59:00,referral,not stated,other or none,True,True
+aeac1e4214324ba886e698a422e02179,2026-06-12 06:30:02.925,2026-06-12 06:00:00,2026-06-18 12:00:00,trading_competition,not stated,other or none,True,True
+ff188abbdcd74f3fa8f94de32c27ce87,2026-06-12 07:45:03.063,,,trading_competition,not stated,USDT,True,True
+c73710dcc9b14c68ba0e117e3c03ca0d,2026-06-12 08:00:02.036,2026-06-14 00:00:00,2026-07-14 23:59:00,earn_apr,not stated,other or none,True,True
+fb059dad6e4f47178e054fe47cc3ca52,2026-06-12 09:00:01.960,2026-06-12 10:00:00,2026-06-19 10:00:00,trading_competition,not stated,USDC,True,True
+d4ffb99dbaae432fa096523a6138c709,2026-06-12 11:00:16.126,2026-06-12 13:00:00,2026-06-19 13:00:00,trading_competition,not stated,other or none,True,True
+2ad1574014174cf3aabc0c6d5847ed5a,2026-06-12 13:54:50.356,2026-06-12 00:00:00,2026-07-10 00:00:00,other,not stated,other or none,True,True
+ff84d61931b44acabd8e6b3011c51ad8,2026-06-15 02:00:02.982,2026-06-15 01:47:00,2026-06-21 23:59:00,learn_quiz,not stated,BNB,True,True
+52894c62b6544e2d9bf8844178e31c7f,2026-06-15 08:30:14.286,2026-06-15 12:00:00,2026-06-25 23:59:00,trading_competition,not stated,USDC,True,True
+070d72e55f4c40e1b7710c2ff2ad2903,2026-06-15 09:00:02.816,2026-06-15 09:00:00,2026-06-30 23:59:00,other,not stated,other or none,True,True
+242bc0b233dc4f02a749a10060680a69,2026-06-16 07:00:04.730,2026-06-17 00:00:00,2026-07-16 23:59:00,other,CIS,USDC,True,True
+e219edb4f42644fba4a3a4d987746229,2026-06-16 09:30:08.229,2026-06-16 10:00:00,2026-06-23 10:00:00,trading_competition,not stated,BNB,True,True
+6da78dd5f06c441ba03f974321dc46f3,2026-06-16 11:00:03.235,2026-06-16 13:00:00,2026-06-23 13:00:00,trading_competition,not stated,other or none,True,True
+ab475d376fd2456ab0b83c375632db85,2026-06-17 09:00:02.165,2026-06-17 10:00:00,2026-06-24 10:00:00,trading_competition,not stated,USDC,True,True
+779d6a90d90243c19c52aed82936148f,2026-06-17 11:00:02.559,2026-06-17 13:00:00,2026-06-24 13:00:00,trading_competition,not stated,other or none,True,True
+95675adbaf01430dbcc0da662430e526,2026-06-18 03:00:08.325,2026-06-18 00:00:00,2026-08-18 23:59:59,earn_apr,CIS,USDT,True,True
+d4bfeee372e84c9e9fa70558c547a510,2026-06-18 04:00:02.518,2026-06-19 00:00:00,2026-07-02 23:59:59,earn_apr,not stated,other or none,True,True
+2526d2ed10c14a34a4fa467b34c47ba2,2026-06-18 05:00:01.745,,,earn_apr,not stated,USDC,True,True
+ce15da8a3a6647ecbbf1a1e45e8dcee5,2026-06-18 06:00:01.406,2026-06-18 06:00:00,2026-06-24 23:59:00,other,not stated,USDC,True,True
+8eaa281b417541ff8f2b78d632b2d908,2026-06-18 09:00:02.971,2026-06-18 10:00:00,2026-06-25 10:00:00,trading_competition,not stated,BNB,True,True
+4f2ca54fc30c48d6a147060f3cc33d84,2026-06-19 08:30:07.549,,,trading_competition,EU,USDC,True,True
+fa211572d953433da7f6d39b7f184a72,2026-06-19 09:00:06.457,2026-06-19 10:00:00,2026-07-03 10:00:00,trading_competition,not stated,other or none,True,True
+8550a50c2d314dc3bdfc2c29fc9cf46a,2026-06-22 02:00:11.231,,,learn_quiz,not stated,BNB,True,True
+d436942bb64949ceb83a20cb5c111076,2026-06-22 12:00:01.843,2026-06-22 13:00:00,2026-06-29 13:00:00,trading_competition,not stated,other or none,True,True
+65009efe004541f8bff156127e320a21,2026-06-23 09:00:02.623,2026-06-23 10:00:00,2026-06-30 10:00:00,trading_competition,not stated,other or none,True,True
+a732ac1b1ebe4bd5a1a1a2d235ef4b14,2026-06-23 11:00:03.326,2026-06-23 13:00:00,2026-06-30 13:00:00,trading_competition,not stated,other or none,True,True
+03158af530cf4b5dabcfce813c7b1ba5,2026-06-24 04:00:02.953,2026-06-24 00:00:00,2026-07-14 23:59:00,earn_apr,not stated,other or none,True,True
+8f98d7ab3dbf4933ba4db5abbb9e876a,2026-06-24 07:45:02.360,,,trading_competition,not stated,USDT,True,True
+0185629496dc4de68ec4fedf550f3d55,2026-06-24 09:00:03.370,2026-06-24 10:00:00,2026-07-01 10:00:00,trading_competition,not stated,BNB,True,True
+3844a2dd88e347bebd00ea5aa8d99ac4,2026-06-25 09:00:08.002,2026-06-25 10:00:00,2026-07-05 10:00:00,trading_competition,not stated,USDC,True,True
+e8f70e77ae8944c8af486bcbacbc4814,2026-06-25 11:00:27.300,2026-06-25 13:00:00,2026-07-02 13:00:00,trading_competition,not stated,other or none,True,True
+52433165aa0d468d890f31256eb6b6a0,2026-06-26 07:00:06.298,2026-06-25 00:00:00,2026-07-31 23:59:00,other,MENA,USDC,True,True
+3131a634e28e49bcab073cc2009f8467,2026-06-26 08:00:03.964,2026-06-26 08:00:00,2026-07-25 23:59:00,other,not stated,other or none,True,True
+d6821242f0d44c7388a42e4514154496,2026-06-26 08:30:02.210,2026-06-27 00:00:00,2026-07-26 23:59:59,earn_apr,not stated,other or none,True,True
+330f735230b7417094a5965fc8981879,2026-06-29 01:00:15.617,,,tokenized_stock,not stated,tokenized stock,True,True
+718e3eb2f4814b2681c93fb8d029da74,2026-06-29 04:00:16.546,2026-06-29 00:00:00,2026-07-19 23:59:59,earn_apr,not stated,USDT,True,True
+28e0881a7f7144c0aa39636907f2520d,2026-06-29 09:00:13.219,2026-06-03 12:00:00,2026-08-31 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+25a9906f568e40ebb780af46e116f97d,2026-06-30 04:00:10.166,2026-06-30 04:00:00,2026-08-12 23:59:00,other,TR,other or none,True,True
+179adc4fdfc2468f8169dff59e080b1c,2026-06-30 07:45:05.360,2026-06-30 08:00:00,2026-07-07 08:00:00,alpha,not stated,other or none,True,True
+5fa4b6801f7b49ceb1fb59e8aa5350b0,2026-06-30 09:00:06.544,2026-06-30 09:00:00,2026-07-14 23:59:00,other,not stated,other or none,True,True
+bfd2b9a404d341a1bab3a32b6ea547f3,2026-06-30 11:00:19.093,2026-06-30 13:00:00,2026-07-07 13:00:00,trading_competition,not stated,other or none,True,True
+8bd5ddf60dfe4d9c8dc670e386c79dfb,2026-07-01 02:30:15.054,2026-06-26 06:00:00,2026-07-03 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+49d0ae460a9e40009494d07b31577a30,2026-07-01 09:00:03.381,2026-07-01 10:00:00,2026-07-08 10:00:00,trading_competition,not stated,other or none,True,True
+55baa0469bad48b08e6bc64408e279ac,2026-07-01 10:00:09.444,2026-07-01 07:00:00,2026-09-30 23:59:00,earn_apr,not stated,USDC,True,True
+2b2c293b1e554409a10296ef396dc0ab,2026-07-01 11:00:20.769,2026-07-01 13:00:00,2026-07-08 13:00:00,trading_competition,not stated,other or none,True,True
+2d6508a405454beb8ebbb9e0f1a695fe,2026-07-02 02:00:17.735,,,other,not stated,other or none,True,True
+90e26b6eb0384a539c8834f75ac616f8,2026-07-02 03:00:06.335,2026-07-02 00:00:00,2026-08-01 23:59:00,pay,not stated,other or none,True,True
+ee68888201534498962fc131dbb899c6,2026-07-02 09:00:25.506,2026-07-02 10:00:00,2026-07-09 10:00:00,trading_competition,not stated,BNB,True,True
+f8f894f86b0d4836b699e99876c878b3,2026-07-02 10:00:09.384,,,learn_quiz,not stated,BTC,True,True
+26a11cb577274c6389f8d9168423344f,2026-07-02 10:30:06.375,2026-07-02 09:00:00,2026-07-06 12:00:00,other,not stated,USDC,True,True
+a546b39c5a0f4bcca47eb6205f231a78,2026-07-03 02:00:08.257,2026-07-03 02:00:00,2026-07-10 02:00:00,trading_competition,not stated,other or none,True,True
+feec1f87990a4c4b8178e775a032645c,2026-07-03 04:00:01.982,2026-07-04 00:00:00,2026-07-17 23:59:59,earn_apr,not stated,other or none,True,True
+83f6266726634237a669ba3068abe5ae,2026-07-03 07:00:04.370,2026-07-03 07:00:00,2026-07-31 18:30:00,other,SOUTH_ASIA,other or none,True,True
+ed092b235d3148b79f5efce47e35bb7c,2026-07-03 08:00:10.156,2026-07-03 08:00:00,2026-07-31 23:59:00,trading_competition,not stated,USDC,True,True
+eb57df665dd7472bb3f524b6d2e019ea,2026-07-03 09:00:21.991,2026-07-03 10:00:00,2026-07-10 10:00:00,trading_competition,not stated,BNB,True,True
+1e08e39c92954a3a8c4ac0854e142b69,2026-07-03 10:30:26.549,2026-07-03 13:00:00,2026-07-10 13:00:00,trading_competition,not stated,other or none,True,True
+a73d2e16c9e14b37b8632e44acfd3162,2026-07-03 11:00:01.744,2026-07-06 00:00:00,2026-08-04 23:59:59,alpha,not stated,other or none,True,True
+1be5da00e9c94aa38d740753e1a84134,2026-07-06 03:00:01.764,2026-07-06 00:00:00,2026-07-12 23:59:00,learn_quiz,not stated,BNB,True,True
+eee0cca2499749c5b3bc03f4b599e168,2026-07-06 06:00:09.424,2026-07-06 04:00:00,2026-07-24 23:59:00,other,not stated,other or none,True,True
+d3e48e4f8c144f1aaa7a1962196a7a1c,2026-07-06 09:02:35.851,2026-07-06 12:00:00,2026-07-15 23:59:00,other,not stated,USDC,True,True
+20e78bad531f4696a6e09536dddfea20,2026-07-07 02:00:01.393,2026-07-06 12:00:00,2026-08-02 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+f2ab20d34e8941e28b0bc7adc2dcbc78,2026-07-07 04:00:00.000,,,other,not stated,BNB,True,True
+4b0aab00e24a40c2a88d97faa85a6aaf,2026-07-07 08:00:02.049,2026-07-08 00:00:00,2026-07-31 23:59:59,earn_apr,not stated,USDC,True,True
+bfbd7302d6fb495bba1258498df889a9,2026-07-07 09:30:11.341,2026-07-07 10:00:00,2026-07-14 10:00:00,trading_competition,not stated,other or none,True,True
+958162f99c1d4cc6a7f7eaefb1d67587,2026-07-07 11:00:17.116,2026-07-07 13:00:00,2026-07-14 13:00:00,trading_competition,not stated,other or none,True,True
+17668cb55d4f4d09931f34b882a663b8,2026-07-08 09:00:16.429,2026-07-08 10:00:00,2026-07-22 10:00:00,trading_competition,not stated,USDC,True,True
+0e2174f5ddeb4f188aa4868b90387a2d,2026-07-08 11:00:28.938,2026-07-08 13:00:00,2026-07-15 13:00:00,trading_competition,not stated,other or none,True,True
+0df4d0cd429c4a42953ecc505a0d3aef,2026-07-08 15:00:35.841,2026-07-08 15:00:00,2026-07-20 23:59:00,trading_competition,not stated,USDC,True,True
+b43142711a154a669e5f3a012cbcc051,2026-07-09 02:00:14.891,2026-07-09 00:00:00,2026-08-09 23:59:00,earn_apr,not stated,other or none,True,True
+3373ca75019440c58535683d42229d79,2026-07-09 03:00:18.903,2026-07-10 00:00:00,2026-08-07 00:00:00,other,not stated,other or none,True,True
+5abba4a485074f469de641f6cad175e6,2026-07-09 09:00:04.489,2026-07-09 10:00:00,2026-07-16 10:00:00,trading_competition,not stated,other or none,True,True
+a8201185f12c4ef6a26ba8fca24e2f40,2026-07-09 10:00:03.858,2026-07-09 10:00:00,2026-08-07 23:59:00,earn_apr,not stated,other or none,True,True
+8a30c3d96b024789a5802e95babcd816,2026-07-09 13:00:07.036,2026-07-10 00:00:00,2026-08-09 23:59:00,other,not stated,USDC,True,True
+20d7824930534575a79719f6958f0123,2026-07-10 04:00:01.737,2026-07-10 08:00:00,2026-09-30 23:59:00,earn_apr,not stated,USDC,True,True
+d7890b9f64304869be494767c3df6d6c,2026-07-10 06:00:03.566,,,p2p,not stated,USDT,True,True
+6635af3aea7f45ada1f891f772b41174,2026-07-10 09:00:09.331,2026-07-10 10:00:00,2026-07-17 10:00:00,trading_competition,not stated,other or none,True,True
+6e011403a2884f3ebb2bc342e970440b,2026-07-10 11:06:29.309,2026-07-10 13:00:00,2026-07-17 13:00:00,trading_competition,not stated,other or none,True,True
+fa33c5a0d08c4cfc92e237b4ccf79456,2026-07-10 12:00:02.421,,,trading_competition,not stated,other or none,True,True
+5e65409efa694270bb079fcf2584515b,2026-07-13 02:00:13.079,2026-07-13 00:00:00,2026-07-19 23:59:00,learn_quiz,not stated,BNB,True,True
+b38bf72f55c94fe280c41fe1043411ab,2026-07-13 06:00:02.396,,,p2p,not stated,other or none,True,True
+8b608e16178f468f84d8d1f91cb8b6c7,2026-07-14 02:00:15.953,2026-07-15 00:00:00,2026-08-14 23:59:00,earn_apr,not stated,other or none,True,True
+538b4fb027b148adb786e008e1ad0b41,2026-07-14 08:00:02.232,2026-07-15 00:00:00,2026-08-13 23:59:59,earn_apr,not stated,other or none,True,True
+2cb12613b9ea45d09015145c875aa565,2026-07-14 09:00:11.907,2026-07-14 10:00:00,2026-07-20 23:59:00,trading_competition,not stated,BNB,True,True
+71a8504f9b47448f86a75bf000bb7576,2026-07-14 12:00:02.191,,,alpha,not stated,USDC,True,True
+6a4a290e9f394efe9fe4c473cd09b4a8,2026-07-15 09:00:59.618,2026-07-15 10:00:00,2026-07-22 10:00:00,trading_competition,not stated,other or none,True,True
+5c32601e5c27466ab39f36dadc258e0a,2026-07-15 09:30:02.060,2026-07-17 00:00:00,2026-08-14 00:00:00,earn_apr,not stated,XRP,True,True
+f99ae2a115d34c32a40522ea3398f787,2026-07-15 11:00:54.299,2026-07-15 13:00:00,2026-07-22 13:00:00,trading_competition,not stated,other or none,True,True
+0d76f6a8091c41b28b45e914174cebde,2026-07-16 04:00:10.292,2026-07-16 00:00:00,2027-01-15 23:59:00,earn_apr,not stated,other or none,True,True
+ad6b0fb9b2fa4671bb02346fbff2b6c2,2026-07-16 09:00:03.170,2026-07-16 10:00:00,2026-07-23 10:00:00,trading_competition,not stated,other or none,True,True
+ea3fc445d96e4c39bfe128e8291900cb,2026-07-16 10:00:01.956,2026-07-16 08:00:00,2026-07-31 23:59:00,other,not stated,other or none,True,True
+5e4f29a63bca4fa6998d3af5fd5fa848,2026-07-17 07:00:02.812,2026-07-18 00:00:00,2026-08-01 23:59:59,earn_apr,not stated,other or none,True,True
+a0f05249db3e4cb89549ce6093282684,2026-07-17 08:00:03.844,2026-07-17 08:00:00,2026-08-14 23:59:00,other,not stated,USDT,True,True
+d068e8f364f04eca9cc506f5a13a66d9,2026-07-17 09:00:12.524,2026-07-17 10:00:00,2026-07-24 10:00:00,trading_competition,not stated,other or none,True,True
+eff92b87a9504b59aad9ad54779f6e80,2026-07-17 10:00:04.896,,,tokenized_stock,not stated,tokenized stock,True,True
+c5dd00b8cb0d4f4abc73edd444e3e4c9,2026-07-17 11:00:26.522,2026-07-17 13:00:00,2026-07-24 13:00:00,trading_competition,not stated,other or none,True,True
+0d40f2d8e4d847afa2562b44d80e9c1a,2026-07-17 15:29:16.555,2026-07-17 15:20:00,2026-08-13 23:59:59,earn_apr,LATAM,USDT,True,True
+47e6cda338844080bac4fb94dd96d4b0,2026-07-20 02:00:06.894,2026-07-20 00:00:00,2026-07-26 23:59:00,learn_quiz,not stated,BNB,True,True
+d47df231285949a6ae6c7b4869d697db,2026-07-21 09:00:03.987,2026-07-21 10:00:00,2026-07-28 10:00:00,trading_competition,not stated,USDC,True,True
+b718aecb004740a6a5c5a7290fe70744,2026-07-21 11:00:16.018,2026-07-21 13:00:00,2026-07-28 13:00:00,trading_competition,not stated,other or none,True,True
+8d3eff236aaa43e29b5e033914cea5fa,2026-07-22 07:00:01.291,,,alpha,not stated,other or none,True,True
+2c5a3537246344c1b666565681efd28b,2026-07-22 09:00:16.655,2026-07-22 10:00:00,2026-07-29 10:00:00,trading_competition,not stated,BNB,True,True
+16a8223b13034f7a9c4647e062d16f8a,2026-07-22 11:00:08.506,2026-07-22 13:00:00,2026-07-29 13:00:00,trading_competition,not stated,other or none,True,True
+b6124272844e460188ba1efbb474af73,2026-07-23 02:00:01.337,2026-07-22 09:00:00,2026-07-28 23:59:00,other,not stated,USDC,True,True
+d8ccddf06721422d8ab4047b0a7f932a,2026-07-23 03:00:05.682,2026-07-23 03:00:00,2026-08-21 23:59:00,earn_apr,not stated,BTC,True,True
+8fcf21a47f144e468656fcd205999f85,2026-07-23 07:00:07.294,2026-07-23 00:00:00,2026-08-31 23:59:59,earn_apr,not stated,USDT,True,True
+59227a0d516c401aaf6f2511fead00d4,2026-07-23 08:00:01.479,2026-07-23 08:00:00,2026-12-31 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+b3df311811ba4af6b7b6e0ab21544faf,2026-07-23 09:00:23.482,2026-07-23 10:00:00,2026-07-30 10:00:00,trading_competition,not stated,USDC,True,True
+1685102ec71b4b578a75c12d857d9f90,2026-07-23 09:30:01.199,2026-07-23 09:00:00,2026-08-05 23:59:00,other,not stated,other or none,True,True
+4001837965804103976a2cfc554fbaa9,2026-07-23 10:00:04.904,2026-07-23 09:00:00,2026-08-31 09:00:00,learn_quiz,not stated,other or none,True,True
+cc164ab36d114ea2a123309c9bbed74f,2026-07-23 11:00:07.255,2026-07-23 13:00:00,2026-07-30 13:00:00,trading_competition,not stated,other or none,True,True
+1468751ad70446698e95491a208a1a64,2026-07-24 07:00:03.063,2026-07-24 00:00:00,2026-08-22 23:59:59,earn_apr,not stated,other or none,True,True
+99692347a9e24f7fa2063a35fc318a24,2026-07-24 10:00:27.811,2026-07-27 00:00:00,2026-08-26 23:59:59,earn_apr,not stated,other or none,True,True
+e667efc912174d7b90b01a8ed4d4ae7f,2026-07-27 02:00:12.598,2026-07-27 00:30:00,2026-08-02 23:59:00,learn_quiz,not stated,BNB,True,True
+01063ea9bd454e118318c4a12d241b20,2026-07-29 07:30:01.456,2026-07-29 00:00:00,2026-08-17 23:59:00,earn_apr,not stated,other or none,True,True
+8dd6bd395bce417fb514f5df5eaeacd1,2026-07-29 08:00:01.890,2026-07-29 10:00:00,2026-08-05 10:00:00,trading_competition,not stated,other or none,True,True
+ec2b40428ac84bcfb3819c712db6e494,2026-07-29 09:30:04.188,2026-07-28 12:00:00,2026-08-05 23:59:00,other,not stated,USDC,True,True
+f7a1a14b19384f8db81f1ff393a014f5,2026-07-29 09:45:41.870,2026-07-29 08:00:00,2026-08-14 23:59:00,new_user,not stated,BTC,True,True
+21f8a7399c2542e68452f266ecb0a8ef,2026-07-29 10:05:16.682,2026-07-29 11:00:00,2026-08-05 11:00:00,trading_competition,not stated,other or none,True,True
+a9cef16cad954bd7bc2c1103480c2cab,2026-07-29 14:10:07.978,2026-07-29 14:10:00,2026-08-11 13:00:00,new_user,LATAM,USDT,True,True
+9bac0161c049454588d06963a573b975,2026-07-30 08:00:05.331,2026-07-30 10:00:00,2026-08-06 10:00:00,trading_competition,not stated,other or none,True,True
+b935934fe980452fa96722ecaf30abde,2026-07-30 11:30:07.454,2026-07-30 13:00:00,2026-08-06 13:00:00,trading_competition,not stated,other or none,True,True
+389284fbb5cd47faa288bd169b6e210e,2026-07-31 07:00:02.652,,,p2p,AFRICA,USDT,True,True
+6288916a263146c6aa25deb6fc545245,2026-07-31 08:00:01.557,,,p2p,not stated,other or none,True,True
+7300566010cd46f5ba5f6b8ab0fe1afa,2026-07-31 09:00:01.662,2026-07-31 10:00:00,2026-08-07 10:00:00,trading_competition,not stated,other or none,True,True
+d672087469474a45bebd1da774e99d4b,2026-07-31 09:30:01.971,2026-08-02 00:00:00,2026-08-15 23:59:59,earn_apr,not stated,other or none,True,True
+7b29932ca94247f4b8147389d02f2e2a,2026-07-31 10:00:02.347,2026-08-01 00:00:00,2026-08-31 23:59:00,referral,not stated,USDC,True,True
+838d84c494834383a11537f02fda0e60,2026-07-31 13:00:09.869,2026-08-01 00:00:00,2026-08-31 23:59:00,trading_competition,not stated,USDC,True,True
+5b70a94972a14536be1baca3417a102d,2026-08-03 02:00:02.798,2026-08-03 00:00:00,2026-08-09 23:59:00,learn_quiz,not stated,BNB,True,True
+b71b7839dcc1442da2102f9fc3ee18ac,2026-08-03 07:00:02.897,2026-08-03 06:00:00,2026-08-31 23:59:00,trading_competition,not stated,USDC,True,True
+d3f3c360c13b49ba8381c75f3e228e10,2026-08-03 09:50:01.605,,,alpha,not stated,other or none,True,True
+8bc4cb045b7e403f812d331278b5ff5a,2026-08-03 10:00:01.366,2026-08-03 10:00:00,2026-08-31 23:59:00,earn_apr,not stated,USDC,True,True
+64ec1ffecadc4a8f8541e9a06080cc8b,2026-08-03 12:00:21.004,2026-08-03 12:00:00,2026-09-02 23:59:00,other,not stated,other or none,True,True
+7344e0bd9d244ff89c1a1642800da931,2026-08-04 11:00:06.003,2026-08-04 13:00:00,2026-08-11 13:00:00,trading_competition,not stated,other or none,True,True
+6e8062c863bd4ddb86a86f5d681f69f2,2026-08-05 08:00:05.315,2026-08-05 10:00:00,2026-08-12 10:00:00,trading_competition,not stated,other or none,True,True
+a3e1e3965b904bee87072a903c35fc82,2026-08-05 10:00:06.985,2026-08-05 10:00:00,2026-08-31 23:59:00,other,not stated,other or none,True,True
+18d7255a59f74b3d90139c755cc806dd,2026-08-05 11:00:11.774,2026-08-05 13:00:00,2026-08-12 13:00:00,trading_competition,not stated,other or none,True,True
+42f4c6e0b2b54b51829c6bbca8a12b3b,2026-08-05 15:00:03.727,,,other,not stated,BNB,True,True
+4891daf7e06d49bc93d74f59c586dfc7,2026-08-06 08:30:03.490,,,learn_quiz,not stated,BTC,True,True
+93cc46505d6b46c9be248138b836cb7c,2026-08-06 09:00:14.590,2026-08-06 10:00:00,2026-08-13 10:00:00,trading_competition,not stated,other or none,True,True
+8bd4e92286d8474fa440091eea5672ff,2026-08-06 11:30:06.006,2026-08-06 13:00:00,2026-08-13 13:00:00,trading_competition,not stated,other or none,True,True
+79f451fec45544f8ad941647165f22a8,2026-08-07 00:00:00.000,2026-08-07 00:00:00,2026-09-04 00:00:00,other,not stated,other or none,True,True
+af589a057c82445c9c1c888d257aa979,2026-08-10 02:00:03.622,2026-08-10 00:00:00,2026-08-16 23:59:00,learn_quiz,not stated,BNB,True,True
+3dd2add94bba4b67b027b00787039914,2026-08-10 07:00:02.128,2026-08-11 00:00:00,2026-08-31 23:59:00,other,not stated,USDC,True,True
+fed0ff49b6a3444998f41681bd3a8d95,2026-08-10 08:00:01.495,2026-08-10 08:00:00,2026-08-19 23:59:00,other,not stated,USDC,True,True
+3f18062274ea49199475b4ad9ff35738,2026-08-11 08:22:02.295,,,other,not stated,other or none,True,True
+e983065edf554091b6b399f75c7297f6,2026-08-11 08:30:05.339,2026-08-11 08:00:00,2026-09-30 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+eaa55145eaa4485c917e23b31b8958c0,2026-08-11 12:00:12.666,,,earn_apr,not stated,other or none,True,True
+71eae81175cb4128adf0042a294b809c,2026-08-12 07:00:02.658,2026-08-13 00:00:00,2026-08-27 23:59:00,other,not stated,USDT,True,True
+837168081cdc41a0b8bb9bb849fe2f78,2026-08-12 08:15:04.694,,,p2p,not stated,other or none,True,True
+ff3ea96c8cdf47d198c3ea2e85f1e674,2026-08-12 09:00:05.749,2026-08-12 10:00:00,2026-08-19 10:00:00,trading_competition,not stated,BNB,True,True
+32e7cb9ac92d42e3850a7de415013bbe,2026-08-12 10:00:15.880,,,tokenized_stock,not stated,tokenized stock,True,True
+2e19d56645a2472fa3dbf1b8bf2c7efe,2026-08-12 11:30:30.035,2026-08-12 13:00:00,2026-08-19 13:00:00,trading_competition,not stated,other or none,True,True
+e8b239e938b440619339103ab1d59d4c,2026-08-12 13:00:11.954,2026-08-12 12:00:00,2026-09-12 23:59:00,referral,not stated,USDT,True,True
+97e6cd78842e4bce98bde78d98a5a33d,2026-08-12 13:15:04.760,,,trading_competition,not stated,USDT,True,True
+6371efabeb6f4efbb5141bd4b842695a,2026-08-13 08:00:04.174,2026-08-14 00:00:00,2026-09-12 23:59:59,earn_apr,not stated,other or none,True,True
+228dec8830ec468e81696d4b1afae124,2026-08-13 09:00:09.587,2026-08-13 10:00:00,2026-08-20 10:00:00,trading_competition,not stated,BNB,True,True
+a07227f11c5345e091c8f0118d403806,2026-08-13 09:30:01.570,2026-08-13 09:00:00,2026-08-26 23:59:00,other,not stated,USDC,True,True
+e605e25953d848fb911693376345302b,2026-08-13 13:00:02.794,2026-08-13 08:00:00,2026-09-13 23:59:00,trading_competition,SOUTH_ASIA,USDT,True,True
+87614899ce0346beb103f58075d8c8cc,2026-08-14 00:00:01.627,2026-08-14 00:00:00,2026-09-11 00:00:00,earn_apr,not stated,XRP,True,True
+abdba45ce26c4460aa8f88cece989d58,2026-08-14 08:00:02.637,2026-08-14 08:00:00,2026-09-06 23:59:00,earn_apr,not stated,USDC,True,True
+566931750f7444e890f317ef5b9c9462,2026-08-14 09:00:04.154,2026-08-14 10:00:00,2026-08-21 10:00:00,trading_competition,not stated,other or none,True,True
+b2ece09a8aeb4002bc8197c52cad411b,2026-08-14 10:00:05.306,2026-08-16 00:00:00,2026-09-14 23:59:59,earn_apr,not stated,other or none,True,True
+dbcb5c1cee35401381273858aa197584,2026-08-14 10:30:16.325,2026-08-14 12:30:00,2026-11-14 23:59:00,other,not stated,USDC,True,True
+815ec4a2ea0244bfb339d1c0f80c32f0,2026-08-14 11:30:13.837,2026-08-14 13:00:00,2026-08-21 13:00:00,trading_competition,not stated,other or none,True,True
+28d4cfba373a4e0582fd27b365430cba,2026-08-17 02:00:05.055,2026-08-17 00:00:00,2026-08-23 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+eeeb7df8c4104896924fd976a03b4a96,2026-08-17 08:30:06.805,2026-08-17 08:30:00,2026-08-31 23:59:00,new_user,not stated,USDT,True,True
+e5518acf2d6a4b1780e108d60972b206,2026-08-17 09:00:11.103,2026-08-17 09:00:00,2026-09-01 00:00:00,other,not stated,USDC,True,True
+cf0f044736a045e6ae533cb299ec3556,2026-08-17 10:30:01.580,,,other,not stated,other or none,True,True
+cab67ee3d634426b94d193d1041a23b0,2026-08-18 00:00:00.000,2026-08-18 00:00:00,2026-09-14 23:59:00,deposit,not stated,USDC,True,True
+4695cf9b97714209b77151f6c7af9f81,2026-08-18 02:00:00.000,2026-08-18 00:00:00,2026-09-17 23:59:00,earn_apr,not stated,other or none,True,True
+fd502257dd74438da0bc84dd92ee04c7,2026-08-18 10:00:01.820,2026-08-18 10:00:00,2026-08-21 23:59:00,learn_quiz,not stated,USDC,True,True
+f9e2c6af001b4499889371d0cc46143e,2026-08-18 11:00:05.765,2026-08-18 13:00:00,2026-08-25 13:00:00,trading_competition,not stated,other or none,True,True
+dcaa8289b0ff45a8a1eb315a3d608f00,2026-08-19 09:00:01.759,2026-08-19 10:00:00,2026-08-26 10:00:00,trading_competition,not stated,other or none,True,True
+caf65fcb0f7548e89d714781f75a3d27,2026-08-20 08:00:04.091,2026-08-20 08:00:00,2026-09-10 23:59:00,referral,not stated,USDC,True,True
+d443e678395a4ad484ca0127056f1229,2026-08-20 09:00:09.330,2026-08-20 10:00:00,2026-08-27 10:00:00,trading_competition,not stated,other or none,True,True
+07d45cdd3831498f8a4ff339031a8480,2026-08-20 10:40:49.323,,,other,not stated,other or none,True,True
+53f1312b1dd74080b723c9613e348eac,2026-08-20 11:00:10.878,2026-08-20 13:00:00,2026-08-27 13:00:00,trading_competition,not stated,other or none,True,True
+837daa8c78de445f946ff3502b57b6f5,2026-08-21 11:30:08.122,2026-08-21 13:00:00,2026-08-28 13:00:00,trading_competition,not stated,other or none,True,True
+4fba20395225436cae57eba1e9631204,2026-08-24 02:30:07.448,2026-08-24 02:05:00,2026-08-30 23:59:00,learn_quiz,not stated,BNB,True,True
+b4ed9299fb2d4277aff614d3afacab0d,2026-08-24 13:00:00.000,2026-08-21 12:00:00,2026-09-21 23:59:59,new_user,LATAM,USDT,True,True
+a2085f7878324b26b91c95a63df01bdd,2026-08-24 14:00:00.000,2026-08-21 12:00:00,2026-09-21 23:59:59,new_user,LATAM,USDT,True,True
+04663ce7cbc64165b060bf4065e43299,2026-08-25 02:00:05.891,2026-08-25 00:00:00,2026-09-07 23:59:59,earn_apr,not stated,USDT,True,True
+2c1effd4bcaf4113b761b34a89737932,2026-08-25 07:00:09.391,2026-08-25 08:00:00,2026-09-08 08:00:00,trading_competition,not stated,USDC,True,True
+aa29698aeb0c465e88aa46aab4c78bac,2026-08-25 12:00:01.659,2026-08-25 12:00:00,2026-08-31 23:59:00,other,not stated,USDC,True,True
+609d1628fc42433b9d48458fb7d46513,2026-08-25 13:00:04.941,2026-08-25 13:00:00,2026-08-30 13:00:00,other,not stated,USDC,True,True
+81971865baf546b3b37e60cb4a76dd11,2026-08-26 03:00:06.101,2026-08-27 00:00:00,2026-09-25 23:59:59,earn_apr,not stated,other or none,True,True
+1d66621a261040a087497839c5df1882,2026-08-26 08:00:06.437,2026-08-26 08:00:00,2026-09-14 23:59:00,deposit,not stated,other or none,True,True
+ef169550b5934404a0ae44fcdf9b23f6,2026-08-26 08:31:03.505,,,p2p,AFRICA,other or none,True,True
+3e034326cd9c4d3cbe0f7a42a210aef2,2026-08-26 11:30:05.566,2026-08-26 13:00:00,2026-09-02 13:00:00,trading_competition,not stated,other or none,True,True
+6dcb6ae59c984fc19c25594d65629631,2026-08-27 09:00:08.560,2026-08-27 10:00:00,2026-09-03 10:00:00,trading_competition,not stated,BNB,True,True
+6c4281c5a2fc4334b3a2ea004b7ce3ba,2026-08-27 10:00:04.529,2026-08-27 10:00:00,2026-09-03 23:59:00,trading_competition,not stated,USDT,True,True
+e6c09f7e905d4faba591989780c017e3,2026-08-27 11:30:03.411,2026-08-27 13:00:00,2026-09-03 13:00:00,trading_competition,not stated,other or none,True,True
+0a57193b957c4b8fb0d8d8f22ddb25a4,2026-08-28 06:00:07.244,2026-06-03 12:00:00,2026-12-31 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+5f5c4f512b7741e7973b4a518e712302,2026-08-28 09:00:07.574,2026-08-28 10:00:00,2026-09-04 10:00:00,trading_competition,not stated,BNB,True,True
+d83b3f9e6ce44a08acf24b57da2a6ae4,2026-08-31 02:00:06.460,2026-08-31 00:00:00,2026-09-06 23:59:00,learn_quiz,not stated,USDC,True,True
+a220d56a91fa435ab348c10aa4f4fea4,2026-08-31 13:00:00.000,2026-09-01 00:00:00,2026-09-30 23:59:00,trading_competition,not stated,USDC,True,True
+483b06e7a2ab4f7caadd5654c3fa1cd2,2026-08-31 14:00:00.000,2026-09-01 00:00:00,2026-09-30 23:59:00,trading_competition,not stated,USDC,True,True
+23384da6ff80426b85c809fd32451acf,2026-09-01 01:00:00.000,2026-09-01 01:00:00,2026-09-30 23:59:00,pay,not stated,USDT,True,True
+d26f73a45dc1428e8a9231458cab306e,2026-09-01 04:00:01.635,2026-09-01 00:00:00,2026-09-20 23:59:00,earn_apr,not stated,ETH,True,True
+6d90bddfacab4b099315eb5d39274093,2026-09-01 08:00:01.421,2026-09-02 00:00:00,2026-09-30 23:59:59,earn_apr,not stated,USDC,True,True
+5fd181b6990b48ffa9c08d6a48b88246,2026-09-01 11:00:07.543,2026-09-01 13:00:00,2026-09-08 13:00:00,trading_competition,not stated,other or none,True,True
+b85f24b8f6aa4b368b5b5e9a696e61a5,2026-09-02 00:00:04.122,2026-09-02 00:00:00,2026-10-01 23:59:00,p2p,CIS,USDT,True,True
+e390a42a4dd6406e90a57db482405ed1,2026-09-02 00:15:02.103,2026-09-02 00:00:00,2026-10-01 23:59:00,p2p,CIS,USDT,True,True
+41cd1e09c4814c27bf6d5ce9d61f6e51,2026-09-02 08:00:06.580,,,learn_quiz,not stated,BTC,True,True
+f7a7a6dabac24c32bf71cd94e3626ba1,2026-09-02 09:00:09.330,2026-09-02 10:00:00,2026-09-09 10:00:00,trading_competition,not stated,USDC,True,True
+0de1a8ed9d61456194e8c2313572b34c,2026-09-02 10:00:04.769,2026-09-02 10:00:00,2026-10-01 23:59:00,other,not stated,other or none,True,True
+68656a9037534729a3c7983dfcb6f0dd,2026-09-02 10:30:01.707,2026-09-02 08:00:00,2026-10-02 23:59:59,new_user,CIS,USDT,True,True
+cf1d21d15830400d84862768bb168ef4,2026-09-02 11:00:03.378,2026-09-02 13:00:00,2026-09-09 13:00:00,trading_competition,not stated,other or none,True,True
+6db246e76e42492b81cc9f13df8421ca,2026-09-02 12:00:03.430,2026-09-02 00:00:00,2026-09-15 23:59:00,referral,SOUTH_ASIA,other or none,True,True
+a5b939b4db834e129206e6e83677f3eb,2026-09-02 13:00:04.584,2026-09-03 07:00:00,2026-09-29 20:59:00,earn_apr,not stated,USDC,True,True
+52e8b9f0c8f34a9c89f8babf50323693,2026-09-03 03:00:01.038,2026-09-03 00:00:00,2026-09-18 23:59:00,alpha,not stated,other or none,True,True
+3dd432ca980c469389d18f2f69c9d4ae,2026-09-03 06:00:06.916,2026-09-04 00:00:00,2026-10-02 00:00:00,other,not stated,other or none,True,True
+b89617f2f12545f998408fbf46afe512,2026-09-03 08:00:08.776,2026-09-03 10:00:00,2026-10-04 23:59:00,other,not stated,other or none,True,True
+4797f5365a594d4b8e4559eefb944fdd,2026-09-03 09:00:14.464,2026-09-03 10:00:00,2026-09-08 10:00:00,trading_competition,not stated,other or none,True,True
+c449cd2c8c164ebdb99299a00bba575c,2026-09-03 13:00:06.785,2026-09-03 12:00:00,2026-10-08 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+d6f71808953d49b3acac68966b193626,2026-09-03 13:45:01.477,,,trading_competition,not stated,USDT,True,True
+48854dbc962d40ce9d3ccd440e7783c1,2026-09-04 09:00:15.673,2026-09-04 10:00:00,2026-09-11 10:00:00,trading_competition,not stated,BNB,True,True
+ecc41e1867564a378b4ffd39c18b795f,2026-09-04 09:30:14.313,2026-09-04 09:30:00,2026-09-21 23:59:00,new_user,not stated,USDT,True,True
+c4aab1291e5c417f91dee93d0e2e3a81,2026-09-04 10:00:16.672,2026-09-04 10:00:00,2026-09-21 23:59:00,new_user,LATAM,USDT,True,True
+e8c1bdbae411464f9a33122691e65aa5,2026-09-04 11:30:04.707,2026-09-04 13:00:00,2026-09-11 13:00:00,trading_competition,not stated,other or none,True,True
+fc8064aebe8b4b92a8807d413d218bbd,2026-09-07 02:00:02.909,2026-09-07 00:00:00,2026-09-13 23:59:00,learn_quiz,not stated,USDC,True,True
+2d943377ecae4ef18a33cc90047a1d80,2026-09-07 08:00:03.121,2026-09-08 00:00:00,2026-09-22 23:59:59,earn_apr,not stated,USDT,True,True
+97815f4bc53646eb8e96d9b343ced9e1,2026-09-08 00:00:00.000,2026-09-08 00:00:00,2026-10-05 23:59:00,deposit,not stated,other or none,True,True
+1894c3b8f1434fdb831bcae582ee1f01,2026-09-08 08:00:01.047,2026-09-08 08:00:00,2026-10-07 23:59:00,other,not stated,USDC,True,True
+ba0b084e46f04f8ebcfcf2e3429de5a4,2026-09-08 10:00:02.303,2026-09-09 10:00:00,2026-10-07 09:59:00,trading_competition,not stated,other or none,True,True
+658aa44e411f4ef9a08de27320325cfa,2026-09-08 11:30:01.004,2026-09-08 13:00:00,2026-09-15 13:00:00,trading_competition,not stated,other or none,True,True
+f03e050413594724a1ba831785255723,2026-09-08 12:15:01.019,,,alpha,not stated,other or none,True,True
+e84320eea3f04f9894a2e3a537dbbb5c,2026-09-09 09:00:08.172,2026-09-09 10:00:00,2026-09-16 10:00:00,trading_competition,not stated,BNB,True,True
+06153a2f1f0c4ac0a8a2c8be8c9048af,2026-09-09 09:20:13.384,2026-09-08 15:00:00,2026-10-11 15:00:00,new_user,CIS,USDT,True,True
+c3fdde57f58a444fb98ee2902f870eb9,2026-09-10 03:00:01.336,2026-09-11 00:00:00,2026-09-24 23:59:00,earn_apr,not stated,other or none,True,True
+5586978d8f51473a85fac349c4f9e221,2026-09-10 08:00:02.193,2026-09-10 09:00:00,2026-09-30 23:59:00,other,SOUTH_ASIA,other or none,True,True
+9914db97181f443a9fc3a3e3ef726996,2026-09-10 09:00:22.294,2026-09-10 10:00:00,2026-09-17 10:00:00,trading_competition,not stated,BNB,True,True
+11cacc4f64944d13a4af3528f2ed458a,2026-09-10 10:00:02.893,,,other,not stated,BNB,True,True
+29b9f6a39ec94a548e28933727b9e517,2026-09-10 11:30:01.263,2026-09-10 13:00:00,2026-09-17 13:00:00,trading_competition,not stated,other or none,True,True
+f6ff30454a124269bcf185891d11aaa5,2026-09-11 07:00:06.114,2026-09-13 00:00:00,2026-10-12 23:59:59,earn_apr,not stated,other or none,True,True
+ee6e5b7df8eb4556a472de06624555e2,2026-09-11 09:00:39.880,2026-09-11 10:00:00,2026-09-18 10:00:00,trading_competition,not stated,USDC,True,True
+c495d1c59c014c53a7dcb5a21fc25993,2026-09-11 10:00:01.983,,,pay,not stated,USDT,True,True
+140f25e875484b6894eedd6744254eba,2026-09-14 02:00:10.678,2026-09-14 00:00:00,2026-09-20 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+0df4bdaf019e4804853ce9528210598a,2026-09-14 05:00:10.164,,,tokenized_stock,not stated,tokenized stock,True,True
+47934ad1629f4236a80c3709e2cd116a,2026-09-14 06:00:07.746,2026-09-15 00:00:00,2026-10-14 23:59:59,earn_apr,not stated,other or none,True,True
+496452d67ccf4458922d5c9df8bddbd1,2026-09-15 08:00:11.523,2026-09-15 08:00:00,2026-09-25 08:00:00,learn_quiz,not stated,USDC,True,True
+8c58e4eb0a6348398028738db0d8b3a3,2026-09-15 08:30:02.838,,,earn_apr,not stated,other or none,True,True
+6cef4eebd5864293b1644d6b0e094954,2026-09-15 11:30:07.973,2026-09-15 13:00:00,2026-09-22 13:00:00,trading_competition,not stated,other or none,True,True
+2281928b1873472888559551a7a834e2,2026-09-15 13:00:01.512,2026-09-15 12:00:00,2026-09-21 23:59:00,other,not stated,USDC,True,True
+3b04ee869348443491905f1e31dbc7bc,2026-09-16 00:00:00.000,2026-09-16 00:00:00,2026-12-16 23:59:00,p2p,not stated,other or none,True,True
+b3a4d9120b9a4397b1dfced9f8d35525,2026-09-16 07:00:03.725,2026-09-11 00:00:00,2026-09-17 23:59:00,earn_apr,not stated,other or none,True,True
+aa958f0c3c174a2887ff2b634fec1e52,2026-09-16 09:00:07.753,2026-09-16 10:00:00,2026-09-23 10:00:00,trading_competition,not stated,BNB,True,True
+b16c186b69d4405c83a4cafbea791bc0,2026-09-16 09:30:12.025,,,p2p,not stated,other or none,True,True
+ad4b814a1bc64077ae0bfd8e7d3036dd,2026-09-16 11:00:16.837,2026-09-16 11:00:00,2026-10-07 23:59:00,referral,not stated,other or none,True,True
+6cd02911b8284a969ecb44e57498e7f6,2026-09-16 11:45:09.948,2026-09-16 12:00:00,2026-10-04 00:00:00,alpha,not stated,other or none,True,True
+77f71cda5408460fa63879806020cc0c,2026-09-17 08:30:01.167,2026-09-17 08:00:00,2026-10-07 23:59:00,other,not stated,other or none,True,True
+6a17368f88574ed59ca9bd7f9e70c510,2026-09-17 09:00:08.876,2026-09-17 10:00:00,2026-09-24 10:00:00,trading_competition,not stated,other or none,True,True
+b5b07aeab3124b9b9e8fc714ee561d1a,2026-09-17 11:00:04.559,2026-09-17 13:00:00,2026-09-24 13:00:00,trading_competition,not stated,other or none,True,True
+f8d62103d9864d689220dea43bee3b6e,2026-09-18 09:00:10.373,2026-09-18 10:00:00,2026-09-25 10:00:00,trading_competition,not stated,BNB,True,True
+5f657405ef7444ec894290dcdd574498,2026-09-18 11:00:12.231,2026-09-18 13:00:00,2026-09-25 13:00:00,trading_competition,not stated,other or none,True,True
+cdb8c04b0d544d5399e0bb841d611eef,2026-09-18 14:15:15.302,2026-09-18 13:00:00,2026-10-02 23:59:00,deposit,not stated,USDC,True,True
+a3ded7ab12f74eaabb4ff384d3216108,2026-09-21 02:00:02.142,2026-09-21 00:00:00,2026-09-27 23:59:00,learn_quiz,not stated,USDC,True,True
+b8ed81af5344412a8d18386f1515516d,2026-09-22 09:00:02.322,2026-09-22 10:00:00,2026-09-29 10:00:00,trading_competition,not stated,BNB,True,True
+f155c695dcf243fd87f3e7cea7a48e5c,2026-09-22 11:30:27.625,2026-09-22 13:00:00,2026-09-29 13:00:00,trading_competition,not stated,other or none,True,True
+7fb2f9ed343b41aca519ae60314aa548,2026-09-23 04:00:02.481,,,pay,not stated,USDT,True,True
+3bd5e178205f4051bd008994c5a99363,2026-09-24 02:30:01.380,2026-09-25 00:00:00,2026-10-23 00:00:00,earn_apr,not stated,XRP,True,True
+7eb71f110bc44e81b56dbaef7d01ba78,2026-09-24 09:00:01.699,2026-09-24 10:00:00,2026-10-01 10:00:00,trading_competition,not stated,BNB,True,True
+21e720bb81a14eb7b14ead890cdc20df,2026-09-24 11:00:16.775,2026-09-24 10:00:00,2026-10-07 23:59:00,other,not stated,BTC,True,True
+df0f5afc43aa4ef1b344eb92b75c2716,2026-09-24 11:30:07.843,2026-09-24 13:00:00,2026-10-01 13:00:00,trading_competition,not stated,other or none,True,True
+9ed4dfcc0ed44d39bede2dda36cf4521,2026-09-24 12:00:05.231,2026-09-24 12:00:00,2026-10-14 23:59:00,other,not stated,USDT,True,True
+20ffd754d7414596aa065a23e23eabbd,2026-09-25 03:00:08.936,2026-09-25 00:00:00,2026-10-08 23:59:59,earn_apr,not stated,USDT,True,True
+3bbe837e24a64b93811116d366954e0a,2026-09-28 02:00:04.548,2026-09-28 00:00:00,2026-10-04 23:59:00,learn_quiz,not stated,USDC,True,True
+29e6788e0ec64a1eab2ed4bf6e3d9e2e,2026-09-29 02:00:00.000,2026-09-29 02:00:00,2026-10-30 23:59:00,trading_competition,not stated,USDC,True,True
+06c4ce710c514cabb9bd5a3c274f137e,2026-09-29 09:30:09.177,2026-09-29 10:00:00,2026-10-06 10:00:00,trading_competition,not stated,USDC,True,True
+d3ca65acb7f341c0a8f33ed21f44924c,2026-09-29 11:30:06.046,2026-09-29 13:00:00,2026-10-06 13:00:00,trading_competition,not stated,other or none,True,True
+c3296b46009f4cb5bdcdde8e2f60b38a,2026-09-29 12:00:09.599,2026-09-29 10:00:00,2026-10-31 23:59:59,new_user,LATAM,USDC,True,True
+6a10e05242c843089e20ea7ba24ef33b,2026-09-29 12:15:08.801,2026-09-29 10:00:00,2026-10-31 23:59:59,new_user,LATAM,USDC,True,True
+143edb7fd3204d1696b37ef752a6b032,2026-09-30 08:00:01.994,2026-10-01 00:00:00,2026-10-31 23:59:00,trading_competition,not stated,USDC,True,True
+8fcb6bfcb540499b89f2b3b189b48d1b,2026-09-30 09:00:01.376,2026-09-30 10:00:00,2026-10-07 10:00:00,trading_competition,not stated,other or none,True,True
+4a08577b7adc43a69b0728ace18e72bb,2026-09-30 11:30:05.989,2026-09-30 13:00:00,2026-10-07 13:00:00,trading_competition,not stated,other or none,True,True
+1f52b0041a2a4f999185c1ea0fb64c30,2026-09-30 13:00:08.482,2026-10-01 00:00:00,2026-10-31 23:59:00,trading_competition,not stated,USDC,True,True
+d3d40f07ad7d46d696b125ab9cbd4e84,2026-10-01 04:00:05.229,,,p2p,not stated,other or none,True,True
+4f85bc2331274dea97ac2a4f660e554c,2026-10-01 08:00:09.100,2026-10-01 08:00:00,2026-10-30 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+5fc0f803346b4b5085b0e1c5d16d8b2c,2026-10-01 09:00:09.533,,,learn_quiz,not stated,BTC,True,True
+9745ace0eb7a42d396e22a711f907616,2026-10-01 09:30:10.272,2026-10-02 00:00:00,2026-10-09 00:00:00,earn_apr,not stated,other or none,True,True
+a9a21d0533bf40158b3ec8a011f96ad3,2026-10-01 11:30:13.167,2026-10-01 13:00:00,2026-10-08 13:00:00,trading_competition,not stated,other or none,True,True
+e0b21949852e4888949d009effcabda5,2026-10-01 13:00:07.043,2026-10-01 05:00:00,2026-10-14 23:59:00,referral,not stated,other or none,True,True
+271b588ed6e64723a3e05399310d61b2,2026-10-02 10:00:02.229,,,pay,not stated,USDT,True,True
+7996a0800e93462b8373ec9f9bc24d09,2026-10-05 02:00:01.573,2026-10-05 00:00:00,2026-11-04 23:59:00,other,not stated,other or none,True,True
+41e531ead6b44b35aca9e6821b37baf3,2026-10-05 03:00:01.573,2026-10-05 00:00:00,2026-10-11 23:59:00,learn_quiz,not stated,USDC,True,True
+d1bd48f85bc344c2a7b0dbe21f4509a2,2026-10-05 09:00:01.858,2026-10-05 00:00:00,2026-10-22 23:59:00,pay,not stated,other or none,True,True
+197b9abe9a61458a8b191493b9f7e80c,2026-10-06 01:00:00.000,2026-10-06 00:00:00,2026-11-02 23:59:00,new_user,not stated,other or none,True,True
+2e9c4a3d133947f1b6a24daa43952256,2026-10-06 09:00:02.305,2026-10-06 09:00:00,2026-10-31 23:59:00,other,not stated,other or none,True,True
+c6f5ccd7407f40ac98ff0d38ea9dfa3e,2026-10-07 09:00:08.296,2026-10-07 08:00:00,2026-10-20 23:59:00,other,not stated,BNB,True,True
+1fb55a34145a4f4b8f82407a766a5a2b,2026-10-08 08:00:03.094,,,p2p,AFRICA,USDT,True,True
+d51ff145a65e49babb4478052cf495d0,2026-10-08 08:30:03.795,2026-10-08 00:00:00,2026-10-20 23:59:00,referral,not stated,other or none,True,True
+473fb8d21dfe480a93eefc0cf7a8839f,2026-10-08 09:00:19.724,2026-10-08 10:00:00,2026-10-15 10:00:00,trading_competition,not stated,BNB,True,True
+c0d20c76f1464506b607c66ae56dd726,2026-10-08 11:00:05.541,2026-10-08 13:00:00,2026-10-15 13:00:00,trading_competition,not stated,other or none,True,True
+1bc71223e32b478b8c0995dab47ea57d,2026-10-08 12:00:07.621,2026-10-08 12:00:00,2026-11-08 23:59:59,new_user,not stated,USDT,True,True
+aa50d46ffef448f98c42f9272fcee663,2026-10-09 03:00:12.223,2026-10-09 00:00:00,2026-11-07 23:59:59,earn_apr,not stated,USDC,True,True
+f99ead6436ba4fb8ad92abc9d2fdce5c,2026-10-09 09:00:06.814,2026-10-09 10:00:00,2026-10-16 10:00:00,trading_competition,not stated,BNB,True,True
+008b71e5fc82428a9b5947fbc3757791,2026-10-09 11:00:05.873,2026-10-09 13:00:00,2026-10-16 13:00:00,trading_competition,not stated,other or none,True,True
+c58312bc1e5b4124939a30f773b52824,2026-10-12 02:00:01.108,2026-10-12 00:00:00,2026-10-31 23:59:59,pay,not stated,USDT,True,True
+54f481d07bee4e98a2c082aa1e481d0b,2026-10-12 02:30:01.413,2026-10-14 00:00:00,2027-01-13 23:59:00,other,not stated,USDT,True,True
+68a378b9faae45d9972fc2b223eaa22c,2026-10-12 03:00:07.549,2026-10-12 00:00:00,2026-10-18 23:59:00,learn_quiz,not stated,USDC,True,True
+90d01a9acbf0460b802e6ffc70e4e5e8,2026-10-12 08:00:05.618,2026-10-12 08:00:00,2026-10-21 23:59:00,other,not stated,USDC,True,True
+b45206aa35eb4eb6820bf1db57239a0d,2026-10-12 09:00:10.979,2026-10-13 00:00:00,2026-11-11 23:59:59,earn_apr,not stated,other or none,True,True
+8fd1fe0094b34442b322c177894666bf,2026-10-12 13:00:05.423,2026-10-12 12:00:00,2026-10-18 23:59:00,other,not stated,USDC,True,True
+41b7bf96fc3e4ccbbb5668c85451e775,2026-10-13 04:00:01.825,2026-10-13 04:00:00,2026-11-16 15:59:00,alpha,not stated,USDT,True,True
+41a95b76f0894ebbad38070a993f6a80,2026-10-13 09:00:32.284,2026-10-13 09:00:00,2026-10-16 15:59:00,other,not stated,other or none,True,True
+db06ed7ddca1438b88f63c1367dc2e79,2026-10-13 11:19:48.594,2026-10-13 00:00:00,2026-10-27 23:59:00,p2p,not stated,BTC,True,True
+0ed0ae1971e4416f9634450f40519a1c,2026-10-14 08:00:15.634,2026-10-15 00:00:00,2026-11-13 23:59:59,earn_apr,not stated,other or none,True,True
+773a0c47b8c94b4dbbbafb399633fec0,2026-10-14 09:00:03.112,2026-10-14 10:00:00,2026-10-21 10:00:00,trading_competition,not stated,BNB,True,True
+03c90cc937d147af87243939d684fecb,2026-10-14 11:00:03.777,2026-10-14 13:00:00,2026-10-21 13:00:00,trading_competition,not stated,other or none,True,True
+752527d39fef4c52a029f98f87b78655,2026-10-15 08:30:01.462,2026-10-15 08:00:00,2026-10-29 23:59:00,other,not stated,other or none,True,True
+1a1142523078402f8e48a3f0c802ab27,2026-10-15 09:00:10.297,2026-10-15 10:00:00,2026-10-22 10:00:00,trading_competition,not stated,other or none,True,True
+9ed4e714ad6045bb8fbe7a0f9f1ebe55,2026-10-16 11:00:01.691,2026-10-16 13:00:00,2026-10-23 13:00:00,trading_competition,not stated,other or none,True,True
+9a4b0619b48d423f83242adc3f779e0d,2026-10-19 03:00:14.387,2026-10-19 01:55:00,2026-10-25 23:59:00,learn_quiz,not stated,USDC,True,True
+20b97575070441cc8669cb3c78767c04,2026-10-19 08:00:05.990,,,other,not stated,USDC,True,True
+ade351b5d80842b69784d836e0338a6d,2026-10-20 07:00:11.005,2026-10-20 07:00:00,2026-11-30 23:59:00,other,not stated,USDC,True,True
+be80d09944a54957986154f4b990bb6f,2026-10-20 11:00:01.764,2026-10-20 13:00:00,2026-10-27 13:00:00,trading_competition,not stated,other or none,True,True
+e3ed7bd9b119410d8b4f852042af2730,2026-10-20 12:30:11.609,2026-10-20 12:00:00,2026-10-25 23:59:00,other,not stated,other or none,True,True
+8d93f897fe044eaa8f31e6cbb3c45375,2026-10-21 09:00:05.247,2026-10-21 10:00:00,2026-10-28 10:00:00,trading_competition,not stated,BNB,True,True
+c453734d8dcc42d9af49c8f0627d67f7,2026-10-21 10:00:02.524,2026-10-23 00:00:00,2026-11-20 00:00:00,earn_apr,not stated,XRP,True,True
+bf45cbddc47c428a884f58131090d675,2026-10-22 09:00:11.217,2026-10-22 10:00:00,2026-10-29 10:00:00,trading_competition,not stated,BNB,True,True
+293e54308ca84bd095f321bd094d1288,2026-10-22 11:00:02.802,2026-10-22 13:00:00,2026-10-29 13:00:00,trading_competition,not stated,other or none,True,True
+ed8ff1366f0e4d4687eb1e105e7f61f1,2026-10-22 12:40:09.995,2026-10-22 12:00:00,2026-11-15 23:59:00,other,not stated,USDT,True,True
+294ae769a3ed4b219694dc9ca7803a67,2026-10-26 03:00:11.871,2026-10-26 00:00:00,2026-11-01 23:59:00,learn_quiz,not stated,BNB,True,True
+2f1961e25f5a4412a937e78114ad5fce,2026-10-26 07:00:02.386,2026-10-27 00:00:00,2026-11-23 23:59:00,earn_apr,not stated,USDC,True,True
+91a8bdc13a4f459cb7ea8c8aa5cce475,2026-10-26 10:00:09.726,2026-10-26 10:00:00,2026-11-08 23:59:00,referral,not stated,other or none,True,True
+aeab048502ff4d3898bcd872fab0354f,2026-10-26 11:00:08.972,2026-10-26 13:00:00,2026-11-02 13:00:00,trading_competition,not stated,other or none,True,True
+42a53621b62d4f99bb727efd8337b7ac,2026-10-27 13:00:02.555,2026-10-27 12:00:00,2026-11-01 23:59:00,other,not stated,USDC,True,True
+778907fd5bab4fa2afb4980b569b6707,2026-10-27 14:00:05.403,,,other,not stated,other or none,True,True
+64ebe376c713448cb62e156c9cfff286,2026-10-28 09:00:03.435,2026-10-28 10:00:00,2026-11-04 10:00:00,trading_competition,not stated,BNB,True,True
+ee5f980bdd13472bbda19930e675d43b,2026-10-28 13:00:03.019,2026-10-28 12:00:00,2026-12-03 23:59:00,referral,not stated,USDT,True,True
+44ad187210be478dac264337be3dc943,2026-10-29 08:00:08.917,2026-10-29 10:00:00,2026-11-05 10:00:00,trading_competition,not stated,USDC,True,True
+8466c6c384054e499890d0b1f3883eda,2026-10-29 10:00:06.276,2026-10-29 10:00:00,2026-12-31 23:59:00,p2p,AFRICA,USDT,True,True
+b101462171b748ecadc5b9c5b59605bf,2026-10-29 10:15:03.925,,,referral,not stated,USDT,True,True
+dd153f41ce804419a0e4429a974115ca,2026-10-29 11:00:02.475,2026-10-29 23:59:00,2026-12-31 23:59:00,p2p,CIS,other or none,True,True
+59f28e09ce8e4f01804aac4699bedaff,2026-10-29 13:00:08.267,2026-10-30 00:00:00,2026-11-06 00:00:00,earn_apr,not stated,other or none,True,True
+21a8f2b008094727b8b32356af62bf1e,2026-10-29 13:15:06.141,2026-10-29 13:00:00,2026-11-05 13:00:00,other,not stated,other or none,True,True
+dad3f7336cd343fd9752c63b21f8d52a,2026-11-02 11:30:11.441,2026-11-02 11:30:00,2026-11-21 23:59:59,other,not stated,other or none,True,True
+b3f6a9b7d0a746af9551912893029622,2026-11-02 12:00:01.454,2026-11-03 00:00:00,2026-12-02 23:59:00,other,not stated,other or none,True,True
+f8e719ab5ce440cfb564858c27f2a6f3,2026-11-05 08:00:07.059,2026-11-05 08:00:00,2026-11-24 23:59:59,earn_apr,not stated,other or none,True,True
+a8ed3a09053e4e49bbf313f314f776f0,2026-11-05 09:30:13.356,2026-11-05 09:30:00,2026-11-30 23:59:00,trading_competition,not stated,USDC,True,True
+721201a73d724ee580a2fa6a2bd1b333,2026-11-05 10:00:05.537,2026-11-01 00:00:00,2026-11-30 23:59:00,referral,not stated,USDC,True,True
+e0ca2d7ff4714693baa4be02a45412ee,2026-11-06 08:00:00.933,2026-11-09 00:00:00,2027-01-03 23:59:00,other,not stated,other or none,True,True
+0ea740cbfca045ed935964f4555dc689,2026-11-09 02:00:07.305,2026-11-09 00:00:00,2026-11-15 23:59:00,learn_quiz,not stated,BNB,True,True
+e6f82532912f48a6a554a72c57482ea0,2026-11-10 01:00:03.348,2026-11-10 00:00:00,2026-12-04 00:00:00,other,not stated,other or none,True,True
+d8988e9f50124a80aae7c34773857c6b,2026-11-10 07:00:02.180,2026-11-16 00:00:00,2026-12-16 00:00:00,other,not stated,other or none,True,True
+62c8e6f2b4d748ffa8bdb536b798d516,2026-11-10 08:00:08.916,2026-11-10 06:00:00,2027-01-03 23:59:00,other,not stated,other or none,True,True
+6b80fb6b884e4f5bb60be4ec475d6190,2026-11-11 00:00:00.000,,,learn_quiz,not stated,BTC,True,True
+252d3a2cb7a847428699458241796399,2026-11-11 08:00:02.413,2026-11-11 00:00:00,2026-12-08 23:59:00,earn_apr,not stated,other or none,True,True
+4506f63bdfed49c2bac60cbe4e1e8eff,2026-11-12 08:00:07.415,,,other,not stated,USDC,True,True
+d55c2b2278034806ae44967fa7a2e62c,2026-11-12 09:00:07.001,2026-11-13 00:00:00,2026-12-13 23:59:00,other,not stated,other or none,True,True
+0b9fd090904a41e2800da18af924b376,2026-11-12 11:00:21.453,2026-11-12 13:00:00,2026-11-19 13:00:00,trading_competition,not stated,other or none,True,True
+5635d4502cc840c39b3b6e2d2f28a1ca,2026-11-12 13:15:04.941,2026-11-12 13:00:00,2026-11-22 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+341033fc7dcd483dab73bc90ea3e21e6,2026-11-13 11:00:06.538,2026-11-13 13:00:00,2026-11-20 13:00:00,trading_competition,not stated,other or none,True,True
+3de1570577714ebea0ef67ab4aad554a,2026-11-16 02:00:09.340,,,earn_apr,AFRICA,USDC,True,True
+e1416125fa44407f92af70b594b215a3,2026-11-16 03:00:09.854,2026-11-16 00:00:00,2026-11-22 23:59:00,tokenized_stock,not stated,tokenized stock,True,True
+56549e5045354813bbf8234d34fe8959,2026-11-16 04:30:02.406,,,pay,not stated,USDC,True,True
+846cac318e224304af0bcb4364305220,2026-11-16 09:00:11.108,,,other,not stated,BNB,True,True
+7bc53180b9cd4a53a809f7066b79eb34,2026-11-17 02:00:10.617,,,new_user,not stated,USDT,True,True
+662d66d79a774e18b34d84ab525f563e,2026-11-17 03:00:07.402,2026-11-17 03:00:00,2026-12-16 23:59:00,earn_apr,not stated,BTC,True,True
+dd87c69ba67c4695bdd9836bca73ebb9,2026-11-17 04:00:11.040,2026-11-17 00:00:00,2026-12-17 23:59:59,p2p,LATAM,USDC,True,True
+51ee8ac34c9f4603b514965aa291b668,2026-11-17 09:00:02.694,2026-11-17 10:00:00,2026-11-30 23:59:00,other,not stated,USDC,True,True
+fb40667e3c714d7f8aa2f1bac2b82aa9,2026-11-17 13:00:04.358,2026-11-17 13:00:00,2026-12-17 23:59:00,referral,not stated,other or none,True,True
+81e5668f2453429593002ad515a06b4c,2026-11-17 20:00:30.666,2026-11-18 06:00:00,2026-11-18 14:00:00,alpha,not stated,other or none,True,True
+6bca527244214de28a65322168ce2192,2026-11-18 02:00:07.585,2026-11-17 18:30:00,2026-12-18 18:29:00,p2p,not stated,USDC,True,True
+4c9eba0b412e4b3c908d7462549b2853,2026-11-18 03:00:00.840,2026-11-20 00:00:00,2026-12-18 00:00:00,earn_apr,not stated,XRP,True,True
+53d99d59696c41319b620b31d3525241,2026-11-18 07:00:03.158,,,trading_competition,not stated,other or none,True,True
+95f5dbe0ea674a48a739b59e046648bf,2026-11-18 07:50:03.016,2026-11-18 08:00:00,2026-12-09 08:00:00,other,not stated,USDC,True,True
+f4434fb5be2340a29beefd8f4c2502cd,2026-11-18 08:00:05.966,2026-11-18 08:00:00,2026-12-01 23:59:00,pay,not stated,other or none,True,True
+a164c7e8c7cd4fb48413541b17f8ab27,2026-11-18 11:00:01.257,2026-11-18 13:00:00,2026-11-25 13:00:00,trading_competition,not stated,other or none,True,True
+dc7d8cf6785c4962828648ddcee55137,2026-11-19 17:30:09.108,2026-11-19 17:30:00,2026-12-09 23:59:00,deposit,not stated,other or none,True,True
+720dd77bcb9c41acafc8cc1c15505b5d,2026-11-20 08:00:01.757,2026-11-22 00:00:00,2026-12-11 23:59:59,earn_apr,not stated,USDC,True,True
+04e8c0f1c4f04121a27b34e55a346dfb,2026-11-20 10:00:05.657,2026-11-20 00:00:00,2026-12-31 23:59:00,p2p,LATAM,other or none,True,True
+4b72a90be21942bfa22eca0f0748dfcf,2026-11-20 11:00:01.547,2026-11-20 13:00:00,2026-11-27 13:00:00,trading_competition,not stated,other or none,True,True
+f4e10dc4e2d643eab9e98f89589f77cc,2026-11-23 05:00:10.849,2026-11-23 00:00:00,2026-11-29 23:59:00,learn_quiz,not stated,BNB,True,True
+25e018b13a394e609d25cf66a0db0faa,2026-11-23 08:15:05.692,2026-11-23 08:15:00,2026-12-03 08:15:00,other,not stated,other or none,True,True
+5c077c7a5cb6455a90de786a36054d6d,2026-11-23 12:00:02.556,2026-11-23 10:00:00,2026-11-30 23:59:00,other,not stated,USDC,True,True
+b9738c47408844a6a5545d7623eb394e,2026-11-23 12:15:02.899,2026-11-23 12:00:00,2027-01-31 23:59:59,new_user,not stated,USDT,True,True
+ee97d525160e4eb8b8b3ac40bda48323,2026-11-23 12:30:17.616,2026-11-23 13:00:00,2027-01-31 23:59:59,new_user,LATAM,USDT,True,True

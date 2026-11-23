@@ -1,0 +1,11 @@
+type,correct,predicted_n,precision
+alpha,0,1,0.0
+deposit,2,2,1.0
+earn_apr,11,12,0.917
+learn_quiz,4,4,1.0
+other,7,9,0.778
+p2p,1,1,1.0
+pay,3,3,1.0
+referral,2,3,0.667
+tokenized_stock,0,1,0.0
+trading_competition,14,14,1.0

@@ -1,0 +1,15 @@
+campaign_id,name,type,region,channel,objective,start_date_utc,end_date_utc,attributed_signups,attributed_first_depositors,media_usd,promo_usd,cac_first_deposit,revenue_30d_per_depositor,roi_30d,retention_d30,share_withdrew_90pct_30d,depositors_with_30d
+CMP003,SEA-VN learn quiz (organic),learn_quiz,SEA-VN,organic,registrations,2026-09-18,2026-09-30,3137,1083,33753.98,0.0,31.17,40.54,0.3007,0.3601,0.0489,1083
+CMP004,LATAM-AR new user (paid_search),new_user,LATAM-AR,paid_search,registrations,2026-10-14,2026-10-20,451,153,5651.38,0.0,36.94,39.33,0.0648,0.3504,0.0365,137
+CMP005,TR new user (paid_social),new_user,TR,paid_social,registrations,2026-09-25,2026-10-01,899,278,8726.06,0.0,31.39,33.64,0.0717,0.3129,0.0791,278
+CMP006,SEA-VN referral (referral),referral,SEA-VN,referral,registrations,2026-09-07,2026-09-27,11297,2610,165197.55,0.0,63.29,27.98,-0.558,0.2364,0.0356,2610
+CMP010,CIS-KZ learn quiz (organic),learn_quiz,CIS-KZ,organic,registrations,2026-10-22,2026-11-03,1273,497,25950.86,0.0,52.22,35.95,-0.3115,0.4211,0.0,19
+CMP011,MENA learn quiz (organic),learn_quiz,MENA,organic,registrations,2026-09-07,2026-10-04,6209,2175,70595.0,0.0,32.46,40.32,0.2423,0.3776,0.0561,2174
+CMP012,SEA-PH learn quiz (organic),learn_quiz,SEA-PH,organic,registrations,2026-09-22,2026-09-28,1073,366,19374.95,0.0,52.94,33.87,-0.3601,0.3197,0.0464,366
+CMP013,MENA learn quiz (organic),learn_quiz,MENA,organic,registrations,2026-09-30,2026-10-27,5464,1958,126966.28,0.0,64.84,42.92,-0.3381,0.3974,0.0542,1477
+CMP014,LATAM-BR new user (affiliate_kol),new_user,LATAM-BR,affiliate_kol,first_deposits,2026-10-05,2026-10-25,57068,25024,225215.97,1066292.69,9.0,21.73,-0.579,0.0635,0.5484,19392
+CMP016,MENA referral (referral),referral,MENA,referral,registrations,2026-09-07,2026-10-04,4591,1582,36545.32,0.0,23.1,39.98,0.7308,0.3546,0.0563,1582
+CMP017,TR new user (paid_social),new_user,TR,paid_social,first_deposits,2026-10-01,2026-10-14,2237,582,26545.4,0.0,45.61,39.51,-0.1338,0.3608,0.0601,582
+CMP024,CIS-KZ learn quiz (organic),learn_quiz,CIS-KZ,organic,registrations,2026-11-09,2026-11-15,805,301,15550.36,0.0,51.66,,,,,0
+CMP036,LATAM-AR learn quiz (organic),learn_quiz,LATAM-AR,organic,registrations,2026-09-07,2026-09-09,326,103,2426.01,0.0,23.55,37.48,0.5913,0.4078,0.0777,103
+CMP038,SEA-VN new user (paid_search),new_user,SEA-VN,paid_search,registrations,2026-09-07,2026-10-04,3625,1200,59906.0,0.0,49.92,40.59,-0.1869,0.355,0.055,1200

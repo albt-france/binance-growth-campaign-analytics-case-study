@@ -1,0 +1,115 @@
+/// one row per simulated campaign: attributed KPIs, incremental estimates, status (SIMULATED)
+table campaign_scorecard
+	lineageTag: 0579cb36-5994-5262-927d-df984a52ddbd
+
+	column campaign_id
+		dataType: string
+		lineageTag: 7b2f70a0-0e1f-59bb-be81-6b0502ac80d8
+		summarizeBy: none
+		sourceColumn: campaign_id
+
+	column type
+		dataType: string
+		lineageTag: e88b7acc-bb20-5604-8ec9-aa58bb90c357
+		summarizeBy: none
+		sourceColumn: type
+
+	column region
+		dataType: string
+		lineageTag: 59be4895-9f5f-5355-b3ba-045313f8a366
+		summarizeBy: none
+		sourceColumn: region
+
+	column channel
+		dataType: string
+		lineageTag: 8e0494b3-52db-5c1a-a352-cb02aafaf3e1
+		summarizeBy: none
+		sourceColumn: channel
+
+	column objective
+		dataType: string
+		lineageTag: afeeeddd-6696-522d-9a04-79a3769c4eb4
+		summarizeBy: none
+		sourceColumn: objective
+
+	column status
+		dataType: string
+		lineageTag: 2739b2b0-5538-571f-a10b-d8a8b0c53d68
+		summarizeBy: none
+		sourceColumn: status
+
+	column attributed_signups
+		dataType: double
+		lineageTag: e081746a-c5b2-5180-90da-5baf8da11329
+		summarizeBy: none
+		sourceColumn: attributed_signups
+
+	column attributed_first_depositors
+		dataType: double
+		lineageTag: 5f30aba1-b38a-50f5-9cc8-82310c26cb4e
+		summarizeBy: none
+		sourceColumn: attributed_first_depositors
+
+	column media_usd
+		dataType: double
+		lineageTag: e7c434da-a1b4-5815-ac32-d7fd7f0cd406
+		summarizeBy: none
+		sourceColumn: media_usd
+
+	column promo_usd
+		dataType: double
+		lineageTag: bd6eab70-8432-56b6-9130-66e0ff1e6099
+		summarizeBy: none
+		sourceColumn: promo_usd
+
+	column cac_first_deposit
+		dataType: double
+		lineageTag: 0a950007-c4f9-54e8-8751-022183622dc7
+		summarizeBy: none
+		sourceColumn: cac_first_deposit
+
+	column revenue_30d_per_depositor
+		dataType: double
+		lineageTag: c876bfcb-e115-59d8-b64d-58c275edf9d7
+		summarizeBy: none
+		sourceColumn: revenue_30d_per_depositor
+
+	column roi_30d
+		dataType: double
+		lineageTag: 3e65e1d4-f99d-5d7c-8344-3650f84c1de8
+		summarizeBy: none
+		sourceColumn: roi_30d
+
+	column retention_d30
+		dataType: double
+		lineageTag: 41bded5f-ac98-5e24-87aa-5849a76cc217
+		summarizeBy: none
+		sourceColumn: retention_d30
+
+	column share_withdrew_90pct_30d
+		dataType: double
+		lineageTag: 6fd87b1d-5eec-5205-b28e-e2465ed65840
+		summarizeBy: none
+		sourceColumn: share_withdrew_90pct_30d
+
+	column did_lift
+		dataType: double
+		lineageTag: 992a47e8-4f8c-50fc-8039-6e1262e8daed
+		summarizeBy: none
+		sourceColumn: did_lift
+
+	column naive_lift
+		dataType: double
+		lineageTag: 0c3e1c2e-3d91-5954-b695-1a779553ecf1
+		summarizeBy: none
+		sourceColumn: naive_lift
+
+	partition campaign_scorecard = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "campaign_scorecard.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"campaign_id", type text}, {"type", type text}, {"region", type text}, {"channel", type text}, {"objective", type text}, {"status", type text}, {"attributed_signups", type number}, {"attributed_first_depositors", type number}, {"media_usd", type number}, {"promo_usd", type number}, {"cac_first_deposit", type number}, {"revenue_30d_per_depositor", type number}, {"roi_30d", type number}, {"retention_d30", type number}, {"share_withdrew_90pct_30d", type number}, {"did_lift", type number}, {"naive_lift", type number}}, "en-US")
+				in
+				    Typed

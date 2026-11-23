@@ -1,0 +1,251 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "tbl",
+  "position": {
+    "x": 32,
+    "y": 296,
+    "z": 8000,
+    "height": 720,
+    "width": 1100,
+    "tabOrder": 8000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "campaign_id"
+                }
+              },
+              "queryRef": "campaign_scorecard.campaign_id",
+              "nativeQueryRef": "campaign_id"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "type"
+                }
+              },
+              "queryRef": "campaign_scorecard.type",
+              "nativeQueryRef": "type"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "region"
+                }
+              },
+              "queryRef": "campaign_scorecard.region",
+              "nativeQueryRef": "region"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "channel"
+                }
+              },
+              "queryRef": "campaign_scorecard.channel",
+              "nativeQueryRef": "channel"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "attributed_first_depositors"
+                }
+              },
+              "queryRef": "campaign_scorecard.attributed_first_depositors",
+              "nativeQueryRef": "attributed_first_depositors"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "cac_first_deposit"
+                }
+              },
+              "queryRef": "campaign_scorecard.cac_first_deposit",
+              "nativeQueryRef": "cac_first_deposit"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "roi_30d"
+                }
+              },
+              "queryRef": "campaign_scorecard.roi_30d",
+              "nativeQueryRef": "roi_30d"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "share_withdrew_90pct_30d"
+                }
+              },
+              "queryRef": "campaign_scorecard.share_withdrew_90pct_30d",
+              "nativeQueryRef": "share_withdrew_90pct_30d"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "did_lift"
+                }
+              },
+              "queryRef": "campaign_scorecard.did_lift",
+              "nativeQueryRef": "did_lift"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "campaign_scorecard"
+                    }
+                  },
+                  "Property": "status"
+                }
+              },
+              "queryRef": "campaign_scorecard.status",
+              "nativeQueryRef": "status"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "values": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "11L"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "11L"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#52514E'"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "total": [
+        {
+          "properties": {
+            "totals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Campaigns  ·  SIMULATED'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

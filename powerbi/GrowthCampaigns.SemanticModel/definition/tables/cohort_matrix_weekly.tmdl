@@ -1,0 +1,46 @@
+/// first-deposit week x weeks since: active users and cohort size (SIMULATED)
+table cohort_matrix_weekly
+	lineageTag: a11813a4-241a-5583-9877-d2b010ecc686
+
+	column cohort_week
+		dataType: dateTime
+		formatString: yyyy-mm-dd
+		lineageTag: daa32416-b5db-5f25-85f6-9ca60c38572c
+		summarizeBy: none
+		sourceColumn: cohort_week
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column weeks_since
+		dataType: int64
+		lineageTag: 03f19c69-5dbb-5f3c-aa4d-45387ce386e9
+		summarizeBy: none
+		sourceColumn: weeks_since
+
+	column active_users
+		dataType: int64
+		lineageTag: 13d8ddb2-e421-519b-839c-cec4393ddfa9
+		summarizeBy: none
+		sourceColumn: active_users
+
+	column cohort_size
+		dataType: int64
+		lineageTag: df3c1881-1c7a-5ba7-91a7-1abefae7da32
+		summarizeBy: none
+		sourceColumn: cohort_size
+
+	column retention
+		dataType: double
+		lineageTag: 4b3e9499-e7f3-54d8-96a8-d28ba69c7ddb
+		summarizeBy: none
+		sourceColumn: retention
+
+	partition cohort_matrix_weekly = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "cohort_matrix_weekly.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"cohort_week", type date}, {"weeks_since", Int64.Type}, {"active_users", Int64.Type}, {"cohort_size", Int64.Type}, {"retention", type number}}, "en-US")
+				in
+				    Typed

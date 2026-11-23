@@ -1,0 +1,12 @@
+figure,report,pandas,match
+E5 raw / clean deposit rows on 27 Oct,2.099959,2.099959116925593,True
+E1 CMP014 CAC (USD),9.0,9.0,True
+E8 CAC week-over-week by booking date (2 Nov),0.4001,0.39999990221969006,True
+E8 CAC week-over-week by activity date (2 Nov),-0.2277,-0.22768842871541217,True
+E4 TR KYC pass rate 6-8 Oct,0.224686,0.22468642065079075,True
+"E7 30-day retention, 2026-09 cohort",0.3115,0.3115,True
+"E7 30-day retention, 2026-10 cohort",0.2542,0.2542,True
+"E2 referral inflation, week of 14 Sep",0.306601,0.30660074165636586,True
+Real 2026-06-15: USDT deposit transfers,12409.0,12409.0,True
+Real 2026-09-21: USDT deposit transfers,11335.0,11335.0,True
+Real 2026-11-20: USDT deposit transfers,11034.0,11034.0,True

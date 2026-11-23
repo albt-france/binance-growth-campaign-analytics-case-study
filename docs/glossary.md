@@ -1,0 +1,30 @@
+# Glossary
+
+- **Activation**: first trade after the first deposit.
+- **Activity date / booking date**: the day spend was incurred vs the day finance recorded the invoice.
+- **Address poisoning**: zero-value token transfers sent to imitate a familiar address; excluded and counted apart.
+- **ASOF join**: join to the latest row at or before a date (used for exchange rates).
+- **Attribution (first, last, position-based, Markov)**: rules to split one sign-up's credit across its touches.
+- **Burn-in**: initial weeks used only to know which addresses already existed (against left censoring).
+- **CAC**: customer acquisition cost, here per new first depositor.
+- **Censoring**: the outcome is not observed yet (right) or the start is not observed (left).
+- **Cohort**: users (or addresses) grouped by the week or month they started.
+- **CUPED**: variance reduction using a pre-period covariate; same mean difference, narrower interval.
+- **CUSUM / control chart**: monitoring rules that flag a shift from a baseline.
+- **Deposit address**: an address Binance assigns to receive a customer's deposit; it is later swept to a wallet.
+- **Difference-in-differences**: change in the treated group minus change in untreated groups.
+- **ERC-20 token transfer**: a token movement on Ethereum recorded as a log of a transaction.
+- **Hot / cold wallet**: exchange-controlled wallets (online / offline) listed in the Proof of Reserves.
+- **Holdout**: users randomly kept out of a campaign to measure its effect.
+- **Incrementality**: the part of an outcome caused by the campaign.
+- **KYC**: identity verification before deposits and trading.
+- **Minimum detectable effect (MDE)**: the smallest effect a test or design can reliably detect.
+- **Placebo test**: the same estimate where there is no campaign; it should be about zero.
+- **Proof of Reserves**: Binance's public list of addresses and balances, audited with zk-SNARKs.
+- **ROI (30-day)**: net revenue in 30 days minus costs, over costs.
+- **Simpson's paradox (mix effect)**: a total moves one way while every group moves the other way.
+- **SRM (sample-ratio mismatch)**: the split between arms differs from the plan; the test is then suspect.
+- **Sweep**: transfer from a deposit address to an exchange wallet.
+- **Synthetic control**: a weighted mix of untreated regions that tracks the treated region before launch.
+- **UTC+8**: Hong Kong, Malaysia and Singapore time.
+- **Watermark**: the latest data timestamp already loaded; incremental jobs read only what is newer.

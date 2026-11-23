@@ -1,0 +1,13 @@
+region_group,channel,first_touch,last_touch,position_based
+LATAM,affiliate_kol,43242,112899,73562.4
+LATAM,app_store_ads,60946,48892,55750.9
+LATAM,organic,122488,92500,109290.2
+LATAM,paid_search,81229,42548,64397.5
+LATAM,paid_social,84161,45472,67558.2
+LATAM,referral,20153,69908,41659.8
+other,affiliate_kol,95380,185479,134376.9
+other,app_store_ads,143251,123218,134591.2
+other,organic,286768,236157,264735.5
+other,paid_search,189642,106836,153891.8
+other,paid_social,190588,116015,158269.4
+other,referral,47477,185401,107241.2

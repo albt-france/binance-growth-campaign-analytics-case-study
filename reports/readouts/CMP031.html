@@ -1,0 +1,55 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<title>CMP031 readout - ALL deposit (crm_lifecycle)</title><style>
+@page { size: 1600px 900px; margin: 0; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: 'Segoe UI', Arial, sans-serif; color: #0B0B0B; background: #F1EFEA; }
+.page { width: 1600px; height: 900px; padding: 30px 44px 22px; display: flex; flex-direction: column; page-break-after: always; overflow: hidden; background: #F1EFEA; }
+header { display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; }
+h1 { font-size: 27px; margin: 0 0 6px; font-weight: 700; line-height: 1.15; max-width: 1450px; }
+.sub { margin: 0; color: #52514E; font-size: 15px; max-width: 1450px; }
+.tag { font-size: 10.5px; font-weight: 700; letter-spacing: .07em; padding: 2px 7px; border-radius: 4px; white-space: nowrap; vertical-align: 2px; margin-left: 4px; }
+.tag-public { background: #E3EEFB; color: #1C5CAB; } .tag-simulated { background: #FBE9E0; color: #9A3B12; }
+main { flex: 1; display: flex; flex-direction: column; gap: 12px; margin-top: 14px; min-height: 0; }
+footer { display: flex; justify-content: space-between; gap: 20px; font-size: 11px; color: #898781; margin-top: 10px; }
+.card { background: #FFFFFF; border: 1px solid #E1E0D9; border-radius: 8px; padding: 11px 15px; min-height: 0; overflow: hidden; }
+.card h2 { font-size: 15px; margin: 0 0 6px; } .card h3 { font-size: 14px; margin: 0 0 4px; }
+.card p, .card li { font-size: 13.5px; line-height: 1.4; margin: 3px 0; color: #2B2A27; }
+.card ul, .card ol { padding-left: 18px; margin: 4px 0; }
+.chart { display: flex; flex-direction: column; }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; flex: 1; min-height: 0; }
+.grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; flex: 1; min-height: 0; }
+.grid4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.grid2x2 { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 12px; flex: 1; min-height: 0; }
+.g21 { display: grid; grid-template-columns: 2fr 1fr; gap: 12px; flex: 1; min-height: 0; }
+.g12 { display: grid; grid-template-columns: 1fr 2fr; gap: 12px; flex: 1; min-height: 0; }
+figure { margin: 0; flex: 1; min-height: 0; display: flex; flex-direction: column; }
+figure img { width: 100%; flex: 1; min-height: 0; object-fit: contain; }
+figcaption { font-size: 11.5px; color: #52514E; margin-top: 3px; }
+.tile .label { font-size: 12px; font-weight: 700; color: #52514E; letter-spacing: .04em; }
+.tile .big { font-size: 40px; font-weight: 700; margin: 2px 0; color: #0B0B0B; }
+.tile p { font-size: 13px; color: #52514E; }
+.stack { display: flex; flex-direction: column; gap: 12px; min-height: 0; } .stack > .card { flex: 1; }
+.auto { flex: 0 0 auto !important; }
+.qs li { font-size: 14.5px !important; margin: 4px 0; }
+.reco li { font-size: 13.5px !important; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th { text-align: left; color: #52514E; font-weight: 600; border-bottom: 1px solid #E1E0D9; padding: 4px 6px; }
+td { border-bottom: 1px solid #EFEEE9; padding: 3px 6px; vertical-align: top; }
+table.small, .small, .small li, .small p { font-size: 12.3px !important; }
+.note { font-size: 11.5px !important; color: #6B6A65 !important; }
+.ok { color: #1E7B4F; font-weight: 600; } .bad { color: #B42F2F; font-weight: 600; } .rev { color: #9A6A00; font-weight: 600; }
+</style></head><body>
+<section class="page">
+  <header><div><h1>CMP031 readout - ALL deposit (crm_lifecycle)</h1><p class="sub">Objective: reactivation · 2026-10-19 00:00 to 2026-11-01 23:59 UTC (launch 2026-10-19 08:00 UTC+8) · budget 3,600 USD · SIMULATED exchange, not Binance data</p></div></header>
+  <main>
+<div class="grid4"><div class="card tile"><div class="label">Targeted users <span class="tag tag-simulated">SIMULATED</span></div><div class="big">600,000</div><p>holdout 60,170 (10%)</p></div><div class="card tile"><div class="label">14-day reactivation <span class="tag tag-simulated">SIMULATED</span></div><div class="big">9.55%</div><p>holdout 7.75%</p></div><div class="card tile"><div class="label">Incremental (CUPED) <span class="tag tag-simulated">SIMULATED</span></div><div class="big">+1.75 pts</div><p>95% CI +1.55 to +1.96</p></div><div class="card tile"><div class="label">Smallest detectable <span class="tag tag-simulated">SIMULATED</span></div><div class="big">0.33 pts</div><p>split check p = 0.46</p></div></div>
+<div class="g21">
+  <div class="stack"><div class="card "><h2>Incremental vs control <span class="tag tag-simulated">SIMULATED</span></h2><table><tr><td>Sample split (SRM, expected 90/10)</td><td><b>p = 0.46</b></td><td>OK</td></tr><tr><td>Raw difference</td><td><b>+1.80 pts [+1.57, +2.03]</b></td><td></td></tr><tr><td>CUPED variance reduction</td><td><b>16%</b></td><td>same estimate, narrower interval</td></tr></table></div></div>
+  <div class="stack">
+    <div class="card "><h2>3 recommendations</h2><ol><li>Scale: send to the remaining dormant users, keeping a 10% holdout to keep measuring.</li><li>Test the message (timing, offer) as an A/B inside the treated group; keep the holdout fixed.</li><li>Report reactivation as incremental users per 1,000 messages, the number finance can budget.</li></ol></div>
+    <div class="card auto"><h2>For operations</h2><ul><li>Holdout users must stay excluded from all overlapping CRM sends during the 14 days.</li><li>Read reactivation from assignment day, in both arms; &#x27;opened the e-mail&#x27; is not a comparison.</li></ul></div>
+    <div class="card auto"><h2>For executives</h2><ul><li>Reactivation rose: +1.75 points vs a randomised holdout.</li><li>That is about 18 extra active users per 1,000 messages.</li><li>Measured with a randomised holdout: the most reliable method we have.</li></ul></div>
+  </div>
+</div></main>
+  <footer><span>Source: simulated exchange (seed 42) · retrieved 23 Nov 2026</span><span>Independent case study based on public data · not affiliated with or endorsed by Binance · Not investment advice</span><span>1 / 1</span></footer>
+</section></body></html>

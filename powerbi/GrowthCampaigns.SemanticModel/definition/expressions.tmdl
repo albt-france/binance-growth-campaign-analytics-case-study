@@ -1,0 +1,5 @@
+/// Folder of the CSV files (data/processed of your copy of the repository, with a trailing backslash).
+expression DataFolder = "C:\PATH\TO\REPO\data\processed\" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: 5834ba9e-b3bb-599c-b5f4-7bf25bc07893
+
+	annotation PBI_ResultType = Text

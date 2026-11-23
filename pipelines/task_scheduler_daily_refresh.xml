@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Windows Task Scheduler template: daily refresh at 04:30 UTC.
+     PROVIDED ONLY - never registered by the project. To use it: replace REPO_PATH below with the folder of your copy,
+     adjust the start time to your local equivalent of 04:30 UTC, then import it in Task Scheduler
+     (Action > Import Task...). Manual alternative: .venv\Scripts\python pipelines\daily_refresh.py -->
+<Task version="1.4" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
+  <RegistrationInfo>
+    <Description>Growth case study - daily incremental refresh (Ethereum partitions, announcements, market data, SQL tests, dashboard)</Description>
+  </RegistrationInfo>
+  <Triggers>
+    <CalendarTrigger>
+      <StartBoundary>2026-11-24T04:30:00Z</StartBoundary>
+      <Enabled>true</Enabled>
+      <ScheduleByDay>
+        <DaysInterval>1</DaysInterval>
+      </ScheduleByDay>
+    </CalendarTrigger>
+  </Triggers>
+  <Settings>
+    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>
+    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
+    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>
+    <StartWhenAvailable>true</StartWhenAvailable>
+    <RunOnlyIfNetworkAvailable>true</RunOnlyIfNetworkAvailable>
+    <ExecutionTimeLimit>PT3H</ExecutionTimeLimit>
+    <Enabled>true</Enabled>
+  </Settings>
+  <Actions Context="Author">
+    <Exec>
+      <Command>REPO_PATH\.venv\Scripts\python.exe</Command>
+      <Arguments>pipelines\daily_refresh.py</Arguments>
+      <WorkingDirectory>REPO_PATH</WorkingDirectory>
+    </Exec>
+  </Actions>
+</Task>

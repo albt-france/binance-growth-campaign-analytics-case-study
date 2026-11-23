@@ -1,0 +1,109 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "ret",
+  "position": {
+    "x": 1152,
+    "y": 156,
+    "z": 5000,
+    "height": 860,
+    "width": 736,
+    "tabOrder": 5000
+  },
+  "visual": {
+    "visualType": "clusteredColumnChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "retention_by_channel_month"
+                    }
+                  },
+                  "Property": "channel"
+                }
+              },
+              "queryRef": "retention_by_channel_month.channel",
+              "nativeQueryRef": "channel"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Measures"
+                    }
+                  },
+                  "Property": "Retention D30"
+                }
+              },
+              "queryRef": "_Measures.Retention D30",
+              "nativeQueryRef": "Retention D30"
+            }
+          ]
+        },
+        "Series": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "retention_by_channel_month"
+                    }
+                  },
+                  "Property": "dep_month"
+                }
+              },
+              "queryRef": "retention_by_channel_month.dep_month",
+              "nativeQueryRef": "dep_month"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'30-day retention by channel, Sep vs Oct  ·  SIMULATED'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

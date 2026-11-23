@@ -1,0 +1,102 @@
+/// All measures (dictionary: METRICS.md)
+table _Measures
+	lineageTag: 2faccd78-5aed-58bf-a44d-4560d7e06cd4
+
+	/// attributed first depositors
+	measure 'First depositors' = SUM ( campaign_scorecard[attributed_first_depositors] )
+		formatString: #,0
+		displayFolder: Scorecard
+		lineageTag: 29b69be6-f929-5e64-b534-d0fc6064e16a
+
+	/// campaign media spend
+	measure 'Media USD' = SUM ( campaign_scorecard[media_usd] )
+		formatString: #,0
+		displayFolder: Scorecard
+		lineageTag: f9a3f55c-c014-59e6-b53d-a0d8b9458741
+
+	/// promo bonuses (boosted rates)
+	measure 'Promo USD' = SUM ( campaign_scorecard[promo_usd] )
+		formatString: #,0
+		displayFolder: Scorecard
+		lineageTag: 95af5b6a-0756-5bda-b847-4fd445f60805
+
+	/// media / attributed first depositors
+	measure CAC = DIVIDE ( [Media USD], [First depositors] )
+		formatString: 0.00
+		displayFolder: Scorecard
+		lineageTag: fc9a3b86-c390-594b-b641-918198933002
+
+	/// (30-day revenue - media - promo) / (media + promo), campaigns with 30-day data
+	measure 'ROI 30d' =
+			VAR c = FILTER ( campaign_scorecard, NOT ISBLANK ( campaign_scorecard[revenue_30d_per_depositor] ) )
+			VAR rev = SUMX ( c, campaign_scorecard[revenue_30d_per_depositor] * campaign_scorecard[attributed_first_depositors] )
+			VAR cost = SUMX ( c, campaign_scorecard[media_usd] + campaign_scorecard[promo_usd] )
+			RETURN DIVIDE ( rev - cost, cost )
+		formatString: 0%
+		displayFolder: Scorecard
+		lineageTag: 56ce7fc4-9d09-5636-bb3e-45caf1460c6b
+
+	/// number of campaigns
+	measure Campaigns = COUNTROWS ( campaign_scorecard )
+		formatString: 0
+		displayFolder: Scorecard
+		lineageTag: f4cbee53-bbe1-5b90-b639-267eb36e1fbf
+
+	/// sign-ups
+	measure Registrations = SUM ( funnel_by_region_channel[registrations] )
+		formatString: #,0
+		displayFolder: Funnel
+		lineageTag: e59ea5f5-8abb-5787-9c72-c358b5e6c5e6
+
+	/// within 7 days
+	measure 'KYC submitted' = SUM ( funnel_by_region_channel[kyc_submitted] )
+		formatString: #,0
+		displayFolder: Funnel
+		lineageTag: de5c6bdd-c682-5526-b71f-2a4f91efd2c8
+
+	/// within 7 days
+	measure 'KYC passed' = SUM ( funnel_by_region_channel[kyc_passed] )
+		formatString: #,0
+		displayFolder: Funnel
+		lineageTag: 84b5a199-2b91-56c2-bdbc-1978289315a6
+
+	/// within 7 days of sign-up
+	measure 'First deposit 7d' = SUM ( funnel_by_region_channel[first_deposit_7d] )
+		formatString: #,0
+		displayFolder: Funnel
+		lineageTag: 921941e1-6cf1-5ce2-b472-e1d136ff442e
+
+	/// within 7 days of sign-up
+	measure 'First trade 7d' = SUM ( funnel_by_region_channel[first_trade_7d] )
+		formatString: #,0
+		displayFolder: Funnel
+		lineageTag: 24dd2c8d-bdb5-5016-b25f-6cc02acd1734
+
+	/// first deposit within 7 days / sign-ups
+	measure 'Sign-up to deposit %' = DIVIDE ( [First deposit 7d], [Registrations] )
+		formatString: 0.0%
+		displayFolder: Funnel
+		lineageTag: cc361be6-c688-56dd-a506-5488372fc955
+
+	/// active users / cohort size
+	measure 'Cohort retention' = DIVIDE ( SUM ( cohort_matrix_weekly[active_users] ), SUM ( cohort_matrix_weekly[cohort_size] ) )
+		formatString: 0.0%
+		displayFolder: Cohorts
+		lineageTag: d4f3a3d9-534a-594b-b891-5e1a6504c882
+
+	/// depositor-weighted 30-day retention
+	measure 'Retention D30' = DIVIDE ( SUMX ( retention_by_channel_month, retention_by_channel_month[retention_d30] * retention_by_channel_month[depositors_full_30d] ), SUM ( retention_by_channel_month[depositors_full_30d] ) )
+		formatString: 0.0%
+		displayFolder: Cohorts
+		lineageTag: 7aa3839b-4dbc-5350-8f4b-f534f7150d07
+
+	column Measures
+		dataType: string
+		isHidden
+		lineageTag: 04bf98d0-1343-5727-a1ce-4fcd4bd91677
+		summarizeBy: none
+		sourceColumn: Measures
+
+	partition _Measures = m
+		mode: import
+		source = #table(type table [Measures = text], {})

@@ -1,0 +1,495 @@
+{
+ "generated": "from data/processed and the DuckDB warehouse; no hand-typed figure",
+ "facts": {
+  "job": {
+   "title": "Data Analyst (12 months contract)",
+   "first_published": "2026-10-14T04:24:53-04:00",
+   "updated_at": "2026-11-23T01:48:12-05:00",
+   "location": "Hong Kong; Malaysia; Singapore",
+   "open_roles_on_board": 224
+  },
+  "exchange_info": {
+   "pairs": 3711,
+   "trading": 1376,
+   "trading_usdt_quote": 526
+  },
+  "por_audit": {
+   "audit_date_utc": "2026-11-12 00:00",
+   "method": "zk-SNARKs",
+   "ratios": {
+    "BTC": 1.0005,
+    "ETH": 1.0002,
+    "USDT": 1.0434,
+    "USDC": 1.0007
+   },
+   "source": "https://www.binance.com/en/proof-of-reserves",
+   "read_on": "2026-11-23"
+  },
+  "company_claims": {
+   "text": "world's largest cryptocurrency exchange by trading volume and registered users; trusted by 300+ million people in 100+ countries",
+   "source": "Binance job post JR100294 (Greenhouse)",
+   "read_on": "2026-11-23"
+  },
+  "por_nov_files": {
+   "deposit_rows": 10662873,
+   "deposit_rows_eth": 8220228,
+   "deposit_rows_tron": 2140219,
+   "hotcold_rows": 4862
+  },
+  "collected_on": "2026-11-23"
+ },
+ "real": {
+  "r1": {
+   "days": 182,
+   "deposits_per_day": 30831.181319,
+   "withdrawals_per_day": 50553.032967,
+   "active_deposit_addresses_per_day": 18257.428571,
+   "swept_addresses_per_day": 34587.912088,
+   "deposits_change_first_vs_last_4w": -0.307035,
+   "withdrawals_change_first_vs_last_4w": 0.203031,
+   "usdt_share_of_deposit_transfers": 0.331202,
+   "usdc_share_of_deposit_transfers": 0.154667,
+   "eth_share_of_deposit_transfers": 0.188901,
+   "weekend_vs_weekday": -0.21886,
+   "peak_hour_hkt": 22,
+   "trough_hour_hkt": 7,
+   "peak_to_trough_hkt": 1.76427,
+   "withdrawals_to_deposits": 1.639672
+  },
+  "r2": {
+   "deposits_change_A_asof": 0.430424,
+   "deposits_per_day_A_asof": 9705.681319,
+   "deposits_change_B_union": -0.307035,
+   "deposits_per_day_B_union": 30831.181319,
+   "deposits_change_C_nov": -0.303261,
+   "deposits_per_day_C_nov": 18937.664835,
+   "fake_growth_pts": 0.737459,
+   "coverage_first4w_A_asof": 0.179239,
+   "coverage_last4w_A_asof": 0.17209,
+   "coverage_first4w_C_nov": 0.463355,
+   "coverage_last4w_C_nov": 0.305121,
+   "coverage_20nov_clean": 0.327859,
+   "coverage_20nov_raw": 0.327162,
+   "coverage_20nov_raw_listed": 6468,
+   "coverage_20nov_raw_senders": 19770,
+   "excl_failed_share": 0.000194,
+   "excl_zero_value_share": 0.33474,
+   "excl_dust_share": 0.002104,
+   "excl_internal_share": 0.001879,
+   "clean_share": 0.661083,
+   "list_deposit_first": 1818261,
+   "list_deposit_last": 8139203,
+   "list_wallets_first": 36,
+   "list_wallets_last": 111,
+   "list_deposit_max": 11509406
+  },
+  "r3": {
+   "cohorts": 18,
+   "median_cohort_size": 104578.5,
+   "retention_w1": 0.025664,
+   "retention_w4": 0.020224,
+   "retention_w8": 0.020361,
+   "retention_w12": 0.031484
+  },
+  "r4": {
+   "deposits_elasticity_btc_volume": 0.023319,
+   "deposits_elasticity_se": 0.043166,
+   "deposits_r2": 0.334555,
+   "deposits_corr_btc_abs_return": 0.206947,
+   "deposits_corr_btc_volume": 0.336709,
+   "withdrawals_elasticity_btc_volume": 0.038903,
+   "withdrawals_elasticity_se": 0.251221,
+   "withdrawals_r2": 0.04904,
+   "withdrawals_corr_btc_abs_return": 0.234426,
+   "withdrawals_corr_btc_volume": 0.30626,
+   "btc_open_1oct": 83623.59,
+   "btc_open_22nov": 60215.78,
+   "btc_change_1oct_22nov": -0.279919,
+   "most_volatile_day_sim_window": "2026-09-21",
+   "most_volatile_day_abs_return": 0.064886
+  },
+  "r5": {
+   "days": 182,
+   "max_hours_late": 71.116667,
+   "latest_day": "2026-06-20",
+   "days_late_over_6h": 14,
+   "late_days": [
+    "2026-05-29",
+    "2026-05-30",
+    "2026-06-20",
+    "2026-06-21",
+    "2026-06-22",
+    "2026-07-03",
+    "2026-07-15",
+    "2026-07-16",
+    "2026-07-25",
+    "2026-07-28",
+    "2026-07-29",
+    "2026-08-29",
+    "2026-08-31",
+    "2026-09-01"
+   ],
+   "duplicate_hash_days": 0,
+   "duplicate_hash_rows": 0,
+   "tx_total_mean": 2070324.225275,
+   "tt_total_mean": 3695022.928571,
+   "zero_value_share_all_transfers": 0.060229,
+   "failed_share_all_tx": 0.013749,
+   "mb_read_total_gb": 138.1145,
+   "extract_hours_total": 4.989167,
+   "outlier_days_z3": 0,
+   "wallet_gap_days": [
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02"
+   ],
+   "wallet_gap_min_ratio": 0.00149,
+   "wallet_gap_max_ratio": 0.121684,
+   "wallet_gap_deposit_ratio_mean": 0.794214
+  },
+  "calendar": {
+   "announcements": 750,
+   "since_25may": 430,
+   "in_sim_window": 195,
+   "first": "2025-12-08",
+   "last": "2026-11-23",
+   "detail_in_scope": 430,
+   "detail_read": 430,
+   "period_found": 372,
+   "type_shares_since_25may": {
+    "trading_competition": 0.3512,
+    "other": 0.1953,
+    "earn_apr": 0.1488,
+    "learn_quiz": 0.0674,
+    "tokenized_stock": 0.0535,
+    "p2p": 0.0442,
+    "referral": 0.0372,
+    "new_user": 0.0372,
+    "alpha": 0.0279,
+    "pay": 0.0233,
+    "deposit": 0.014
+   },
+   "region_stated_share": 0.076744,
+   "taxonomy_dev_v1": 0.7,
+   "taxonomy_dev_v2": 0.98,
+   "taxonomy_fresh_v2": 0.88
+  },
+  "event_study": {
+   "events": 19,
+   "events_usdt": 7,
+   "events_usdc": 12,
+   "share_start_from_period": 0.947368,
+   "significant_raw_p05": 2,
+   "significant_bh_q10": 0,
+   "mde_usdt": 0.11054,
+   "mde_usdc": 0.200642,
+   "median_abs_effect": 0.065003,
+   "mean_active_promotions": 36.769231,
+   "max_active_promotions": 51
+  },
+  "approx_vs_exact": {
+   "mean_abs_error": 0.096256,
+   "max_abs_error": 0.38976,
+   "seconds_exact": 0.59,
+   "seconds_approx": 0.06
+  },
+  "crosscheck": [
+   {
+    "date": "2026-06-15",
+    "deposits_pandas": 12409,
+    "deposits_sql": 12409,
+    "senders_pandas": 5492,
+    "senders_sql": 5492,
+    "match": true
+   },
+   {
+    "date": "2026-09-21",
+    "deposits_pandas": 11335,
+    "deposits_sql": 11335,
+    "senders_pandas": 103026,
+    "senders_sql": 103026,
+    "match": true
+   },
+   {
+    "date": "2026-11-20",
+    "deposits_pandas": 11034,
+    "deposits_sql": 11034,
+    "senders_pandas": 12453,
+    "senders_sql": 12453,
+    "match": true
+   }
+  ]
+ },
+ "sim": {
+  "meta": {
+   "seed": 42,
+   "signups": 1365325,
+   "rows_total": 24674686,
+   "competition_day": "2026-09-21"
+  },
+  "funnel": {
+   "registrations": 1273489,
+   "kyc_submitted": 940634,
+   "kyc_passed": 730115,
+   "first_deposit_7d": 391499,
+   "first_trade_7d": 326254,
+   "reg_to_deposit_7d": 0.307422,
+   "kyc_pass_of_submitted": 0.776195,
+   "reg_to_deposit_by_channel": {
+    "affiliate_kol": 0.3028,
+    "app_store_ads": 0.2941,
+    "organic": 0.3306,
+    "paid_search": 0.3106,
+    "paid_social": 0.2672,
+    "referral": 0.3159
+   }
+  },
+  "km_median_days": 5.040162,
+  "km_share_deposit_by_7d": 0.541518,
+  "scorecard_status": {
+   "stop (no incremental effect)": 14,
+   "scale": 12,
+   "keep (small effect: check cost)": 4,
+   "fix (ROI < 0)": 3,
+   "not measurable (no untreated region)": 3,
+   "pause (abuse flags)": 1,
+   "stop (guardrail: withdrawals)": 1,
+   "stop (no measurable effect)": 1,
+   "too early (no 30-day data)": 1
+  },
+  "campaigns": 40,
+  "campaigns_attributed_roi_positive": 6,
+  "campaigns_with_roi": 13,
+  "crm": {
+   "CMP009": {
+    "campaign_id": "CMP009",
+    "n_treatment": 179994,
+    "n_holdout": 20006,
+    "srm_p": 0.964329,
+    "rate_treatment": 0.085431,
+    "rate_holdout": 0.079276,
+    "diff": 0.006154,
+    "diff_lo": 0.002194,
+    "diff_hi": 0.010115,
+    "p": 0.003036,
+    "cuped_diff": 0.004637,
+    "cuped_lo": 0.00108,
+    "cuped_hi": 0.008195,
+    "variance_reduction": 0.187133,
+    "mde_pts": 0.005657
+   },
+   "CMP020": {
+    "campaign_id": "CMP020",
+    "n_treatment": 179982,
+    "n_holdout": 20018,
+    "srm_p": 0.893273,
+    "rate_treatment": 0.078863,
+    "rate_holdout": 0.07818,
+    "diff": 0.000684,
+    "diff_lo": -0.003238,
+    "diff_hi": 0.004606,
+    "p": 0.733364,
+    "cuped_diff": 0.000141,
+    "cuped_lo": -0.00336,
+    "cuped_hi": 0.003641,
+    "variance_reduction": 0.192978,
+    "mde_pts": 0.005603
+   },
+   "CMP031": {
+    "campaign_id": "CMP031",
+    "n_treatment": 539830,
+    "n_holdout": 60170,
+    "srm_p": 0.464435,
+    "rate_treatment": 0.095543,
+    "rate_holdout": 0.07753,
+    "diff": 0.018013,
+    "diff_lo": 0.015737,
+    "diff_hi": 0.020289,
+    "p": 0.0,
+    "cuped_diff": 0.017545,
+    "cuped_lo": 0.015493,
+    "cuped_hi": 0.019596,
+    "variance_reduction": 0.163571,
+    "mde_pts": 0.003252
+   },
+   "CMP035": {
+    "campaign_id": "CMP035",
+    "n_treatment": 180104,
+    "n_holdout": 19896,
+    "srm_p": 0.438239,
+    "rate_treatment": 0.089176,
+    "rate_holdout": 0.078609,
+    "diff": 0.010567,
+    "diff_lo": 0.006603,
+    "diff_hi": 0.014532,
+    "p": 1e-06,
+    "cuped_diff": 0.010203,
+    "cuped_lo": 0.006652,
+    "cuped_hi": 0.013754,
+    "variance_reduction": 0.174506,
+    "mde_pts": 0.005664
+   }
+  },
+  "events": {
+   "E1": {
+    "cac": 9.0,
+    "cac_rank": 1,
+    "roi_30d": -0.579,
+    "withdrew_90pct": 0.5484,
+    "retention_d30": 0.0635,
+    "signup_lift_naive": 1.298785,
+    "median_roi_others": -0.0345,
+    "n_kpi_campaigns": 14
+   },
+   "E2": {
+    "flagged_referrers": 41,
+    "flagged_referees": 6202,
+    "referral_signups_week": 26426,
+    "flagged_in_week": 6201,
+    "inflation": 0.306601,
+    "median_flags_others": null
+   },
+   "E3": {
+    "latam_claimed_over_real": 1.2868,
+    "other_claimed_over_real": 1.1901
+   },
+   "E4": {
+    "pass_rate_outage": 0.224686,
+    "pass_rate_before": 0.77493,
+    "cmp017_first_depositors": 582
+   },
+   "E5": {
+    "raw_rows_27oct": 20546,
+    "clean_rows_27oct": 9784,
+    "ratio": 2.099959,
+    "late_launch_campaign": "CMP027",
+    "launch_ts_utc": "2026-11-02 16:00:00",
+    "day1_deposits_utc": 1060,
+    "day1_deposits_hkt": 1029
+   },
+   "E6": {
+    "naive": 0.646404,
+    "did": 0.053279,
+    "did_lo": 0.015959,
+    "did_hi": 0.09197,
+    "start": "2026-09-21",
+    "naive_3d_vs_7d": 0.46392
+   },
+   "E7": {
+    "overall_sep": 0.3115,
+    "overall_oct": 0.2542,
+    "channels_up": 6,
+    "channels": 6,
+    "affiliate_share_sep": 0.07255,
+    "affiliate_share_oct": 0.383745,
+    "standardised_sep": 0.268736,
+    "standardised_oct": 0.294489
+   },
+   "E8": {
+    "wow_booking": 0.4001,
+    "wow_activity": -0.2277,
+    "cac_booking": 22.85,
+    "cac_activity": 11.43
+   }
+  },
+  "attribution_latam": {
+   "markov_share": {
+    "affiliate_kol": 0.1886,
+    "app_store_ads": 0.1425,
+    "organic": 0.2194,
+    "paid_search": 0.1571,
+    "paid_social": 0.1737,
+    "referral": 0.1188
+   },
+   "markov_lo": {
+    "affiliate_kol": 0.188,
+    "app_store_ads": 0.142,
+    "organic": 0.2189,
+    "paid_search": 0.1567,
+    "paid_social": 0.1732,
+    "referral": 0.1183
+   },
+   "markov_hi": {
+    "affiliate_kol": 0.1891,
+    "app_store_ads": 0.143,
+    "organic": 0.22,
+    "paid_search": 0.1575,
+    "paid_social": 0.1741,
+    "referral": 0.1194
+   },
+   "last_touch_share": {
+    "affiliate_kol": 0.2739,
+    "app_store_ads": 0.1186,
+    "organic": 0.2244,
+    "paid_search": 0.1032,
+    "paid_social": 0.1103,
+    "referral": 0.1696
+   },
+   "first_touch_share": {
+    "affiliate_kol": 0.1049,
+    "app_store_ads": 0.1478,
+    "organic": 0.2971,
+    "paid_search": 0.1971,
+    "paid_social": 0.2042,
+    "referral": 0.0489
+   }
+  },
+  "cac_weekly": {
+   "mean_activity": 15.939231,
+   "mean_booking": 15.811538
+  },
+  "monitoring_alerts": 11
+ },
+ "verification": {
+  "methods": {
+   "did": {
+    "campaigns": 33,
+    "mean_abs_error": 0.072634,
+    "mean_error": 0.003457,
+    "coverage": 0.575758
+   },
+   "naive": {
+    "campaigns": 36,
+    "mean_abs_error": 0.854894,
+    "mean_error": 0.826417,
+    "coverage": 0.361111
+   },
+   "randomised_holdout": {
+    "campaigns": 4,
+    "mean_abs_error": 0.00054,
+    "mean_error": -0.000369,
+    "coverage": 1.0
+   },
+   "synthetic": {
+    "campaigns": 33,
+    "mean_abs_error": 0.076491,
+    "mean_error": 0.012695,
+    "coverage": 0.727273
+   }
+  },
+  "backtest": {
+   "true": 7,
+   "false": 3,
+   "explained_false": 1,
+   "missed": [
+    "referral farm (week of 14 Sep)"
+   ]
+  },
+  "truth_events": {
+   "E1_hunters": 12899,
+   "E2_farm_accounts": 6200,
+   "E2_inflation_true": 0.3065,
+   "E3_claims_ratio_true": 1.2868,
+   "E6_true_lift": 0.03,
+   "E7_channel_uplift": 0.04
+  },
+  "cmp014_true_lift": 0.8,
+  "cmp031_true_lift": 0.018
+ },
+ "pipeline": {
+  "runs": 1,
+  "last_seconds": 927.0,
+  "median_seconds": 927.0
+ }
+}

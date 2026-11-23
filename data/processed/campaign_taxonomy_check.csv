@@ -1,0 +1,4 @@
+check,accuracy
+"dev sample, rules v1",0.7
+"dev sample, rules v2 (tuned on it)",0.98
+"fresh sample, rules v2",0.88

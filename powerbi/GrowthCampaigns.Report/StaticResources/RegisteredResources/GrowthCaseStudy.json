@@ -1,0 +1,28 @@
+{
+  "name": "Growth Case Study",
+  "dataColors": [
+    "#1C5CAB",
+    "#C2541B",
+    "#1E7B4F",
+    "#6B4FA0",
+    "#B8A27A",
+    "#B42F2F",
+    "#3F8FA6",
+    "#A3A19A"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#0B0B0B",
+  "tableAccent": "#1C5CAB",
+  "textClasses": {
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#52514E"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#0B0B0B"
+    }
+  }
+}

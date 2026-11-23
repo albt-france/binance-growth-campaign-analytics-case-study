@@ -1,0 +1,61 @@
+/// funnel counts with 7-day windows, region x channel (SIMULATED)
+table funnel_by_region_channel
+	lineageTag: 01615ecb-7513-56b2-b318-e50d06136e4e
+
+	column region
+		dataType: string
+		lineageTag: 069a56cb-18a6-5228-9e77-74f75541e659
+		summarizeBy: none
+		sourceColumn: region
+
+	column channel
+		dataType: string
+		lineageTag: c3643429-9e13-5052-8ea0-942e3fa6961f
+		summarizeBy: none
+		sourceColumn: channel
+
+	column registrations
+		dataType: int64
+		lineageTag: 56f03dd5-2a9f-53ed-bb6a-71de836863bc
+		summarizeBy: none
+		sourceColumn: registrations
+
+	column kyc_submitted
+		dataType: int64
+		lineageTag: a3586c33-9cd6-5b0d-84c7-b71068a19296
+		summarizeBy: none
+		sourceColumn: kyc_submitted
+
+	column kyc_passed
+		dataType: int64
+		lineageTag: 2fba6113-0ce6-5bf3-bc27-980d07ec90b4
+		summarizeBy: none
+		sourceColumn: kyc_passed
+
+	column first_deposit_7d
+		dataType: int64
+		lineageTag: e824ed53-3c84-5bc8-9da0-7aefcde3b920
+		summarizeBy: none
+		sourceColumn: first_deposit_7d
+
+	column first_trade_7d
+		dataType: int64
+		lineageTag: 1dcd817d-d60d-5f5b-b9cb-6ff0a7a183c3
+		summarizeBy: none
+		sourceColumn: first_trade_7d
+
+	column reg_to_deposit_7d
+		dataType: double
+		lineageTag: e9fdd469-f80f-5c35-8df9-f0d98a410288
+		summarizeBy: none
+		sourceColumn: reg_to_deposit_7d
+
+	partition funnel_by_region_channel = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "funnel_by_region_channel.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"region", type text}, {"channel", type text}, {"registrations", Int64.Type}, {"kyc_submitted", Int64.Type}, {"kyc_passed", Int64.Type}, {"first_deposit_7d", Int64.Type}, {"first_trade_7d", Int64.Type}, {"reg_to_deposit_7d", type number}}, "en-US")
+				in
+				    Typed

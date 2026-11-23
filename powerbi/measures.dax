@@ -1,0 +1,60 @@
+// Growth campaign case study - all DAX measures (SIMULATED exchange).
+
+// [Scorecard] attributed first depositors  Format: #,0
+[First depositors] =
+    SUM ( campaign_scorecard[attributed_first_depositors] )
+
+// [Scorecard] campaign media spend  Format: #,0
+[Media USD] =
+    SUM ( campaign_scorecard[media_usd] )
+
+// [Scorecard] promo bonuses (boosted rates)  Format: #,0
+[Promo USD] =
+    SUM ( campaign_scorecard[promo_usd] )
+
+// [Scorecard] media / attributed first depositors  Format: 0.00
+[CAC] =
+    DIVIDE ( [Media USD], [First depositors] )
+
+// [Scorecard] (30-day revenue - media - promo) / (media + promo), campaigns with 30-day data  Format: 0%
+[ROI 30d] =
+    VAR c = FILTER ( campaign_scorecard, NOT ISBLANK ( campaign_scorecard[revenue_30d_per_depositor] ) )
+    VAR rev = SUMX ( c, campaign_scorecard[revenue_30d_per_depositor] * campaign_scorecard[attributed_first_depositors] )
+    VAR cost = SUMX ( c, campaign_scorecard[media_usd] + campaign_scorecard[promo_usd] )
+    RETURN DIVIDE ( rev - cost, cost )
+
+// [Scorecard] number of campaigns  Format: 0
+[Campaigns] =
+    COUNTROWS ( campaign_scorecard )
+
+// [Funnel] sign-ups  Format: #,0
+[Registrations] =
+    SUM ( funnel_by_region_channel[registrations] )
+
+// [Funnel] within 7 days  Format: #,0
+[KYC submitted] =
+    SUM ( funnel_by_region_channel[kyc_submitted] )
+
+// [Funnel] within 7 days  Format: #,0
+[KYC passed] =
+    SUM ( funnel_by_region_channel[kyc_passed] )
+
+// [Funnel] within 7 days of sign-up  Format: #,0
+[First deposit 7d] =
+    SUM ( funnel_by_region_channel[first_deposit_7d] )
+
+// [Funnel] within 7 days of sign-up  Format: #,0
+[First trade 7d] =
+    SUM ( funnel_by_region_channel[first_trade_7d] )
+
+// [Funnel] first deposit within 7 days / sign-ups  Format: 0.0%
+[Sign-up to deposit %] =
+    DIVIDE ( [First deposit 7d], [Registrations] )
+
+// [Cohorts] active users / cohort size  Format: 0.0%
+[Cohort retention] =
+    DIVIDE ( SUM ( cohort_matrix_weekly[active_users] ), SUM ( cohort_matrix_weekly[cohort_size] ) )
+
+// [Cohorts] depositor-weighted 30-day retention  Format: 0.0%
+[Retention D30] =
+    DIVIDE ( SUMX ( retention_by_channel_month, retention_by_channel_month[retention_d30] * retention_by_channel_month[depositors_full_30d] ), SUM ( retention_by_channel_month[depositors_full_30d] ) )

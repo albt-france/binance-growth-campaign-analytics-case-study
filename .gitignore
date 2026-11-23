@@ -1,0 +1,19 @@
+# never committed
+.env
+.venv*/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+data/raw/
+data/sim/
+data/_hidden_truth.csv
+*.duckdb
+*.duckdb.wal
+DECISIONS.md
+HANDOFF*.md
+docs/glossary_fr.md
+docs/interview_prep_fr.md
+powerbi/**/.pbi/localSettings.json
+powerbi/**/.pbi/cache.abf
+report/_report.html
+report/_print.pdf

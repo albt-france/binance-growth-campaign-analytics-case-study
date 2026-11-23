@@ -1,0 +1,9 @@
+campaign_id,arm,users,reactivated,reactivation_rate,pre_active_mean
+CMP009,holdout,20006,1586,0.07928,5.29
+CMP009,treatment,179994,15377,0.08543,5.39
+CMP020,holdout,20018,1565,0.07818,5.351
+CMP020,treatment,179982,14194,0.07886,5.388
+CMP031,holdout,60170,4665,0.07753,5.349
+CMP031,treatment,539830,51577,0.09554,5.38
+CMP035,holdout,19896,1564,0.07861,5.384
+CMP035,treatment,180104,16061,0.08918,5.408

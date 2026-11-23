@@ -1,0 +1,3096 @@
+date_hkt,asset,flow,n_transfers,n_senders,n_receivers,partial_day
+2026-07-08,USDT,to_wallet_unlisted,4829,4443,4,false
+2026-07-23,other token,withdrawal,8736,7,2196,false
+2026-08-05,other token,deposit,13233,7414,6133,false
+2026-09-28,other token,withdrawal,12443,5,3059,false
+2026-10-04,USDT,sweep,6333,4978,2,false
+2026-10-05,other token,deposit,10139,1480,1805,false
+2026-10-06,other token,withdrawal,11731,13,2467,false
+2026-10-06,USDC,withdrawal,5608,3,3819,false
+2026-10-06,USDC,to_wallet_unlisted,2441,1919,2,false
+2026-10-06,other token,to_wallet_unlisted,2776,2522,7,false
+2026-10-08,USDC,deposit,5609,2227,3979,false
+2026-10-08,other token,deposit,13571,1177,4241,false
+2026-08-10,USDC,withdrawal,4578,2,3361,false
+2026-11-05,other token,sweep,75740,69966,1,false
+2026-11-05,USDC,sweep,20377,19532,1,false
+2026-11-05,other token,deposit_addr_out,6605,6162,8,false
+2026-11-06,USDT,sweep,5022,3995,1,false
+2026-11-06,other token,deposit,5145,1368,1252,false
+2026-08-29,USDC,to_wallet_unlisted,1406,1141,1,false
+2026-09-03,USDC,withdrawal,5641,3,3948,false
+2026-06-10,other token,withdrawal,7686,14,2047,false
+2026-06-26,USDT,sweep,4965,4053,2,false
+2026-07-10,ETH,to_wallet_unlisted,677,578,5,false
+2026-07-19,ETH,deposit,4453,3086,3173,false
+2026-07-28,USDT,deposit,10564,4098,7909,false
+2026-08-04,other token,withdrawal,6672,8,2408,false
+2026-08-13,other token,withdrawal,6745,8,1751,false
+2026-08-12,USDC,to_wallet_unlisted,1852,1562,2,false
+2026-08-13,USDC,to_wallet_unlisted,2104,1727,2,false
+2026-08-15,other token,withdrawal,7248,6,1886,false
+2026-08-15,other token,deposit_addr_out,22,20,6,false
+2026-08-02,USDT,sweep,9931,9262,2,false
+2026-08-02,USDC,sweep,3052,2460,2,false
+2026-08-11,USDT,deposit,11746,4723,8668,false
+2026-06-28,ETH,sweep,1006,762,1,false
+2026-07-18,ETH,deposit,4851,3407,3526,false
+2026-07-27,ETH,to_wallet_unlisted,1000,681,17,false
+2026-07-30,ETH,sweep,1721,1245,2,false
+2026-07-31,ETH,deposit,5939,3836,4261,false
+2026-07-27,other token,deposit,9186,1090,1405,false
+2026-08-01,other token,sweep,4063,645,1,false
+2026-08-01,USDT,deposit,10157,3905,7737,false
+2026-08-08,other token,sweep,3961,572,2,false
+2026-08-07,USDC,deposit,4669,1904,3505,false
+2026-09-22,other token,deposit,12527,3360,3125,false
+2026-09-27,other token,sweep,6889,902,2,false
+2026-09-27,other token,to_wallet_unlisted,971,387,26,false
+2026-11-04,ETH,to_wallet_unlisted,814,611,14,false
+2026-11-08,ETH,deposit,4170,2435,3308,false
+2026-11-08,ETH,sweep,64682,64438,1,false
+2026-09-13,USDT,deposit,7305,2859,5348,false
+2026-09-12,USDT,to_wallet_unlisted,9581,8958,4,false
+2026-09-19,other token,withdrawal,11347,16,2365,false
+2026-10-14,other token,sweep,5635,804,3,false
+2026-10-15,USDC,sweep,4529,3620,2,false
+2026-11-08,USDT,deposit,6842,2698,5085,false
+2026-10-13,other token,withdrawal,9655,12,1830,false
+2026-09-26,USDT,sweep,7290,5703,2,false
+2026-11-10,USDT,deposit,11326,4625,8523,false
+2026-11-15,USDC,withdrawal,5851,2,4288,false
+2026-11-15,other token,deposit_addr_out,2372,2156,12,false
+2026-11-18,other token,sweep,5002,1109,2,false
+2026-11-19,other token,deposit,5516,1094,1092,false
+2026-10-26,USDT,sweep,7968,6420,2,false
+2026-10-26,other token,withdrawal,7010,15,1753,false
+2026-10-27,USDT,to_wallet_unlisted,7663,6620,4,false
+2026-07-20,USDT,to_wallet_unlisted,10937,10676,4,false
+2026-07-21,USDT,sweep,7309,6266,2,false
+2026-07-21,USDC,deposit,5122,1944,3621,false
+2026-11-07,USDC,withdrawal,7951,2,5782,false
+2026-11-11,USDC,withdrawal,7198,2,5230,false
+2026-11-11,other token,to_wallet_unlisted,11904,11591,11,false
+2026-11-12,USDC,to_wallet_unlisted,2627,2143,3,false
+2026-09-11,USDT,sweep,66927,65234,2,false
+2026-09-11,USDT,withdrawal,28805,6,18424,false
+2026-09-11,USDT,to_wallet_unlisted,70834,70009,5,false
+2026-09-11,USDC,to_wallet_unlisted,2026,1617,3,false
+2026-10-28,ETH,to_wallet_unlisted,750,628,9,false
+2026-11-15,ETH,deposit,3609,2333,2602,false
+2026-11-16,ETH,to_wallet_unlisted,695,573,10,false
+2026-06-20,other token,to_wallet_unlisted,823,229,16,false
+2026-07-26,other token,withdrawal,9219,5,2213,false
+2026-05-31,ETH,sweep,852,597,2,false
+2026-07-12,other token,deposit,10062,4374,4295,false
+2026-07-12,other token,to_wallet_unlisted,494,251,14,false
+2026-07-13,USDT,to_wallet_unlisted,1631,1398,3,false
+2026-07-17,USDT,to_wallet_unlisted,6220,5863,4,false
+2026-07-25,USDT,withdrawal,20447,6,12928,false
+2026-07-31,other token,deposit_addr_out,26,15,9,false
+2026-10-01,USDT,withdrawal,29928,6,18494,false
+2026-06-09,ETH,to_wallet_unlisted,660,536,3,false
+2026-09-02,ETH,deposit,6666,4558,4536,false
+2026-10-30,ETH,withdrawal,1492,7,1236,false
+2026-08-25,USDT,deposit,10519,4245,7936,false
+2026-08-25,USDC,deposit,5215,2069,3711,false
+2026-08-31,USDT,deposit,9943,3876,7591,false
+2026-09-01,USDC,deposit,6385,2543,4632,false
+2026-08-27,USDC,to_wallet_unlisted,2120,1740,2,false
+2026-08-27,USDC,deposit,4879,1935,3511,false
+2026-06-27,ETH,to_wallet_unlisted,562,489,5,false
+2026-06-27,ETH,deposit,4737,3134,3392,false
+2026-09-18,other token,sweep,8124,1175,3,false
+2026-08-19,USDT,to_wallet_unlisted,11611,11084,5,false
+2026-08-19,USDT,deposit,10144,3985,7797,false
+2026-08-19,USDC,deposit,4405,1870,3207,false
+2026-08-03,ETH,withdrawal,7853,6,5966,false
+2026-11-17,USDC,deposit,5537,1948,4137,false
+2026-07-12,ETH,withdrawal,9604,6,7162,false
+2026-07-07,ETH,deposit,5603,3735,4157,false
+2026-07-02,USDT,to_wallet_unlisted,4171,3825,1,false
+2026-07-02,other token,deposit_addr_out,28,10,5,false
+2026-08-30,ETH,withdrawal,8977,6,6671,false
+2026-08-30,ETH,sweep,1517,1096,1,false
+2026-09-08,ETH,deposit,6955,4826,4681,false
+2026-09-08,ETH,to_wallet_unlisted,1204,865,14,false
+2026-07-07,other token,sweep,8233,4001,3,false
+2026-07-19,USDC,deposit,3244,1411,2340,false
+2026-06-04,USDT,deposit,14145,5676,10200,false
+2026-06-05,other token,deposit,9524,1633,1791,false
+2026-06-05,USDC,to_wallet_unlisted,1467,1083,3,false
+2026-06-17,other token,withdrawal,9199,10,2710,false
+2026-06-17,USDT,deposit,11533,4625,8548,false
+2026-06-23,USDC,withdrawal,7305,3,5143,false
+2026-06-23,USDC,deposit,5323,2095,3854,false
+2026-06-23,USDT,to_wallet_unlisted,1488,1194,4,false
+2026-05-28,other token,withdrawal,9978,12,2548,false
+2026-05-28,USDT,to_wallet_unlisted,1655,1383,2,false
+2026-06-08,other token,withdrawal,8030,9,1900,false
+2026-06-07,other token,deposit,12208,1269,6068,false
+2026-06-14,USDC,sweep,2609,2056,2,false
+2026-06-14,USDT,to_wallet_unlisted,953,752,3,false
+2026-08-14,ETH,withdrawal,7047,6,5231,false
+2026-10-04,ETH,withdrawal,6817,6,5090,false
+2026-10-12,ETH,withdrawal,7249,8,5212,false
+2026-10-22,ETH,to_wallet_unlisted,867,731,10,false
+2026-10-16,other token,sweep,4842,678,3,false
+2026-10-16,other token,deposit_addr_out,758,670,15,false
+2026-10-17,USDT,sweep,7961,6238,2,false
+2026-10-17,other token,deposit_addr_out,163,130,8,false
+2026-10-20,USDC,withdrawal,4789,4,3411,false
+2026-10-21,other token,withdrawal,8621,16,3078,false
+2026-11-23,USDT,sweep,1767,1507,1,false
+2026-11-23,USDC,to_wallet_unlisted,623,556,1,false
+2026-06-29,other token,withdrawal,27079,5,13199,false
+2026-06-30,other token,deposit,12556,6397,6353,false
+2026-06-29,other token,to_wallet_unlisted,798,262,9,false
+2026-07-04,USDC,withdrawal,5625,2,3960,false
+2026-09-14,USDC,to_wallet_unlisted,1829,1443,2,false
+2026-09-14,USDT,sweep,7124,5604,2,false
+2026-09-14,USDT,withdrawal,26237,6,16920,false
+2026-09-15,USDT,to_wallet_unlisted,5265,4484,5,false
+2026-06-13,ETH,withdrawal,8490,7,6296,false
+2026-07-18,USDC,to_wallet_unlisted,2553,1597,2,false
+2026-07-22,USDT,withdrawal,21902,6,14943,false
+2026-07-22,USDC,to_wallet_unlisted,1646,1324,2,false
+2026-07-22,USDT,deposit,9587,3879,7046,false
+2026-10-14,ETH,to_wallet_unlisted,887,740,12,false
+2026-06-09,USDT,to_wallet_unlisted,1390,1070,1,false
+2026-06-09,USDC,to_wallet_unlisted,1323,990,2,false
+2026-06-22,other token,deposit,15405,7959,7008,false
+2026-06-06,ETH,sweep,7632,7092,1,false
+2026-06-06,ETH,withdrawal,11641,8,8252,false
+2026-10-30,other token,withdrawal,2271,11,1034,false
+2026-10-21,other token,deposit_addr_out,3009,2476,16,false
+2026-11-17,ETH,to_wallet_unlisted,830,658,13,false
+2026-06-04,ETH,withdrawal,12439,7,8943,false
+2026-06-21,USDC,sweep,2461,1992,2,false
+2026-06-21,other token,deposit_addr_out,14,5,6,false
+2026-10-24,ETH,to_wallet_unlisted,767,623,10,false
+2026-11-22,ETH,withdrawal,7669,9,5713,false
+2026-05-30,USDC,to_wallet_unlisted,802,625,2,false
+2026-11-14,other token,to_wallet_unlisted,621,364,12,false
+2026-11-21,USDC,withdrawal,5860,2,4100,false
+2026-11-21,USDT,to_wallet_unlisted,14936,13436,3,false
+2026-06-28,other token,deposit_addr_out,11,5,4,false
+2026-06-23,ETH,withdrawal,10566,7,7894,false
+2026-06-23,ETH,deposit,5801,3899,4257,false
+2026-07-03,other token,sweep,5485,1141,2,false
+2026-06-17,ETH,withdrawal,9861,6,7273,false
+2026-05-28,ETH,to_wallet_unlisted,774,619,2,false
+2026-06-21,ETH,deposit,4097,2967,3069,false
+2026-09-17,ETH,deposit,6429,4295,4290,false
+2026-09-22,ETH,deposit,7546,4659,5275,false
+2026-07-08,USDT,withdrawal,23496,6,16018,false
+2026-07-08,USDC,withdrawal,6343,3,4413,false
+2026-07-15,other token,sweep,3995,688,2,false
+2026-07-15,other token,deposit,6278,1042,1771,false
+2026-07-16,USDT,to_wallet_unlisted,2103,1750,2,false
+2026-07-15,USDC,to_wallet_unlisted,2102,1651,2,false
+2026-07-24,other token,to_wallet_unlisted,1176,671,21,false
+2026-07-30,USDT,withdrawal,24714,6,16330,false
+2026-07-31,USDT,deposit,11276,4318,8476,false
+2026-07-30,USDT,deposit,10023,3913,7523,false
+2026-07-30,other token,to_wallet_unlisted,974,557,15,false
+2026-08-06,other token,deposit_addr_out,36,15,8,false
+2026-09-28,USDT,sweep,57494,55723,2,false
+2026-09-28,USDC,withdrawal,5622,2,3983,false
+2026-10-04,other token,sweep,4988,681,2,false
+2026-10-03,other token,to_wallet_unlisted,662,291,24,false
+2026-10-06,USDC,deposit,5529,2186,3998,false
+2026-10-09,USDC,deposit,5360,2268,3809,false
+2026-08-10,other token,withdrawal,6277,10,1758,false
+2026-08-10,USDT,to_wallet_unlisted,9257,8865,4,false
+2026-10-29,other token,withdrawal,7771,17,2885,false
+2026-11-06,USDC,withdrawal,5885,2,4171,false
+2026-11-06,other token,deposit_addr_out,4407,3990,12,false
+2026-11-06,USDC,to_wallet_unlisted,2614,2098,2,false
+2026-08-28,USDC,sweep,4164,3191,2,false
+2026-08-29,USDT,withdrawal,24585,6,14960,false
+2026-08-29,other token,deposit,6459,1111,793,false
+2026-09-04,USDT,withdrawal,30081,6,19048,false
+2026-09-04,other token,withdrawal,7969,6,2233,false
+2026-09-04,USDT,to_wallet_unlisted,4318,3684,5,false
+2026-09-06,ETH,withdrawal,10386,6,7756,false
+2026-06-10,USDC,sweep,5548,4506,2,false
+2026-06-11,USDT,sweep,5417,4450,2,false
+2026-06-18,other token,sweep,5290,1010,2,false
+2026-06-18,USDT,sweep,5026,3975,2,false
+2026-06-19,other token,sweep,5438,807,2,false
+2026-06-26,other token,sweep,5987,837,2,false
+2026-06-27,USDT,sweep,3808,3136,2,false
+2026-10-07,USDT,withdrawal,28515,6,17951,false
+2026-10-02,ETH,sweep,2047,1375,2,false
+2026-07-01,ETH,sweep,1655,1263,1,false
+2026-07-10,ETH,deposit,6435,3990,4563,false
+2026-07-09,ETH,to_wallet_unlisted,652,550,6,false
+2026-08-07,ETH,deposit,5867,3869,4195,false
+2026-07-29,other token,withdrawal,8492,9,2238,false
+2026-07-28,other token,to_wallet_unlisted,1565,944,12,false
+2026-07-28,USDC,deposit,4954,2002,3606,false
+2026-08-04,USDC,deposit,5863,2286,4374,false
+2026-08-15,USDT,deposit,9088,3507,6959,false
+2026-08-15,other token,deposit,7992,1023,1064,false
+2026-08-02,USDC,to_wallet_unlisted,1237,994,2,false
+2026-06-28,ETH,to_wallet_unlisted,481,420,3,false
+2026-07-30,ETH,deposit,5710,3685,3966,false
+2026-07-30,ETH,to_wallet_unlisted,947,693,10,false
+2026-08-09,ETH,deposit,4517,3237,3266,false
+2026-07-27,other token,to_wallet_unlisted,944,351,9,false
+2026-08-08,USDT,withdrawal,21668,5,13338,false
+2026-08-07,other token,to_wallet_unlisted,808,261,18,false
+2026-08-08,USDC,deposit,4044,1545,3004,false
+2026-09-21,USDT,to_wallet_unlisted,43064,42199,3,false
+2026-09-22,USDC,to_wallet_unlisted,2143,1652,2,false
+2026-09-21,USDC,withdrawal,5512,3,3810,false
+2026-09-22,USDC,withdrawal,6044,3,4149,false
+2026-11-09,ETH,sweep,1900,1253,2,false
+2026-09-09,USDC,to_wallet_unlisted,2412,1981,3,false
+2026-09-08,other token,withdrawal,8475,12,2123,false
+2026-09-08,USDC,withdrawal,5484,2,4030,false
+2026-09-13,other token,sweep,7147,771,2,false
+2026-09-13,USDT,sweep,5019,3980,2,false
+2026-09-12,other token,withdrawal,7413,4,1715,false
+2026-09-12,USDT,withdrawal,24442,6,14844,false
+2026-09-20,USDT,to_wallet_unlisted,3876,3180,2,false
+2026-09-20,other token,to_wallet_unlisted,965,391,6,false
+2026-09-24,USDT,sweep,8054,6451,2,false
+2026-10-11,USDC,to_wallet_unlisted,1458,1197,2,false
+2026-10-11,USDT,to_wallet_unlisted,5081,4199,3,false
+2026-10-11,other token,to_wallet_unlisted,406,246,4,false
+2026-10-11,USDC,sweep,2552,2089,1,false
+2026-10-15,USDC,to_wallet_unlisted,2539,2117,2,false
+2026-10-15,other token,deposit_addr_out,144,117,14,false
+2026-11-09,other token,deposit_addr_out,21953,18131,19,false
+2026-11-09,USDT,deposit,9303,3770,6998,false
+2026-11-08,USDC,to_wallet_unlisted,4148,3895,1,false
+2026-10-13,other token,to_wallet_unlisted,661,309,5,false
+2026-09-17,other token,sweep,8517,3485,3,false
+2026-11-10,other token,withdrawal,11745,19,6391,false
+2026-11-15,USDT,sweep,6334,4922,2,false
+2026-11-16,USDT,to_wallet_unlisted,5494,4516,6,false
+2026-11-18,other token,deposit,7401,1857,2285,false
+2026-11-19,other token,deposit_addr_out,1392,926,37,false
+2026-10-27,USDC,deposit,4608,1876,3373,false
+2026-11-07,other token,to_wallet_unlisted,242,147,8,false
+2026-11-12,USDT,withdrawal,33262,9,20976,false
+2026-11-12,other token,deposit_addr_out,21817,18982,119,false
+2026-11-11,USDT,to_wallet_unlisted,6352,5216,5,false
+2026-07-11,ETH,to_wallet_unlisted,593,506,3,false
+2026-07-25,ETH,deposit,5496,3625,3750,false
+2026-09-10,USDT,sweep,28953,27270,2,false
+2026-09-07,USDT,sweep,36815,35530,2,false
+2026-09-06,USDC,withdrawal,4107,3,2933,false
+2026-09-06,USDT,deposit,7734,3051,5774,false
+2026-09-07,USDT,deposit,10111,4102,7673,false
+2026-09-06,USDC,to_wallet_unlisted,1268,1033,2,false
+2026-09-07,other token,deposit_addr_out,130,121,68,false
+2026-11-15,ETH,sweep,48490,47985,1,false
+2026-06-16,other token,to_wallet_unlisted,798,317,15,false
+2026-09-14,ETH,sweep,1813,1192,2,false
+2026-09-12,other token,deposit_addr_out,43,17,15,false
+2026-07-26,USDT,sweep,11403,10850,2,false
+2026-10-19,ETH,sweep,1478,1014,2,false
+2026-10-31,ETH,deposit,2422,1687,1981,false
+2026-07-13,other token,sweep,4250,684,3,false
+2026-07-12,USDC,to_wallet_unlisted,1906,966,2,false
+2026-07-17,USDC,withdrawal,6141,2,4661,false
+2026-10-02,USDC,to_wallet_unlisted,2480,1970,2,false
+2026-06-12,ETH,sweep,1273,850,2,false
+2026-09-02,ETH,withdrawal,11355,6,8346,false
+2026-11-13,USDT,sweep,8281,6510,2,false
+2026-11-20,USDT,sweep,7427,5820,1,false
+2026-11-20,other token,deposit,7386,970,1130,false
+2026-10-25,USDC,sweep,2372,1927,2,false
+2026-08-16,other token,sweep,5602,1638,2,false
+2026-05-26,USDT,withdrawal,19270,6,13479,false
+2026-05-27,other token,to_wallet_unlisted,607,208,11,false
+2026-08-26,USDT,withdrawal,27291,6,16755,false
+2026-08-26,USDC,deposit,4626,1905,3254,false
+2026-08-26,other token,deposit,8717,1141,1347,false
+2026-08-26,USDT,sweep,6191,4953,2,false
+2026-09-09,ETH,to_wallet_unlisted,1218,901,13,false
+2026-08-24,USDT,deposit,9297,3773,7026,false
+2026-08-20,other token,withdrawal,10620,10,2742,false
+2026-08-19,USDT,withdrawal,25581,6,16377,false
+2026-08-15,ETH,withdrawal,6405,7,4809,false
+2026-08-23,ETH,sweep,1571,1007,1,false
+2026-09-15,ETH,sweep,2236,1486,1,false
+2026-08-17,USDC,sweep,3628,2971,2,false
+2026-08-17,other token,deposit_addr_out,33,15,11,false
+2026-07-05,ETH,to_wallet_unlisted,538,463,1,false
+2026-07-05,USDC,withdrawal,4781,2,3352,false
+2026-07-05,USDT,deposit,7576,3031,5782,false
+2026-08-31,ETH,withdrawal,10416,7,7610,false
+2026-08-30,ETH,to_wallet_unlisted,1066,738,11,false
+2026-07-07,USDC,withdrawal,6434,4,4497,false
+2026-07-19,USDT,withdrawal,19348,6,12692,false
+2026-06-05,USDT,sweep,6306,5024,2,false
+2026-06-13,other token,to_wallet_unlisted,564,201,16,false
+2026-06-24,USDC,to_wallet_unlisted,1249,978,2,false
+2026-06-24,USDT,to_wallet_unlisted,1499,1192,3,false
+2026-06-24,other token,deposit_addr_out,61,10,9,false
+2026-08-18,other token,sweep,4022,696,3,false
+2026-08-18,USDC,withdrawal,4736,3,3382,false
+2026-09-19,ETH,deposit,8921,6622,4457,false
+2026-05-28,other token,to_wallet_unlisted,761,233,4,false
+2026-07-10,other token,sweep,5655,1982,3,false
+2026-08-26,ETH,deposit,6405,4413,4044,false
+2026-08-14,ETH,deposit,6796,3986,4904,false
+2026-05-25,USDT,withdrawal,12776,6,9347,true
+2026-05-25,other token,deposit_addr_out,26,10,7,true
+2026-08-24,other token,deposit_addr_out,142,97,99,false
+2026-10-23,ETH,to_wallet_unlisted,800,652,8,false
+2026-11-03,other token,deposit,4923,1740,1642,false
+2026-10-17,USDC,withdrawal,4175,2,3015,false
+2026-10-20,other token,to_wallet_unlisted,518,270,24,false
+2026-06-30,USDT,withdrawal,25746,6,17529,false
+2026-06-29,USDT,to_wallet_unlisted,3745,3493,1,false
+2026-07-04,other token,withdrawal,9152,6,3049,false
+2026-07-04,USDC,to_wallet_unlisted,1246,1056,2,false
+2026-09-15,USDC,deposit,6300,2353,4669,false
+2026-08-03,USDT,withdrawal,24918,6,16161,false
+2026-08-19,ETH,withdrawal,7706,7,5665,false
+2026-10-23,USDT,withdrawal,27848,6,17174,false
+2026-10-23,USDC,withdrawal,4840,2,3462,false
+2026-08-22,other token,withdrawal,15355,7,3192,false
+2026-07-18,USDT,sweep,3923,3213,2,false
+2026-07-18,USDT,withdrawal,19605,6,12815,false
+2026-07-18,USDC,deposit,4501,1704,3082,false
+2026-07-14,other token,deposit,10789,1879,5845,false
+2026-06-28,USDT,withdrawal,17842,6,12127,false
+2026-10-24,USDT,to_wallet_unlisted,6063,5041,3,false
+2026-10-30,other token,deposit_addr_out,122,111,5,false
+2026-07-02,ETH,to_wallet_unlisted,782,608,7,false
+2026-06-03,USDC,deposit,6829,2867,5229,false
+2026-06-03,ETH,withdrawal,11564,6,8125,false
+2026-11-09,ETH,withdrawal,11081,9,8240,false
+2026-05-31,USDC,withdrawal,4493,2,3163,false
+2026-05-31,USDC,to_wallet_unlisted,664,549,2,false
+2026-06-21,other token,sweep,4910,668,2,false
+2026-06-21,USDC,to_wallet_unlisted,774,616,1,false
+2026-10-25,ETH,withdrawal,5652,6,4020,false
+2026-10-24,ETH,sweep,1356,919,1,false
+2026-05-30,other token,sweep,5976,820,2,false
+2026-05-29,other token,to_wallet_unlisted,601,213,3,false
+2026-05-29,other token,deposit_addr_out,85,28,10,false
+2026-11-14,USDT,deposit,10121,3832,7313,false
+2026-11-21,other token,deposit,7480,1186,1178,false
+2026-11-21,USDC,to_wallet_unlisted,2900,2307,2,false
+2026-10-17,ETH,deposit,4829,3231,3282,false
+2026-10-16,ETH,to_wallet_unlisted,911,679,10,false
+2026-06-07,ETH,withdrawal,8338,6,5976,false
+2026-09-17,ETH,to_wallet_unlisted,1055,814,10,false
+2026-09-22,ETH,to_wallet_unlisted,1208,944,8,false
+2026-10-01,ETH,deposit,6405,4319,4418,false
+2026-07-09,USDT,deposit,11127,4366,8282,false
+2026-07-09,other token,sweep,4634,680,2,false
+2026-07-24,other token,sweep,6042,1738,2,false
+2026-07-23,USDC,withdrawal,5117,2,3632,false
+2026-07-23,USDT,deposit,9709,3954,7231,false
+2026-07-23,USDC,deposit,4603,1823,3326,false
+2026-07-24,other token,deposit_addr_out,32,15,8,false
+2026-07-30,other token,deposit,17317,10084,9385,false
+2026-07-30,USDC,to_wallet_unlisted,1570,1261,3,false
+2026-08-05,other token,sweep,4703,737,2,false
+2026-08-05,USDT,withdrawal,26693,6,17342,false
+2026-08-05,USDC,deposit,5126,2043,3876,false
+2026-08-05,other token,to_wallet_unlisted,745,257,17,false
+2026-09-28,USDT,to_wallet_unlisted,38466,37540,3,false
+2026-09-28,USDC,to_wallet_unlisted,1817,1470,2,false
+2026-09-29,USDC,to_wallet_unlisted,2118,1716,2,false
+2026-10-04,other token,deposit,8886,1887,2470,false
+2026-10-05,USDT,to_wallet_unlisted,6645,5614,3,false
+2026-10-05,USDC,to_wallet_unlisted,2191,1767,3,false
+2026-10-29,other token,deposit,7342,1899,2165,false
+2026-10-28,USDC,sweep,3302,2606,1,false
+2026-10-29,other token,sweep,4482,775,3,false
+2026-10-29,other token,deposit_addr_out,1005,869,14,false
+2026-11-05,USDC,withdrawal,5888,1,4044,false
+2026-08-29,other token,deposit_addr_out,161,140,14,false
+2026-09-04,USDC,to_wallet_unlisted,2091,1653,2,false
+2026-09-03,USDT,withdrawal,28041,6,17760,false
+2026-09-21,ETH,withdrawal,9527,7,7202,false
+2026-06-11,other token,deposit,22594,1588,15610,false
+2026-06-19,other token,deposit,10722,4068,3963,false
+2026-06-18,other token,deposit,15257,8384,7235,false
+2026-06-18,USDT,to_wallet_unlisted,1562,1244,5,false
+2026-06-19,USDT,to_wallet_unlisted,1376,1101,2,false
+2026-06-27,other token,withdrawal,23484,7,10741,false
+2026-06-26,USDT,to_wallet_unlisted,1622,1279,3,false
+2026-06-27,other token,deposit_addr_out,15,8,6,false
+2026-10-07,USDC,deposit,7057,3688,5266,false
+2026-10-02,ETH,to_wallet_unlisted,1033,743,11,false
+2026-10-03,ETH,withdrawal,7020,6,5181,false
+2026-10-06,ETH,sweep,1746,1202,1,false
+2026-11-06,ETH,sweep,46306,45894,1,false
+2026-05-27,ETH,withdrawal,8563,7,6261,false
+2026-07-29,other token,to_wallet_unlisted,948,552,20,false
+2026-08-04,USDT,sweep,17414,16241,2,false
+2026-08-04,other token,deposit,13039,8702,7326,false
+2026-08-05,other token,deposit_addr_out,33,16,7,false
+2026-08-15,other token,sweep,6184,1775,2,false
+2026-08-02,USDC,withdrawal,3873,2,2854,false
+2026-08-02,USDT,deposit,7831,3022,5916,false
+2026-08-02,other token,to_wallet_unlisted,532,223,12,false
+2026-08-09,ETH,withdrawal,6012,6,4476,false
+2026-07-27,other token,sweep,5781,878,3,false
+2026-08-01,other token,deposit,14558,9130,7441,false
+2026-08-07,USDT,sweep,16739,15575,2,false
+2026-08-07,other token,withdrawal,9389,9,2091,false
+2026-09-22,other token,to_wallet_unlisted,1235,434,6,false
+2026-09-21,USDT,sweep,44607,42895,2,false
+2026-09-21,USDC,sweep,4152,3235,2,false
+2026-09-27,USDC,sweep,2513,1876,1,false
+2026-09-30,USDT,withdrawal,28950,6,18127,false
+2026-09-29,other token,deposit_addr_out,13,8,5,false
+2026-09-09,other token,sweep,55709,51578,3,false
+2026-09-09,other token,deposit_addr_out,62,49,49,false
+2026-09-12,USDC,withdrawal,4439,3,3154,false
+2026-09-19,USDC,to_wallet_unlisted,1682,1321,2,false
+2026-09-20,USDC,to_wallet_unlisted,1313,1013,2,false
+2026-10-14,other token,deposit_addr_out,227,175,13,false
+2026-10-14,other token,to_wallet_unlisted,577,348,10,false
+2026-10-15,other token,to_wallet_unlisted,580,332,9,false
+2026-11-01,USDT,to_wallet_unlisted,18,7,11,false
+2026-11-09,USDT,to_wallet_unlisted,5727,4776,6,false
+2026-11-08,other token,to_wallet_unlisted,7030,6815,13,false
+2026-10-13,USDT,deposit,10823,4186,7891,false
+2026-09-17,other token,to_wallet_unlisted,1160,569,10,false
+2026-09-26,other token,deposit,13615,4455,3363,false
+2026-09-26,USDT,to_wallet_unlisted,5944,5051,2,false
+2026-11-15,other token,to_wallet_unlisted,787,433,7,false
+2026-07-20,USDC,deposit,4415,1773,3238,false
+2026-07-20,USDC,to_wallet_unlisted,1313,1100,2,false
+2026-07-21,USDC,sweep,4281,3343,2,false
+2026-11-07,USDT,to_wallet_unlisted,14320,13415,4,false
+2026-11-11,other token,deposit_addr_out,4255,3275,16,false
+2026-11-12,USDC,withdrawal,7023,2,5055,false
+2026-07-24,ETH,to_wallet_unlisted,767,595,7,false
+2026-07-25,ETH,withdrawal,7859,6,5904,false
+2026-09-11,other token,sweep,121464,117964,2,false
+2026-09-10,USDT,to_wallet_unlisted,34723,33959,4,false
+2026-08-30,other token,withdrawal,6860,6,1880,false
+2026-09-06,other token,withdrawal,7807,5,1965,false
+2026-09-07,USDC,to_wallet_unlisted,1797,1498,2,false
+2026-11-07,ETH,withdrawal,11985,9,9128,false
+2026-11-07,ETH,to_wallet_unlisted,398,348,9,false
+2026-11-12,ETH,withdrawal,9614,10,7047,false
+2026-11-12,ETH,deposit,4023,2763,2778,false
+2026-06-12,other token,sweep,4892,765,2,false
+2026-06-12,USDC,deposit,6465,2502,4651,false
+2026-06-20,USDT,to_wallet_unlisted,1160,930,2,false
+2026-06-20,other token,deposit_addr_out,197,167,7,false
+2026-07-29,ETH,sweep,1687,1168,2,false
+2026-08-12,ETH,deposit,5578,3760,3911,false
+2026-09-20,other token,deposit_addr_out,90,50,17,false
+2026-07-26,USDT,to_wallet_unlisted,9015,8804,2,false
+2026-07-26,USDC,to_wallet_unlisted,984,821,2,false
+2026-10-08,ETH,sweep,1909,1218,1,false
+2026-10-19,ETH,withdrawal,5899,8,4200,false
+2026-11-02,ETH,withdrawal,12330,9,9344,false
+2026-07-13,USDC,withdrawal,5241,2,3857,false
+2026-07-13,USDC,to_wallet_unlisted,3665,1372,2,false
+2026-07-13,USDC,deposit,6238,1870,3887,false
+2026-07-13,other token,to_wallet_unlisted,484,205,13,false
+2026-07-17,other token,withdrawal,6499,10,1962,false
+2026-07-25,other token,withdrawal,7629,4,1973,false
+2026-10-01,other token,deposit_addr_out,2740,2723,8,false
+2026-10-02,other token,withdrawal,13603,14,3512,false
+2026-10-02,USDT,to_wallet_unlisted,7199,6099,4,false
+2026-08-29,ETH,sweep,2592,2013,2,false
+2026-09-05,ETH,to_wallet_unlisted,1038,753,11,false
+2026-09-11,ETH,withdrawal,11035,6,8341,false
+2026-11-13,USDT,to_wallet_unlisted,6734,5574,2,false
+2026-10-25,other token,deposit,8685,1944,2175,false
+2026-08-16,other token,withdrawal,6474,4,2227,false
+2026-05-26,USDC,sweep,4646,3872,2,false
+2026-05-26,other token,withdrawal,9068,12,1975,false
+2026-08-25,other token,sweep,5845,927,3,false
+2026-09-01,other token,withdrawal,19347,14,11281,false
+2026-08-31,other token,withdrawal,13933,12,6728,false
+2026-09-10,ETH,to_wallet_unlisted,1150,882,12,false
+2026-08-23,other token,to_wallet_unlisted,857,266,11,false
+2026-08-24,other token,to_wallet_unlisted,843,314,10,false
+2026-06-27,ETH,withdrawal,16561,6,12426,false
+2026-09-18,other token,deposit,12786,2272,2696,false
+2026-09-18,other token,to_wallet_unlisted,1125,476,12,false
+2026-08-20,other token,deposit,9450,1381,1446,false
+2026-08-20,USDC,deposit,5423,2232,3769,false
+2026-08-19,other token,sweep,3848,714,2,false
+2026-08-19,other token,deposit,6028,1055,1293,false
+2026-08-19,other token,deposit_addr_out,22,10,10,false
+2026-08-15,ETH,to_wallet_unlisted,814,553,7,false
+2026-08-23,ETH,deposit,6187,4301,3768,false
+2026-11-17,other token,sweep,4322,648,2,false
+2026-11-17,USDT,deposit,9954,3944,7500,false
+2026-07-22,ETH,deposit,5959,3985,4119,false
+2026-09-02,USDC,withdrawal,5871,2,4055,false
+2026-07-01,USDT,deposit,13267,4881,9754,false
+2026-07-02,USDT,sweep,8874,7804,2,false
+2026-08-31,ETH,to_wallet_unlisted,1406,1077,12,false
+2026-09-08,ETH,withdrawal,10546,6,7957,false
+2026-10-10,ETH,sweep,1518,1022,1,false
+2026-10-10,ETH,withdrawal,7099,7,5249,false
+2026-07-07,USDT,to_wallet_unlisted,4911,4594,2,false
+2026-09-05,other token,deposit_addr_out,139,123,123,false
+2026-06-05,USDT,deposit,13950,5445,10082,false
+2026-06-23,other token,sweep,22550,17851,3,false
+2026-06-24,USDT,deposit,10666,4247,7997,false
+2026-08-21,USDT,sweep,13906,12411,2,false
+2026-11-03,USDT,sweep,9607,8866,1,false
+2026-09-27,ETH,withdrawal,8000,6,6033,false
+2026-07-10,USDT,withdrawal,22846,6,15463,false
+2026-06-07,USDT,sweep,3659,2977,2,false
+2026-06-07,USDT,withdrawal,16120,6,10927,false
+2026-06-14,USDT,sweep,2876,2301,2,false
+2026-10-04,ETH,deposit,5042,3630,3286,false
+2026-10-12,ETH,deposit,5486,3907,3429,false
+2026-10-23,ETH,deposit,5344,3797,3521,false
+2026-11-03,USDC,withdrawal,6826,1,4974,false
+2026-11-04,other token,deposit,5457,1949,1947,false
+2026-10-12,other token,withdrawal,8537,10,2011,false
+2026-10-18,USDC,deposit,2718,1295,2054,false
+2026-10-20,USDT,withdrawal,28213,6,17693,false
+2026-10-22,USDC,deposit,4470,1827,3159,false
+2026-10-22,other token,deposit,7113,1436,1303,false
+2026-11-20,ETH,deposit,3876,2299,2480,false
+2026-11-23,other token,deposit,939,267,231,false
+2026-11-23,other token,to_wallet_unlisted,129,93,2,false
+2026-06-29,other token,sweep,5310,803,3,false
+2026-09-01,ETH,withdrawal,11445,6,8342,false
+2026-09-14,USDC,sweep,3878,2983,2,false
+2026-08-03,USDT,to_wallet_unlisted,7168,6844,6,false
+2026-08-18,ETH,withdrawal,7836,6,5995,false
+2026-08-22,ETH,withdrawal,9070,6,6578,false
+2026-10-23,other token,sweep,8253,4312,1,false
+2026-10-23,other token,to_wallet_unlisted,2321,2169,11,false
+2026-11-22,ETH,deposit,2857,1771,1935,false
+2026-08-22,USDC,deposit,4310,1882,3093,false
+2026-07-14,other token,withdrawal,6750,9,2164,false
+2026-07-14,USDT,deposit,10845,4212,8269,false
+2026-07-14,other token,to_wallet_unlisted,540,193,9,false
+2026-06-09,USDC,deposit,5859,2404,4223,false
+2026-06-22,USDT,withdrawal,21356,6,14744,false
+2026-06-22,other token,withdrawal,10402,9,3158,false
+2026-06-22,other token,to_wallet_unlisted,834,225,7,false
+2026-06-28,USDT,sweep,2649,2177,2,false
+2026-05-30,ETH,deposit,9426,7389,7342,false
+2026-10-30,other token,deposit,5716,948,1097,false
+2026-07-04,ETH,sweep,1328,1013,1,false
+2026-07-04,ETH,deposit,4731,3104,3419,false
+2026-06-03,ETH,sweep,1506,959,2,false
+2026-06-01,USDC,withdrawal,6239,2,4385,false
+2026-06-01,USDT,to_wallet_unlisted,1203,961,5,false
+2026-11-23,ETH,withdrawal,2997,9,2353,false
+2026-09-30,ETH,sweep,1938,1351,2,false
+2026-09-30,ETH,to_wallet_unlisted,1138,860,6,false
+2026-05-30,USDT,sweep,4033,3305,2,false
+2026-05-29,USDT,deposit,12051,4631,8986,false
+2026-11-21,other token,sweep,5955,956,1,false
+2026-11-21,other token,deposit_addr_out,1176,933,17,false
+2026-11-21,other token,to_wallet_unlisted,838,459,10,false
+2026-10-17,ETH,to_wallet_unlisted,645,552,10,false
+2026-07-03,USDC,withdrawal,7264,3,5220,false
+2026-08-02,ETH,sweep,1275,1010,1,false
+2026-08-17,ETH,deposit,5670,4058,3997,false
+2026-10-30,ETH,to_wallet_unlisted,163,150,2,false
+2026-10-21,ETH,to_wallet_unlisted,862,735,8,false
+2026-06-25,ETH,to_wallet_unlisted,1407,1263,6,false
+2026-06-30,ETH,deposit,5852,3746,4168,false
+2026-06-30,ETH,to_wallet_unlisted,939,820,4,false
+2026-07-09,USDC,sweep,5116,3718,1,false
+2026-07-09,USDT,withdrawal,23004,6,15547,false
+2026-07-24,USDT,sweep,8698,7822,2,false
+2026-07-23,other token,deposit,6806,994,1113,false
+2026-07-23,USDT,to_wallet_unlisted,6365,6042,3,false
+2026-07-31,USDC,withdrawal,5390,3,3855,false
+2026-08-06,other token,withdrawal,8047,8,2042,false
+2026-08-06,USDT,to_wallet_unlisted,2785,2391,5,false
+2026-08-05,USDC,to_wallet_unlisted,1797,1462,2,false
+2026-09-29,other token,withdrawal,10827,9,2719,false
+2026-09-28,other token,deposit,12449,2338,2001,false
+2026-10-03,USDT,withdrawal,23661,5,14460,false
+2026-10-04,other token,deposit_addr_out,1003,978,886,false
+2026-10-03,other token,deposit_addr_out,298,268,10,false
+2026-10-03,USDC,deposit,4732,1756,3679,false
+2026-10-04,USDT,to_wallet_unlisted,4975,4088,4,false
+2026-10-05,other token,deposit_addr_out,43,21,10,false
+2026-10-09,USDT,deposit,11643,4734,8347,false
+2026-10-08,other token,to_wallet_unlisted,547,293,16,false
+2026-10-28,USDT,deposit,9840,3933,7397,false
+2026-10-29,USDT,withdrawal,28139,7,17959,false
+2026-11-06,other token,withdrawal,5846,17,2761,false
+2026-11-06,USDC,deposit,4696,1883,3343,false
+2026-08-29,other token,to_wallet_unlisted,738,234,7,false
+2026-09-04,USDT,sweep,7933,6393,2,false
+2026-09-03,other token,to_wallet_unlisted,678,254,7,false
+2026-09-07,ETH,sweep,15271,14726,1,false
+2026-06-10,other token,deposit_addr_out,188,139,8,false
+2026-06-11,other token,to_wallet_unlisted,820,268,9,false
+2026-06-10,USDT,to_wallet_unlisted,1439,1169,4,false
+2026-06-19,USDC,to_wallet_unlisted,1135,871,2,false
+2026-06-27,USDC,sweep,3492,2809,2,false
+2026-06-26,USDC,withdrawal,11911,2,8092,false
+2026-06-26,other token,withdrawal,24366,9,11021,false
+2026-06-27,USDT,deposit,9397,3614,7080,false
+2026-06-26,USDT,deposit,11236,4391,8435,false
+2026-06-26,other token,deposit,9572,2791,2584,false
+2026-06-26,USDC,to_wallet_unlisted,1408,1108,3,false
+2026-11-13,ETH,deposit,3819,2374,2689,false
+2026-07-28,USDT,withdrawal,23405,6,15252,false
+2026-07-29,other token,sweep,6287,2157,3,false
+2026-08-04,USDT,deposit,11907,4403,8948,false
+2026-08-12,USDC,withdrawal,4925,2,3588,false
+2026-08-13,USDC,withdrawal,4823,2,3540,false
+2026-08-13,other token,deposit_addr_out,73,40,24,false
+2026-08-14,USDT,sweep,5940,4862,2,false
+2026-08-14,USDC,deposit,5027,1927,3711,false
+2026-08-14,USDT,deposit,10288,4030,7771,false
+2026-08-15,USDC,sweep,3271,2635,1,false
+2026-08-02,USDT,withdrawal,20512,5,12645,false
+2026-08-02,other token,deposit,19812,14544,13006,false
+2026-08-11,other token,to_wallet_unlisted,659,248,17,false
+2026-06-29,ETH,withdrawal,20330,7,15201,false
+2026-06-29,ETH,sweep,84891,84487,2,false
+2026-07-17,ETH,sweep,1681,1197,2,false
+2026-07-17,ETH,withdrawal,8192,8,6128,false
+2026-07-27,ETH,sweep,1829,1199,2,false
+2026-07-27,ETH,withdrawal,7930,6,5931,false
+2026-08-10,ETH,deposit,5158,3522,3782,false
+2026-07-27,USDT,sweep,9804,8968,2,false
+2026-08-01,USDC,sweep,3988,3294,2,false
+2026-08-07,other token,sweep,5747,828,2,false
+2026-08-08,USDC,withdrawal,4098,2,2950,false
+2026-09-21,USDC,deposit,4925,2277,3497,false
+2026-09-27,USDC,withdrawal,4298,3,2916,false
+2026-09-28,ETH,to_wallet_unlisted,943,690,5,false
+2026-09-08,USDC,sweep,4553,3494,2,false
+2026-09-13,other token,deposit_addr_out,66,53,37,false
+2026-09-12,other token,deposit,8203,1242,1503,false
+2026-09-13,USDC,deposit,2918,1350,2103,false
+2026-09-20,USDC,withdrawal,4053,3,2825,false
+2026-09-19,other token,to_wallet_unlisted,1043,385,6,false
+2026-09-25,USDT,sweep,53036,51312,2,false
+2026-10-10,other token,deposit_addr_out,1628,1614,1441,false
+2026-10-11,USDC,withdrawal,4025,2,2946,false
+2026-10-15,other token,sweep,6386,866,2,false
+2026-10-15,other token,withdrawal,9193,17,2241,false
+2026-10-14,USDC,withdrawal,5159,3,3706,false
+2026-10-14,USDT,to_wallet_unlisted,6946,5909,2,false
+2026-11-08,USDC,sweep,4806,4386,1,false
+2026-11-08,other token,deposit_addr_out,17021,12226,15,false
+2026-11-09,other token,deposit,8586,1890,1930,false
+2026-09-17,USDT,sweep,39395,37672,2,false
+2026-09-17,USDT,withdrawal,28963,6,18173,false
+2026-09-17,USDT,to_wallet_unlisted,32824,31950,4,false
+2026-11-10,USDT,withdrawal,34617,9,21983,false
+2026-11-10,USDC,to_wallet_unlisted,18552,17981,1,false
+2026-11-15,USDC,to_wallet_unlisted,5753,5244,2,false
+2026-11-19,other token,sweep,4340,599,2,false
+2026-11-19,USDC,sweep,3890,2938,2,false
+2026-11-18,USDT,deposit,9777,3948,7078,false
+2026-11-19,USDC,deposit,4377,1657,3073,false
+2026-07-20,USDT,sweep,14314,13443,2,false
+2026-07-20,USDC,sweep,3723,2974,2,false
+2026-07-20,USDT,withdrawal,21838,6,15181,false
+2026-11-07,USDT,deposit,9810,3372,7366,false
+2026-11-07,USDC,to_wallet_unlisted,1663,1419,1,false
+2026-11-11,USDC,sweep,4284,3541,2,false
+2026-07-11,ETH,sweep,1604,1222,1,false
+2026-09-10,USDC,sweep,4952,3616,2,false
+2026-09-11,other token,deposit,11121,1219,5777,false
+2026-09-11,USDC,deposit,5440,2053,3481,false
+2026-08-30,USDC,deposit,3268,1463,2305,false
+2026-09-07,other token,withdrawal,8028,10,2190,false
+2026-09-07,other token,to_wallet_unlisted,816,342,9,false
+2026-11-12,ETH,to_wallet_unlisted,841,708,3,false
+2026-11-15,ETH,withdrawal,10647,9,7482,false
+2026-06-15,USDT,to_wallet_unlisted,1438,1131,5,false
+2026-08-13,ETH,sweep,1609,1232,2,false
+2026-07-26,other token,deposit_addr_out,34,31,6,false
+2026-07-26,other token,to_wallet_unlisted,773,337,16,false
+2026-11-03,ETH,to_wallet_unlisted,1696,1343,11,false
+2026-07-17,USDC,sweep,4469,3402,2,false
+2026-07-17,other token,sweep,4062,649,3,false
+2026-07-25,USDC,to_wallet_unlisted,1282,1011,2,false
+2026-10-01,other token,withdrawal,9797,11,2675,false
+2026-06-09,ETH,deposit,6742,4703,4921,false
+2026-06-16,ETH,sweep,1310,817,1,false
+2026-11-20,other token,withdrawal,13290,15,3837,false
+2026-11-20,USDC,withdrawal,6164,2,4346,false
+2026-08-16,USDC,withdrawal,3399,2,2549,false
+2026-05-27,USDT,sweep,4454,3571,2,false
+2026-05-27,USDT,withdrawal,19562,6,13486,false
+2026-05-27,USDC,withdrawal,6121,2,4209,false
+2026-08-25,other token,withdrawal,10024,7,2967,false
+2026-08-26,USDC,to_wallet_unlisted,1652,1319,3,false
+2026-08-26,USDT,deposit,9863,3902,7293,false
+2026-08-26,other token,to_wallet_unlisted,973,304,9,false
+2026-08-31,other token,to_wallet_unlisted,857,257,17,false
+2026-09-29,ETH,to_wallet_unlisted,1218,887,8,false
+2026-08-27,other token,deposit,7978,1108,1014,false
+2026-09-18,other token,deposit_addr_out,5257,4428,47,false
+2026-08-24,ETH,withdrawal,8275,6,6325,false
+2026-08-08,other token,deposit_addr_out,4,3,2,false
+2026-08-17,other token,withdrawal,6456,8,2331,false
+2026-08-17,USDT,deposit,9053,3526,6957,false
+2026-07-12,ETH,deposit,5231,3480,3714,false
+2026-07-12,ETH,to_wallet_unlisted,654,567,7,false
+2026-07-15,ETH,deposit,6119,4085,4270,false
+2026-07-05,other token,withdrawal,9205,8,2947,false
+2026-07-05,other token,deposit,21297,13391,11366,false
+2026-07-06,USDT,deposit,10474,4044,7890,false
+2026-08-31,ETH,deposit,6313,4253,4125,false
+2026-10-10,ETH,deposit,5364,3788,3545,false
+2026-07-19,USDT,deposit,7467,2929,5644,false
+2026-07-19,USDC,to_wallet_unlisted,1226,967,1,false
+2026-09-05,other token,withdrawal,5712,6,1725,false
+2026-09-05,other token,to_wallet_unlisted,563,187,7,false
+2026-06-04,other token,to_wallet_unlisted,1044,315,10,false
+2026-06-05,other token,sweep,6686,1176,2,false
+2026-06-13,other token,deposit_addr_out,329,277,11,false
+2026-06-17,USDC,to_wallet_unlisted,1235,989,3,false
+2026-06-25,ETH,withdrawal,21541,6,15785,false
+2026-08-18,USDC,sweep,4301,3478,1,false
+2026-07-10,USDC,withdrawal,6116,3,4351,false
+2026-09-04,ETH,to_wallet_unlisted,1309,998,16,false
+2026-06-08,other token,sweep,5240,803,3,false
+2026-09-24,ETH,sweep,1802,1179,2,false
+2026-10-23,ETH,withdrawal,6599,8,4826,false
+2026-10-22,ETH,deposit,5427,3760,3527,false
+2026-10-23,ETH,sweep,1523,1060,2,false
+2026-11-03,USDT,to_wallet_unlisted,3893,3548,7,false
+2026-10-12,USDT,deposit,9369,3717,6737,false
+2026-06-06,other token,deposit_addr_out,154,134,7,false
+2026-10-16,other token,to_wallet_unlisted,461,268,10,false
+2026-10-17,USDT,to_wallet_unlisted,6322,5246,4,false
+2026-10-19,USDC,deposit,3992,1816,2987,false
+2026-10-20,USDC,to_wallet_unlisted,7173,6843,1,false
+2026-10-22,other token,withdrawal,7563,16,2219,false
+2026-11-19,ETH,to_wallet_unlisted,915,723,11,false
+2026-06-30,USDT,sweep,17193,16122,2,false
+2026-06-29,other token,deposit_addr_out,32,5,4,false
+2026-06-29,USDC,deposit,4798,2126,3552,false
+2026-06-30,USDT,to_wallet_unlisted,10319,10059,2,false
+2026-09-14,USDT,deposit,9914,3777,7209,false
+2026-09-14,other token,withdrawal,10275,10,1954,false
+2026-11-22,ETH,to_wallet_unlisted,738,605,10,false
+2026-08-22,USDC,withdrawal,5220,3,3491,false
+2026-07-18,other token,deposit_addr_out,18,9,7,false
+2026-07-22,USDC,withdrawal,5124,3,3663,false
+2026-08-27,ETH,sweep,1952,1319,2,false
+2026-06-05,ETH,deposit,6535,4216,4473,false
+2026-07-02,ETH,withdrawal,11967,6,9049,false
+2026-07-04,ETH,to_wallet_unlisted,575,467,6,false
+2026-06-04,ETH,sweep,1684,1025,2,false
+2026-06-01,other token,sweep,6184,894,3,false
+2026-05-31,other token,sweep,4939,769,2,false
+2026-05-31,USDC,deposit,3461,1650,2620,false
+2026-10-24,ETH,deposit,4807,3327,3303,false
+2026-11-21,ETH,sweep,30602,29952,1,false
+2026-11-23,ETH,deposit,944,633,695,false
+2026-06-23,ETH,to_wallet_unlisted,586,518,6,false
+2026-08-21,ETH,to_wallet_unlisted,1588,1212,8,false
+2026-10-17,ETH,sweep,1384,965,1,false
+2026-07-03,other token,withdrawal,29880,18,17491,false
+2026-08-17,ETH,sweep,1715,1310,1,false
+2026-10-31,other token,deposit_addr_out,3,3,1,false
+2026-09-23,ETH,sweep,1969,1332,2,false
+2026-06-24,ETH,to_wallet_unlisted,1542,1444,8,false
+2026-07-08,USDT,sweep,9124,8032,2,false
+2026-07-09,other token,to_wallet_unlisted,479,198,7,false
+2026-07-24,USDT,withdrawal,23778,6,15833,false
+2026-07-23,other token,deposit_addr_out,36,28,6,false
+2026-07-30,USDT,to_wallet_unlisted,11076,10691,4,false
+2026-09-29,USDT,deposit,10303,4142,7698,false
+2026-09-29,USDC,deposit,5167,2167,3722,false
+2026-10-03,other token,sweep,6239,778,2,false
+2026-10-04,USDT,withdrawal,21441,6,13275,false
+2026-10-03,other token,deposit,10942,2335,2730,false
+2026-10-04,USDC,to_wallet_unlisted,1459,1157,2,false
+2026-10-06,USDC,sweep,4691,3762,2,false
+2026-10-06,USDT,withdrawal,28130,6,17922,false
+2026-10-06,other token,deposit_addr_out,338,332,115,false
+2026-10-09,other token,withdrawal,12258,12,3059,false
+2026-10-09,USDC,withdrawal,5566,3,3696,false
+2026-10-08,USDT,deposit,10767,4392,7923,false
+2026-08-09,USDC,withdrawal,3467,2,2517,false
+2026-10-28,other token,to_wallet_unlisted,498,270,12,false
+2026-10-28,other token,sweep,4345,625,3,false
+2026-10-28,other token,withdrawal,6090,16,2101,false
+2026-11-06,other token,to_wallet_unlisted,2008,1864,11,false
+2026-08-29,USDT,sweep,5597,4515,2,false
+2026-09-04,USDC,deposit,5504,2399,4018,false
+2026-09-03,USDC,to_wallet_unlisted,2104,1761,3,false
+2026-09-12,ETH,to_wallet_unlisted,1016,738,11,false
+2026-06-19,USDC,sweep,4075,3273,2,false
+2026-06-19,other token,deposit_addr_out,183,150,9,false
+2026-06-18,USDC,deposit,5733,2193,4219,false
+2026-06-27,other token,deposit,9213,3065,2955,false
+2026-06-27,USDC,to_wallet_unlisted,1060,820,2,false
+2026-10-07,USDC,to_wallet_unlisted,2843,2321,2,false
+2026-09-26,ETH,to_wallet_unlisted,704,568,8,false
+2026-09-26,ETH,deposit,5402,3914,3760,false
+2026-11-05,ETH,withdrawal,9625,9,7199,false
+2026-11-13,ETH,to_wallet_unlisted,893,737,6,false
+2026-11-14,ETH,withdrawal,8930,9,6348,false
+2026-07-19,ETH,withdrawal,6538,6,5066,false
+2026-07-20,ETH,deposit,5413,3640,3989,false
+2026-07-28,other token,deposit,15318,6483,6351,false
+2026-08-13,USDC,sweep,4630,3699,2,false
+2026-08-13,USDT,deposit,9825,3971,7310,false
+2026-08-15,USDC,to_wallet_unlisted,1434,1183,1,false
+2026-08-11,USDT,sweep,6869,5656,2,false
+2026-07-27,ETH,deposit,5751,3633,3841,false
+2026-08-10,ETH,to_wallet_unlisted,876,626,7,false
+2026-08-01,USDT,sweep,5450,4577,2,false
+2026-08-01,USDT,withdrawal,22543,6,14242,false
+2026-08-01,USDC,withdrawal,4613,2,3357,false
+2026-08-01,other token,deposit_addr_out,28,15,6,false
+2026-09-22,other token,withdrawal,10958,16,2748,false
+2026-09-22,USDT,withdrawal,30255,6,18578,false
+2026-09-21,other token,withdrawal,12140,10,2537,false
+2026-09-27,USDT,sweep,5966,4556,1,false
+2026-06-26,ETH,deposit,6130,4154,4557,false
+2026-09-20,other token,sweep,7735,1005,1,false
+2026-09-25,other token,withdrawal,13267,15,5059,false
+2026-10-10,USDT,sweep,8265,6484,2,false
+2026-10-10,USDC,sweep,3826,3183,1,false
+2026-10-15,USDC,withdrawal,5365,2,3679,false
+2026-10-15,USDT,to_wallet_unlisted,7494,6215,4,false
+2026-10-15,USDC,deposit,5295,2109,3886,false
+2026-11-01,other token,deposit_addr_out,1997,1979,5,false
+2026-11-08,USDT,withdrawal,29007,9,17546,false
+2026-11-09,USDC,to_wallet_unlisted,2189,1797,2,false
+2026-10-13,USDC,to_wallet_unlisted,2293,1944,3,false
+2026-09-16,USDC,sweep,4702,3678,2,false
+2026-09-16,USDT,deposit,11375,4504,8267,false
+2026-09-16,other token,to_wallet_unlisted,977,420,9,false
+2026-09-17,USDC,to_wallet_unlisted,2085,1694,2,false
+2026-09-26,USDC,sweep,3157,2439,1,false
+2026-11-10,USDC,sweep,19960,19073,2,false
+2026-11-10,other token,deposit_addr_out,4972,3729,18,false
+2026-11-15,other token,sweep,4617,868,1,false
+2026-11-16,other token,withdrawal,11126,15,4680,false
+2026-11-19,USDT,sweep,9073,7613,2,false
+2026-11-19,USDC,to_wallet_unlisted,2655,2184,2,false
+2026-10-26,USDC,sweep,3387,2706,2,false
+2026-10-27,USDC,sweep,3975,3171,2,false
+2026-10-27,USDC,to_wallet_unlisted,2392,1892,2,false
+2026-07-21,other token,withdrawal,11676,11,2666,false
+2026-11-11,USDT,sweep,7915,6299,2,false
+2026-07-24,ETH,withdrawal,8975,7,6913,false
+2026-07-23,ETH,deposit,5941,4099,4275,false
+2026-10-29,ETH,deposit,5014,3308,3519,false
+2026-06-12,USDT,sweep,4810,3883,2,false
+2026-06-12,other token,deposit,11841,3148,5630,false
+2026-06-12,other token,to_wallet_unlisted,669,253,15,false
+2026-06-16,other token,deposit_addr_out,464,389,9,false
+2026-06-20,other token,sweep,5826,790,2,false
+2026-06-20,USDC,withdrawal,5575,2,3900,false
+2026-07-29,ETH,withdrawal,8505,8,6509,false
+2026-08-01,ETH,withdrawal,7522,6,5722,false
+2026-07-26,USDC,deposit,2792,1279,2083,false
+2026-10-20,ETH,withdrawal,6775,8,4903,false
+2026-11-02,ETH,to_wallet_unlisted,201,179,11,false
+2026-07-17,USDC,to_wallet_unlisted,2285,1782,3,false
+2026-07-17,other token,to_wallet_unlisted,538,192,6,false
+2026-10-02,other token,deposit_addr_out,1097,996,9,false
+2026-06-15,ETH,deposit,5403,3544,3704,false
+2026-06-15,ETH,to_wallet_unlisted,702,564,3,false
+2026-08-28,ETH,sweep,1954,1333,2,false
+2026-11-13,USDT,withdrawal,33606,9,21070,false
+2026-10-25,USDT,sweep,6283,4870,2,false
+2026-05-26,USDC,withdrawal,5884,3,4147,false
+2026-05-27,other token,withdrawal,24473,10,12900,false
+2026-05-26,USDC,deposit,5550,2242,4283,false
+2026-08-26,other token,deposit_addr_out,185,148,73,false
+2026-08-25,USDC,to_wallet_unlisted,1884,1522,2,false
+2026-09-10,ETH,deposit,7285,4888,5098,false
+2026-09-09,ETH,sweep,2004,1388,1,false
+2026-08-24,USDT,withdrawal,25771,6,16517,false
+2026-08-23,USDT,deposit,7684,3070,5704,false
+2026-08-23,USDC,deposit,3439,1490,2493,false
+2026-08-24,other token,deposit,8796,1344,1370,false
+2026-08-19,USDC,withdrawal,4981,3,3493,false
+2026-08-03,ETH,sweep,1581,1195,1,false
+2026-09-15,ETH,deposit,7125,4782,4489,false
+2026-11-17,other token,withdrawal,9966,16,3996,false
+2026-11-17,USDC,withdrawal,6323,2,4639,false
+2026-11-17,other token,to_wallet_unlisted,571,308,11,false
+2026-08-17,USDC,withdrawal,4472,2,3301,false
+2026-08-17,USDC,to_wallet_unlisted,1719,1402,3,false
+2026-07-12,ETH,sweep,20660,20292,1,false
+2026-09-02,USDC,deposit,6269,2524,4558,false
+2026-07-01,USDC,withdrawal,16892,2,11222,false
+2026-07-01,USDC,deposit,6517,2696,4824,false
+2026-07-02,USDC,withdrawal,8418,3,5839,false
+2026-07-02,USDT,deposit,12954,4807,9712,false
+2026-07-02,other token,to_wallet_unlisted,774,259,10,false
+2026-07-01,other token,deposit_addr_out,24,11,5,false
+2026-07-05,USDC,deposit,3298,1483,2458,false
+2026-07-11,other token,sweep,4417,689,2,false
+2026-07-19,other token,sweep,3164,513,3,false
+2026-09-05,USDT,withdrawal,26245,5,16020,false
+2026-09-05,USDT,to_wallet_unlisted,3609,3083,1,false
+2026-09-05,USDC,to_wallet_unlisted,1666,1317,2,false
+2026-06-13,USDC,to_wallet_unlisted,1368,1132,2,false
+2026-06-17,USDC,deposit,5429,2315,3841,false
+2026-06-24,USDT,withdrawal,23115,6,16039,false
+2026-06-24,other token,deposit,8102,2320,2241,false
+2026-08-18,other token,withdrawal,6433,7,1846,false
+2026-08-18,other token,to_wallet_unlisted,686,233,5,false
+2026-07-10,USDC,to_wallet_unlisted,2163,1773,3,false
+2026-08-26,ETH,to_wallet_unlisted,1081,797,9,false
+2026-06-08,USDC,withdrawal,6003,4,4196,false
+2026-05-25,other token,sweep,3526,716,3,true
+2026-11-03,other token,withdrawal,3172,10,1782,false
+2026-11-03,USDT,withdrawal,43316,8,27855,false
+2026-11-03,other token,deposit_addr_out,2490,2269,10,false
+2026-11-04,USDC,withdrawal,6172,1,4304,false
+2026-11-04,USDT,deposit,10629,4135,7965,false
+2026-11-04,USDC,to_wallet_unlisted,2553,2071,1,false
+2026-10-12,USDT,withdrawal,25496,6,16437,false
+2026-10-17,USDT,withdrawal,25770,6,15210,false
+2026-10-19,USDC,sweep,3388,2745,2,false
+2026-10-19,other token,withdrawal,6690,12,1697,false
+2026-10-19,USDT,deposit,9001,3651,6756,false
+2026-10-22,USDC,sweep,8606,7739,2,false
+2026-10-21,USDC,sweep,3703,2938,2,false
+2026-10-22,USDC,withdrawal,4984,3,3489,false
+2026-10-21,USDT,deposit,10027,3997,7395,false
+2026-10-21,other token,deposit,8615,1904,2117,false
+2026-11-23,other token,sweep,800,198,1,false
+2026-11-22,USDT,withdrawal,27537,9,16916,false
+2026-11-23,USDT,withdrawal,9322,8,6605,false
+2026-06-30,USDT,deposit,12601,4797,9392,false
+2026-09-15,USDT,sweep,8510,6774,2,false
+2026-08-03,USDC,withdrawal,4958,3,3634,false
+2026-08-20,ETH,to_wallet_unlisted,1866,1402,6,false
+2026-10-23,USDT,to_wallet_unlisted,6575,5452,2,false
+2026-10-23,USDC,deposit,4159,1676,3063,false
+2026-06-25,USDT,deposit,12067,4879,8893,false
+2026-08-22,other token,deposit,14916,1722,1647,false
+2026-07-18,USDT,deposit,8731,3499,6551,false
+2026-07-22,other token,withdrawal,10267,10,2303,false
+2026-06-09,USDC,sweep,4966,3933,2,false
+2026-06-28,USDC,sweep,2603,2044,2,false
+2026-05-29,ETH,deposit,8526,6243,6398,false
+2026-06-05,ETH,to_wallet_unlisted,1056,837,4,false
+2026-10-24,USDT,withdrawal,25154,6,15615,false
+2026-10-30,USDC,sweep,984,849,1,false
+2026-10-30,USDC,to_wallet_unlisted,556,488,3,false
+2026-10-30,other token,to_wallet_unlisted,113,72,6,false
+2026-07-04,ETH,withdrawal,8204,6,6208,false
+2026-07-03,ETH,deposit,5121,3308,3706,false
+2026-06-02,other token,deposit,8309,1479,1304,false
+2026-06-03,other token,deposit,11028,1536,1396,false
+2026-11-23,ETH,to_wallet_unlisted,223,197,10,false
+2026-09-18,ETH,withdrawal,8823,7,6638,false
+2026-11-21,USDC,sweep,4766,3527,2,false
+2026-06-01,ETH,sweep,1473,1083,2,false
+2026-06-22,ETH,sweep,906,612,2,false
+2026-06-21,ETH,withdrawal,7474,6,5571,false
+2026-10-31,USDT,to_wallet_unlisted,10,1,10,false
+2026-09-22,ETH,withdrawal,9532,6,6957,false
+2026-07-09,USDT,sweep,8647,7733,2,false
+2026-07-08,other token,withdrawal,9982,12,2930,false
+2026-07-15,USDT,sweep,5254,4317,2,false
+2026-07-15,USDT,to_wallet_unlisted,2394,2102,5,false
+2026-07-24,other token,deposit,7914,1905,1633,false
+2026-07-30,other token,sweep,7913,3499,3,false
+2026-07-30,USDC,withdrawal,5099,2,3586,false
+2026-09-28,other token,sweep,8000,1061,3,false
+2026-09-29,other token,to_wallet_unlisted,3878,3301,7,false
+2026-10-03,other token,withdrawal,11043,15,2593,false
+2026-10-04,USDC,withdrawal,3813,2,2755,false
+2026-10-04,USDT,deposit,7307,2918,5447,false
+2026-10-05,USDC,deposit,4967,2004,3673,false
+2026-10-06,USDT,deposit,11247,4358,8285,false
+2026-10-09,USDT,sweep,11477,9245,2,false
+2026-10-09,USDC,to_wallet_unlisted,2416,1825,3,false
+2026-08-09,other token,deposit,6871,842,1603,false
+2026-11-05,USDT,sweep,4900,3947,1,false
+2026-11-05,other token,to_wallet_unlisted,18046,17790,17,false
+2026-11-06,USDT,to_wallet_unlisted,3028,2534,5,false
+2026-09-03,USDC,deposit,5479,2254,4091,false
+2026-09-21,ETH,to_wallet_unlisted,1464,1069,8,false
+2026-06-11,USDT,withdrawal,22826,6,15589,false
+2026-06-11,USDC,withdrawal,6927,2,4913,false
+2026-06-10,other token,to_wallet_unlisted,622,234,7,false
+2026-06-18,USDT,withdrawal,23738,6,16101,false
+2026-06-19,USDT,withdrawal,21766,6,14744,false
+2026-06-26,USDC,sweep,4756,3855,2,false
+2026-06-26,other token,to_wallet_unlisted,773,296,6,false
+2026-06-27,USDC,deposit,4177,1834,3089,false
+2026-06-27,other token,to_wallet_unlisted,632,248,17,false
+2026-10-03,ETH,sweep,1572,1138,1,false
+2026-10-07,ETH,withdrawal,8586,8,6007,false
+2026-05-27,ETH,sweep,1230,803,1,false
+2026-08-07,ETH,sweep,1680,1244,1,false
+2026-08-07,ETH,to_wallet_unlisted,835,637,7,false
+2026-08-12,USDT,to_wallet_unlisted,3002,2643,4,false
+2026-08-12,other token,to_wallet_unlisted,711,279,15,false
+2026-08-14,USDC,sweep,4336,3460,1,false
+2026-08-11,USDT,to_wallet_unlisted,3048,2641,5,false
+2026-07-31,ETH,sweep,1924,1465,1,false
+2026-07-31,ETH,withdrawal,8647,7,6436,false
+2026-07-27,USDC,to_wallet_unlisted,1381,1144,2,false
+2026-08-08,other token,to_wallet_unlisted,595,195,23,false
+2026-09-27,other token,deposit,13830,3719,3157,false
+2026-09-30,other token,withdrawal,9339,16,2882,false
+2026-06-26,ETH,withdrawal,19828,7,14405,false
+2026-09-13,other token,deposit,14679,1910,2180,false
+2026-09-13,USDC,to_wallet_unlisted,1269,1002,1,false
+2026-09-13,other token,to_wallet_unlisted,851,260,13,false
+2026-09-19,other token,sweep,8724,1023,2,false
+2026-09-19,USDC,sweep,3447,2634,2,false
+2026-10-14,USDC,sweep,3742,3001,2,false
+2026-11-01,USDT,withdrawal,38774,8,28129,false
+2026-11-02,other token,withdrawal,8472,13,7197,false
+2026-11-09,USDT,withdrawal,33955,9,21957,false
+2026-10-13,other token,sweep,7436,896,2,false
+2026-09-17,USDT,deposit,11107,4352,8158,false
+2026-09-26,other token,to_wallet_unlisted,1065,359,10,false
+2026-11-15,USDT,withdrawal,31160,9,18833,false
+2026-11-16,USDC,deposit,3984,1689,2941,false
+2026-11-18,other token,withdrawal,10895,17,4147,false
+2026-11-18,other token,to_wallet_unlisted,3153,2540,19,false
+2026-10-26,USDC,to_wallet_unlisted,1940,1522,3,false
+2026-07-20,other token,sweep,6414,2980,3,false
+2026-07-20,other token,to_wallet_unlisted,1878,1573,8,false
+2026-07-21,USDT,deposit,10681,4079,7796,false
+2026-11-07,USDT,sweep,18511,17035,1,false
+2026-11-07,USDT,withdrawal,31876,9,19267,false
+2026-11-12,USDC,sweep,3802,2995,2,false
+2026-07-11,ETH,withdrawal,10087,7,7478,false
+2026-07-25,ETH,sweep,1458,1008,1,false
+2026-08-05,ETH,sweep,1696,1317,1,false
+2026-08-30,USDC,sweep,2730,2103,1,false
+2026-09-07,USDC,withdrawal,4991,3,3692,false
+2026-09-06,USDC,deposit,3268,1514,2357,false
+2026-11-16,ETH,deposit,3356,2098,2191,false
+2026-06-16,USDC,deposit,5985,2307,4443,false
+2026-06-20,USDT,sweep,3519,2893,1,false
+2026-08-12,ETH,sweep,1725,1242,1,false
+2026-08-13,ETH,withdrawal,7484,6,5478,false
+2026-07-26,USDT,withdrawal,18660,5,11514,false
+2026-07-26,USDC,withdrawal,3370,2,2602,false
+2026-10-08,ETH,withdrawal,8749,8,6076,false
+2026-10-31,ETH,to_wallet_unlisted,13,4,13,false
+2026-07-12,other token,withdrawal,27330,12,15878,false
+2026-07-13,USDT,withdrawal,21501,6,14943,false
+2026-07-25,USDT,deposit,8636,3682,6543,false
+2026-10-01,USDC,to_wallet_unlisted,2687,2028,2,false
+2026-10-02,other token,to_wallet_unlisted,801,361,22,false
+2026-05-27,ETH,to_wallet_unlisted,665,540,8,false
+2026-05-26,ETH,deposit,6414,3981,4795,false
+2026-06-16,ETH,to_wallet_unlisted,744,602,4,false
+2026-09-02,ETH,to_wallet_unlisted,1260,1051,11,false
+2026-09-03,ETH,to_wallet_unlisted,1292,932,10,false
+2026-11-20,USDT,withdrawal,34907,9,22088,false
+2026-10-25,USDT,withdrawal,23238,5,14237,false
+2026-10-25,USDC,deposit,2687,1223,2061,false
+2026-08-25,other token,deposit_addr_out,96,47,50,false
+2026-09-01,ETH,sweep,2385,1732,1,false
+2026-11-04,USDT,sweep,8424,7493,1,false
+2026-11-04,USDC,sweep,4268,3327,1,false
+2026-08-24,USDT,sweep,10021,8978,2,false
+2026-08-23,USDT,withdrawal,22499,6,13556,false
+2026-08-23,other token,deposit,9345,1207,1735,false
+2026-06-20,ETH,to_wallet_unlisted,397,329,2,false
+2026-09-18,USDC,deposit,5430,2413,3828,false
+2026-08-20,USDT,deposit,11024,4371,8184,false
+2026-08-20,other token,deposit_addr_out,42,14,9,false
+2026-08-16,ETH,to_wallet_unlisted,701,462,7,false
+2026-08-24,ETH,deposit,6359,4211,4049,false
+2026-09-14,ETH,deposit,5874,3992,3811,false
+2026-11-17,USDT,sweep,7346,5875,2,false
+2026-08-17,other token,sweep,4144,708,2,false
+2026-07-13,ETH,withdrawal,9735,7,7318,false
+2026-07-14,ETH,withdrawal,9698,7,7210,false
+2026-07-02,other token,withdrawal,15650,9,5347,false
+2026-07-06,other token,sweep,12707,8648,3,false
+2026-07-11,USDC,withdrawal,4989,3,3574,false
+2026-07-07,other token,withdrawal,9244,12,2688,false
+2026-07-07,USDT,deposit,11954,4665,9000,false
+2026-07-07,other token,to_wallet_unlisted,1081,722,16,false
+2026-07-19,USDC,sweep,2719,2123,1,false
+2026-09-05,other token,deposit,6083,1100,847,false
+2026-06-04,USDC,to_wallet_unlisted,1389,1012,4,false
+2026-08-10,other token,deposit_addr_out,17,5,5,false
+2026-08-21,USDC,withdrawal,6056,3,4063,false
+2026-08-21,other token,withdrawal,12622,4,3460,false
+2026-08-08,ETH,deposit,5027,3398,3491,false
+2026-09-19,ETH,sweep,2129,1305,1,false
+2026-09-20,ETH,sweep,1471,1021,1,false
+2026-09-27,ETH,deposit,5242,3669,3547,false
+2026-07-10,other token,deposit,12588,7406,7379,false
+2026-07-10,USDT,to_wallet_unlisted,11928,11653,4,false
+2026-07-10,USDC,deposit,6606,2397,4576,false
+2026-08-26,ETH,sweep,1951,1308,2,false
+2026-06-08,USDC,deposit,5128,2216,3947,false
+2026-06-14,other token,deposit_addr_out,42,6,7,false
+2026-09-24,ETH,deposit,6193,4283,4217,false
+2026-08-23,other token,deposit_addr_out,248,207,211,false
+2026-06-18,ETH,withdrawal,9782,6,7079,false
+2026-10-13,ETH,deposit,5714,3721,3794,false
+2026-11-03,USDC,to_wallet_unlisted,7269,6726,2,false
+2026-06-06,USDC,to_wallet_unlisted,1169,911,3,false
+2026-06-06,USDT,to_wallet_unlisted,1424,1140,2,false
+2026-10-16,USDC,sweep,4066,3221,2,false
+2026-10-16,other token,withdrawal,8777,16,3090,false
+2026-10-20,USDC,sweep,10634,9911,2,false
+2026-10-20,USDT,to_wallet_unlisted,7022,5938,2,false
+2026-10-20,other token,deposit,7502,1710,1659,false
+2026-10-21,USDT,sweep,8725,6854,2,false
+2026-10-21,USDT,to_wallet_unlisted,6664,5618,3,false
+2026-11-19,ETH,deposit,3508,2088,2336,false
+2026-11-22,USDC,deposit,2631,1178,1965,false
+2026-09-01,ETH,deposit,7272,4837,4963,false
+2026-09-14,other token,deposit,12581,1848,2165,false
+2026-09-15,USDT,withdrawal,27683,6,17487,false
+2026-08-03,other token,deposit,13223,8065,6787,false
+2026-08-20,ETH,sweep,2989,1754,2,false
+2026-06-25,USDC,withdrawal,13094,2,8906,false
+2026-06-25,other token,to_wallet_unlisted,853,271,6,false
+2026-06-25,USDC,to_wallet_unlisted,1533,1199,2,false
+2026-06-25,USDT,to_wallet_unlisted,3835,3438,4,false
+2026-08-22,other token,deposit_addr_out,44,15,15,false
+2026-07-22,other token,deposit,7002,943,1117,false
+2026-07-14,USDC,sweep,5047,3941,1,false
+2026-06-09,USDT,sweep,5422,4418,2,false
+2026-06-09,other token,deposit_addr_out,161,104,9,false
+2026-06-22,USDT,to_wallet_unlisted,1291,1041,1,false
+2026-06-28,USDT,deposit,7028,2853,5337,false
+2026-06-05,ETH,withdrawal,12967,8,8807,false
+2026-06-06,ETH,to_wallet_unlisted,845,733,5,false
+2026-10-24,USDC,withdrawal,4292,1,3064,false
+2026-06-03,other token,sweep,7517,1013,2,false
+2026-06-21,other token,to_wallet_unlisted,654,183,10,false
+2026-11-18,ETH,withdrawal,8476,10,6096,false
+2026-11-18,ETH,deposit,3673,2177,2305,false
+2026-05-29,other token,withdrawal,9731,12,2376,false
+2026-05-29,USDC,withdrawal,6441,3,4446,false
+2026-11-14,USDC,sweep,3742,2875,2,false
+2026-11-14,USDT,to_wallet_unlisted,6275,5180,1,false
+2026-05-25,ETH,to_wallet_unlisted,266,205,9,true
+2026-06-01,ETH,withdrawal,9839,7,6953,false
+2026-10-15,ETH,deposit,5579,3839,3769,false
+2026-07-03,USDT,withdrawal,23186,6,15837,false
+2026-07-03,USDC,deposit,5933,2215,4546,false
+2026-06-22,ETH,to_wallet_unlisted,522,431,3,false
+2026-10-31,USDT,deposit,8480,2706,6814,false
+2026-10-31,other token,deposit,4258,932,1102,false
+2026-10-18,ETH,withdrawal,5639,6,4054,false
+2026-05-31,ETH,deposit,5188,3763,3845,false
+2026-10-31,USDC,to_wallet_unlisted,2,1,1,false
+2026-11-01,USDC,to_wallet_unlisted,2,2,2,false
+2026-10-01,ETH,withdrawal,9420,7,7096,false
+2026-07-09,USDC,withdrawal,6224,3,4481,false
+2026-07-09,other token,deposit_addr_out,23,14,9,false
+2026-07-16,other token,sweep,4262,682,2,false
+2026-07-24,USDC,deposit,4496,1829,3213,false
+2026-07-24,USDC,to_wallet_unlisted,1470,1152,2,false
+2026-07-31,USDC,sweep,4858,3944,2,false
+2026-07-31,other token,deposit,15405,8742,7985,false
+2026-08-05,USDC,sweep,4243,3450,2,false
+2026-08-05,USDC,withdrawal,5375,3,3851,false
+2026-08-06,other token,to_wallet_unlisted,2209,1698,10,false
+2026-09-28,other token,to_wallet_unlisted,1397,468,6,false
+2026-10-03,USDT,deposit,9332,3564,6968,false
+2026-10-09,other token,deposit,22742,1453,11333,false
+2026-10-09,USDT,to_wallet_unlisted,23110,21996,4,false
+2026-08-09,USDT,to_wallet_unlisted,1875,1600,4,false
+2026-08-10,USDT,deposit,10162,4167,7776,false
+2026-08-10,other token,to_wallet_unlisted,629,199,14,false
+2026-10-28,other token,deposit_addr_out,151,107,12,false
+2026-08-28,USDT,to_wallet_unlisted,3881,3088,3,false
+2026-08-28,other token,to_wallet_unlisted,872,305,7,false
+2026-08-29,USDT,to_wallet_unlisted,3362,2773,3,false
+2026-09-04,other token,to_wallet_unlisted,792,277,5,false
+2026-09-04,other token,deposit,7439,1231,1015,false
+2026-09-07,ETH,deposit,9186,4331,7179,false
+2026-06-10,USDC,withdrawal,6962,4,4786,false
+2026-06-10,USDT,withdrawal,21831,6,15032,false
+2026-06-11,USDT,deposit,12597,5255,9404,false
+2026-06-19,USDT,deposit,10694,4254,7961,false
+2026-10-07,other token,deposit_addr_out,715,673,166,false
+2026-10-06,ETH,withdrawal,7662,7,5690,false
+2026-07-20,ETH,sweep,12391,11986,2,false
+2026-07-20,ETH,withdrawal,7384,6,5744,false
+2026-08-06,ETH,withdrawal,8981,6,6569,false
+2026-07-28,USDC,withdrawal,4957,3,3640,false
+2026-07-29,other token,deposit_addr_out,14,8,8,false
+2026-08-04,USDT,to_wallet_unlisted,13986,13572,4,false
+2026-08-04,other token,deposit_addr_out,54,25,10,false
+2026-08-11,other token,deposit,8944,1054,2419,false
+2026-07-28,ETH,withdrawal,8522,6,6449,false
+2026-07-31,ETH,to_wallet_unlisted,942,751,8,false
+2026-08-07,other token,deposit,7865,1052,1160,false
+2026-09-22,USDC,deposit,5624,2279,3871,false
+2026-09-22,other token,sweep,7599,1068,3,false
+2026-09-27,other token,withdrawal,10952,6,2683,false
+2026-09-27,USDT,to_wallet_unlisted,4437,3622,2,false
+2026-09-09,USDT,to_wallet_unlisted,6304,5472,4,false
+2026-09-09,other token,deposit,8406,1130,2518,false
+2026-09-12,other token,sweep,4874,602,2,false
+2026-09-20,USDC,sweep,2701,2058,2,false
+2026-09-25,other token,to_wallet_unlisted,1743,1118,13,false
+2026-10-10,other token,to_wallet_unlisted,517,262,14,false
+2026-10-11,USDT,withdrawal,22615,5,13752,false
+2026-10-11,other token,deposit_addr_out,327,296,161,false
+2026-10-14,other token,withdrawal,7248,17,1936,false
+2026-11-02,USDC,withdrawal,7410,1,5382,false
+2026-11-02,other token,deposit,5927,2043,1959,false
+2026-11-09,USDC,withdrawal,7235,2,5028,false
+2026-11-08,other token,deposit,5561,2258,2292,false
+2026-10-13,other token,deposit,10943,1746,1670,false
+2026-10-13,USDT,to_wallet_unlisted,7203,6130,4,false
+2026-10-13,USDT,withdrawal,26961,6,17039,false
+2026-10-13,other token,deposit_addr_out,120,72,64,false
+2026-09-16,USDT,withdrawal,28234,6,17784,false
+2026-11-15,USDC,sweep,6711,5836,1,false
+2026-11-18,USDC,sweep,4362,3428,2,false
+2026-10-27,USDT,withdrawal,27650,6,17491,false
+2026-11-11,USDT,withdrawal,32259,9,20666,false
+2026-11-11,USDC,deposit,4330,1856,3281,false
+2026-07-21,ETH,to_wallet_unlisted,810,677,9,false
+2026-08-30,USDT,deposit,7334,2981,5514,false
+2026-08-30,USDT,to_wallet_unlisted,2388,2000,2,false
+2026-09-07,other token,deposit,8459,1144,1966,false
+2026-10-29,ETH,to_wallet_unlisted,827,703,9,false
+2026-06-15,other token,deposit_addr_out,68,11,8,false
+2026-07-29,ETH,deposit,5621,3579,3673,false
+2026-08-11,ETH,sweep,1815,1364,1,false
+2026-08-11,ETH,withdrawal,8584,8,6431,false
+2026-08-13,ETH,to_wallet_unlisted,751,564,8,false
+2026-07-26,other token,deposit,10800,1235,1843,false
+2026-11-03,ETH,withdrawal,9451,9,7156,false
+2026-05-31,ETH,withdrawal,7254,7,5182,false
+2026-07-13,USDT,sweep,4201,3429,2,false
+2026-07-12,USDC,withdrawal,4503,3,3081,false
+2026-10-01,USDC,withdrawal,6395,3,4582,false
+2026-06-11,ETH,to_wallet_unlisted,619,522,2,false
+2026-09-03,ETH,deposit,6817,4845,4331,false
+2026-09-05,ETH,sweep,1693,1270,1,false
+2026-09-05,ETH,deposit,6111,4442,4169,false
+2026-11-13,other token,deposit_addr_out,5153,3297,21,false
+2026-11-13,USDC,deposit,4953,1961,3624,false
+2026-10-25,USDT,to_wallet_unlisted,4741,3891,1,false
+2026-08-16,USDT,sweep,3919,3299,2,false
+2026-08-16,USDC,deposit,3030,1313,2369,false
+2026-08-26,other token,withdrawal,10356,12,3214,false
+2026-08-26,USDT,to_wallet_unlisted,4080,3475,5,false
+2026-08-25,USDC,sweep,4361,3431,2,false
+2026-08-31,USDC,sweep,4346,3457,2,false
+2026-09-01,other token,deposit_addr_out,1161,976,87,false
+2026-08-31,other token,deposit,7881,1128,913,false
+2026-09-29,ETH,sweep,2390,1420,2,false
+2026-08-24,other token,sweep,6234,920,3,false
+2026-08-24,USDC,sweep,3589,2763,2,false
+2026-08-27,USDT,sweep,14217,13020,2,false
+2026-08-23,other token,withdrawal,8634,7,2246,false
+2026-08-24,other token,withdrawal,8656,9,2405,false
+2026-08-24,USDC,withdrawal,5089,3,3629,false
+2026-08-27,other token,withdrawal,11542,10,5022,false
+2026-08-27,other token,deposit_addr_out,209,160,26,false
+2026-08-27,other token,to_wallet_unlisted,782,281,9,false
+2026-06-20,ETH,sweep,766,577,1,false
+2026-07-16,ETH,sweep,1757,1262,1,false
+2026-08-20,USDT,sweep,6696,5364,2,false
+2026-08-20,USDT,to_wallet_unlisted,3755,3144,3,false
+2026-08-19,other token,withdrawal,6100,10,1819,false
+2026-08-19,USDC,to_wallet_unlisted,1782,1390,2,false
+2026-11-17,other token,deposit,5265,750,744,false
+2026-08-17,USDC,deposit,4196,1769,3246,false
+2026-07-06,ETH,to_wallet_unlisted,637,551,4,false
+2026-09-02,USDT,deposit,11814,4619,8883,false
+2026-09-02,other token,deposit,8741,1225,1013,false
+2026-09-02,USDT,to_wallet_unlisted,16109,15471,2,false
+2026-07-02,other token,sweep,6584,862,3,false
+2026-07-02,other token,deposit,12567,3997,3853,false
+2026-10-10,ETH,to_wallet_unlisted,790,619,10,false
+2026-07-19,other token,withdrawal,5396,3,1987,false
+2026-06-13,other token,sweep,4481,674,1,false
+2026-06-13,other token,withdrawal,7236,14,2159,false
+2026-11-10,ETH,to_wallet_unlisted,771,657,14,false
+2026-08-18,USDC,to_wallet_unlisted,2012,1655,2,false
+2026-05-28,USDC,deposit,5798,2432,4056,false
+2026-07-10,USDC,sweep,5115,3851,2,false
+2026-09-04,ETH,sweep,2467,1613,2,false
+2026-06-08,USDT,deposit,11079,4638,8261,false
+2026-06-08,other token,deposit,13980,4451,6399,false
+2026-06-07,USDC,deposit,3520,1665,2674,false
+2026-06-07,USDT,to_wallet_unlisted,1034,857,5,false
+2026-09-24,ETH,to_wallet_unlisted,852,678,9,false
+2026-11-03,USDT,deposit,10987,4362,8411,false
+2026-10-12,USDT,sweep,8080,6237,2,false
+2026-10-12,other token,deposit,11030,2417,2213,false
+2026-06-06,other token,to_wallet_unlisted,781,281,5,false
+2026-06-06,USDT,sweep,5327,4308,2,false
+2026-10-16,USDC,to_wallet_unlisted,2327,1868,2,false
+2026-10-17,USDC,sweep,3194,2593,1,false
+2026-10-18,other token,deposit_addr_out,16319,14096,8,false
+2026-10-18,USDC,to_wallet_unlisted,1317,1066,2,false
+2026-11-22,USDT,sweep,5052,3952,2,false
+2026-11-22,USDC,withdrawal,4488,2,3231,false
+2026-11-22,other token,deposit,3603,644,631,false
+2026-11-22,other token,to_wallet_unlisted,543,286,2,false
+2026-06-29,USDT,sweep,7527,6795,2,false
+2026-06-29,USDC,withdrawal,12872,2,8642,false
+2026-06-30,USDC,to_wallet_unlisted,1457,1214,2,false
+2026-09-01,ETH,to_wallet_unlisted,1329,1054,10,false
+2026-09-15,other token,deposit,9771,1943,2167,false
+2026-08-18,ETH,sweep,1835,1371,1,false
+2026-06-25,USDC,deposit,6336,2622,4667,false
+2026-08-22,other token,to_wallet_unlisted,1274,449,20,false
+2026-07-22,USDC,sweep,3866,3014,2,false
+2026-06-09,other token,sweep,5593,883,3,false
+2026-06-09,other token,withdrawal,9364,15,2412,false
+2026-06-09,USDT,deposit,12317,5000,9208,false
+2026-10-24,other token,sweep,6279,694,2,false
+2026-07-03,ETH,withdrawal,9941,8,7554,false
+2026-06-02,USDT,sweep,10829,9759,2,false
+2026-06-03,USDC,withdrawal,7406,3,4895,false
+2026-06-02,USDC,to_wallet_unlisted,1209,920,2,false
+2026-06-03,ETH,to_wallet_unlisted,779,642,4,false
+2026-05-31,USDC,sweep,2901,2369,2,false
+2026-05-31,USDT,sweep,3111,2598,2,false
+2026-05-31,other token,withdrawal,7682,8,2245,false
+2026-10-25,ETH,to_wallet_unlisted,602,497,9,false
+2026-11-14,USDT,sweep,7322,5728,2,false
+2026-11-14,other token,deposit,6693,2034,2279,false
+2026-11-20,other token,deposit_addr_out,1361,1060,67,false
+2026-08-21,ETH,sweep,2470,1537,2,false
+2026-10-17,ETH,withdrawal,6021,7,4242,false
+2026-10-16,ETH,withdrawal,7474,6,5248,false
+2026-07-03,USDT,sweep,8326,7364,2,false
+2026-06-07,ETH,sweep,933,653,1,false
+2026-09-17,ETH,sweep,1820,1193,2,false
+2026-09-23,ETH,to_wallet_unlisted,1048,811,8,false
+2026-11-11,ETH,to_wallet_unlisted,808,680,7,false
+2026-10-13,ETH,withdrawal,7660,6,5204,false
+2026-10-14,ETH,withdrawal,7338,6,5048,false
+2026-07-09,other token,withdrawal,7859,10,2583,false
+2026-07-15,other token,deposit_addr_out,18,12,4,false
+2026-07-23,USDT,sweep,9406,8514,2,false
+2026-07-23,USDC,to_wallet_unlisted,1452,1198,2,false
+2026-08-06,USDC,deposit,5129,2052,3713,false
+2026-09-29,other token,deposit,8462,1384,1242,false
+2026-09-28,USDC,deposit,4566,1982,3323,false
+2026-10-08,USDC,withdrawal,5498,2,3720,false
+2026-08-09,USDC,sweep,2440,1937,1,false
+2026-08-09,other token,withdrawal,5096,5,1614,false
+2026-08-09,USDC,to_wallet_unlisted,1060,874,2,false
+2026-10-29,USDC,deposit,4234,1889,3181,false
+2026-10-29,USDT,sweep,8861,6863,2,false
+2026-11-06,other token,sweep,5757,3763,1,false
+2026-08-28,USDC,withdrawal,5410,4,3843,false
+2026-08-29,USDT,deposit,9195,3552,6793,false
+2026-09-03,other token,withdrawal,7963,6,2214,false
+2026-09-13,ETH,to_wallet_unlisted,848,608,8,false
+2026-06-18,USDC,sweep,4705,3858,2,false
+2026-06-26,USDC,deposit,5603,2473,4219,false
+2026-06-27,USDT,to_wallet_unlisted,1295,1087,2,false
+2026-10-07,other token,sweep,7024,1034,3,false
+2026-10-07,other token,to_wallet_unlisted,634,327,6,false
+2026-09-25,ETH,to_wallet_unlisted,890,715,10,false
+2026-10-06,ETH,deposit,6126,4173,4117,false
+2026-06-30,ETH,withdrawal,26650,7,19836,false
+2026-07-09,ETH,deposit,5866,3974,4074,false
+2026-07-28,USDC,sweep,4226,3353,2,false
+2026-08-13,USDT,sweep,5480,4486,2,false
+2026-08-14,USDC,withdrawal,4900,3,3589,false
+2026-08-14,other token,to_wallet_unlisted,609,242,11,false
+2026-08-11,USDT,withdrawal,24643,6,16404,false
+2026-08-11,USDC,withdrawal,5335,3,3756,false
+2026-08-10,ETH,sweep,13888,13501,2,false
+2026-07-27,USDC,sweep,3440,2737,2,false
+2026-08-07,USDC,to_wallet_unlisted,1684,1374,2,false
+2026-09-21,other token,sweep,11217,3190,3,false
+2026-09-27,USDC,deposit,2958,1337,2054,false
+2026-09-28,ETH,sweep,2024,1273,2,false
+2026-11-04,ETH,sweep,1921,1176,1,false
+2026-09-09,other token,to_wallet_unlisted,1217,735,7,false
+2026-09-09,USDT,sweep,10496,8962,2,false
+2026-09-08,other token,deposit_addr_out,184,155,39,false
+2026-09-12,USDC,deposit,3893,1635,2762,false
+2026-09-20,other token,withdrawal,11117,18,2243,false
+2026-09-19,other token,deposit_addr_out,391,327,25,false
+2026-09-19,other token,deposit,12462,1501,1411,false
+2026-09-24,other token,deposit,11812,2502,2333,false
+2026-09-25,other token,deposit,10549,2155,2198,false
+2026-10-11,other token,deposit,9219,2528,2655,false
+2026-11-09,other token,withdrawal,12361,18,6342,false
+2026-09-16,other token,withdrawal,7860,17,1917,false
+2026-09-16,other token,deposit,10829,2455,3403,false
+2026-09-17,other token,deposit,9442,2050,2227,false
+2026-09-26,USDC,withdrawal,4700,3,3239,false
+2026-11-10,other token,to_wallet_unlisted,3378,2994,17,false
+2026-11-15,other token,deposit,5365,938,963,false
+2026-11-19,USDT,withdrawal,34415,9,21801,false
+2026-11-18,USDT,to_wallet_unlisted,6044,4977,6,false
+2026-11-19,USDT,deposit,9073,3604,6659,false
+2026-10-27,USDT,sweep,8974,7043,2,false
+2026-07-20,other token,withdrawal,6293,7,2087,false
+2026-07-21,other token,deposit,8055,950,1053,false
+2026-11-12,USDT,deposit,10227,3957,7278,false
+2026-07-25,ETH,to_wallet_unlisted,811,524,7,false
+2026-08-05,ETH,deposit,5745,3895,4216,false
+2026-09-10,other token,deposit,11426,1026,3828,false
+2026-09-06,USDT,to_wallet_unlisted,25920,25431,2,false
+2026-09-06,other token,deposit,8611,1121,1173,false
+2026-10-28,ETH,deposit,4974,3311,3368,false
+2026-10-29,ETH,sweep,1546,1047,1,false
+2026-11-07,ETH,sweep,45363,45249,1,false
+2026-06-15,USDC,sweep,4304,3495,2,false
+2026-06-16,USDC,withdrawal,7154,3,4941,false
+2026-06-20,other token,withdrawal,13833,8,3388,false
+2026-07-12,USDC,sweep,3176,2158,1,false
+2026-07-12,USDT,withdrawal,18949,6,12374,false
+2026-10-01,other token,sweep,6069,845,3,false
+2026-06-11,ETH,withdrawal,9431,6,6750,false
+2026-06-15,ETH,sweep,1261,821,2,false
+2026-08-28,ETH,withdrawal,13450,9,10860,false
+2026-11-13,USDC,sweep,4447,3531,2,false
+2026-11-13,USDC,withdrawal,6787,2,4882,false
+2026-11-13,USDC,to_wallet_unlisted,2827,2303,2,false
+2026-11-20,USDT,deposit,9929,3871,7230,false
+2026-11-20,USDC,to_wallet_unlisted,3032,2460,2,false
+2026-10-25,other token,withdrawal,8464,18,1768,false
+2026-05-26,USDT,sweep,4816,3936,2,false
+2026-05-27,USDC,sweep,4303,3451,2,false
+2026-05-26,USDC,to_wallet_unlisted,444,337,3,false
+2026-08-26,USDC,withdrawal,5585,2,3945,false
+2026-08-31,other token,sweep,5921,738,3,false
+2026-08-31,USDT,to_wallet_unlisted,9131,8591,5,false
+2026-09-09,ETH,deposit,7234,5125,4927,false
+2026-08-27,USDT,to_wallet_unlisted,14074,13467,5,false
+2026-06-19,ETH,to_wallet_unlisted,585,482,5,false
+2026-06-20,ETH,deposit,4823,3411,3645,false
+2026-07-16,ETH,deposit,6523,4547,4455,false
+2026-08-24,ETH,to_wallet_unlisted,1084,806,9,false
+2026-11-17,USDT,withdrawal,34190,9,21288,false
+2026-11-17,USDC,sweep,4987,4025,2,false
+2026-07-13,ETH,sweep,1585,1155,2,false
+2026-07-06,ETH,withdrawal,8191,7,6156,false
+2026-07-22,ETH,withdrawal,9834,6,7672,false
+2026-09-02,other token,sweep,6275,812,2,false
+2026-09-02,other token,withdrawal,10479,12,3686,false
+2026-07-01,other token,sweep,5644,874,3,false
+2026-07-01,other token,deposit,13806,7177,7044,false
+2026-07-11,USDT,deposit,9298,3724,6980,false
+2026-10-11,ETH,to_wallet_unlisted,637,510,7,false
+2026-07-07,USDC,deposit,5625,2082,4186,false
+2026-09-05,USDC,sweep,3660,2917,1,false
+2026-06-04,other token,withdrawal,13978,12,2625,false
+2026-06-13,USDC,sweep,4501,3716,2,false
+2026-06-13,USDT,deposit,9889,4000,7363,false
+2026-06-17,USDT,sweep,4707,3828,2,false
+2026-06-17,USDT,withdrawal,23322,6,16016,false
+2026-06-24,USDC,withdrawal,7783,4,5413,false
+2026-06-24,other token,sweep,4972,756,3,false
+2026-08-18,USDT,sweep,14848,13858,2,false
+2026-08-18,USDT,deposit,10264,4045,7892,false
+2026-08-21,USDT,withdrawal,27704,6,17536,false
+2026-08-21,USDC,to_wallet_unlisted,2173,1783,2,false
+2026-09-04,ETH,deposit,7623,5162,4927,false
+2026-06-07,USDC,sweep,3025,2462,2,false
+2026-06-07,other token,withdrawal,7099,7,1937,false
+2026-06-14,other token,sweep,4564,697,2,false
+2026-08-14,ETH,to_wallet_unlisted,833,626,9,false
+2026-05-25,USDC,to_wallet_unlisted,210,148,2,true
+2026-09-24,ETH,withdrawal,8966,7,6774,false
+2026-10-05,ETH,withdrawal,7876,6,5996,false
+2026-10-22,ETH,withdrawal,7287,8,5235,false
+2026-10-13,ETH,to_wallet_unlisted,1026,782,9,false
+2026-11-03,other token,to_wallet_unlisted,593,500,11,false
+2026-10-12,USDT,to_wallet_unlisted,6107,5164,3,false
+2026-10-12,USDC,to_wallet_unlisted,1848,1520,2,false
+2026-10-16,USDT,withdrawal,28328,6,17102,false
+2026-10-16,USDC,deposit,4677,2148,3460,false
+2026-10-19,USDT,withdrawal,25766,6,16351,false
+2026-10-19,USDT,to_wallet_unlisted,6233,5210,4,false
+2026-10-22,USDT,sweep,8865,6845,2,false
+2026-06-30,other token,sweep,5227,885,3,false
+2026-06-29,other token,deposit,9008,2569,2536,false
+2026-07-04,USDT,to_wallet_unlisted,1335,1142,2,false
+2026-10-26,ETH,withdrawal,6039,6,4374,false
+2026-08-03,other token,withdrawal,6411,9,1944,false
+2026-08-03,USDC,sweep,4218,3519,2,false
+2026-10-23,USDC,sweep,3620,2853,2,false
+2026-06-25,USDT,sweep,8258,7209,2,false
+2026-08-22,other token,sweep,10223,1199,2,false
+2026-07-18,other token,to_wallet_unlisted,432,155,7,false
+2026-07-14,other token,sweep,4189,669,2,false
+2026-05-30,ETH,to_wallet_unlisted,546,461,4,false
+2026-06-03,USDT,to_wallet_unlisted,1621,1294,2,false
+2026-06-01,other token,deposit_addr_out,159,85,9,false
+2026-06-21,USDT,withdrawal,17427,6,12169,false
+2026-09-30,ETH,deposit,7355,4933,5062,false
+2026-05-30,USDT,withdrawal,17380,6,12112,false
+2026-05-30,USDC,withdrawal,5356,1,3653,false
+2026-05-29,USDC,deposit,5678,2292,4276,false
+2026-06-02,ETH,withdrawal,10133,6,7261,false
+2026-10-16,ETH,sweep,1768,1193,1,false
+2026-10-16,ETH,deposit,5490,3664,3550,false
+2026-07-03,USDC,to_wallet_unlisted,1526,1255,2,false
+2026-06-10,ETH,to_wallet_unlisted,645,547,3,false
+2026-10-18,ETH,deposit,4330,3078,2916,false
+2026-10-01,ETH,sweep,1993,1355,2,false
+2026-07-09,other token,deposit,15945,10676,10437,false
+2026-07-08,USDC,sweep,4537,3580,2,false
+2026-07-16,USDT,deposit,10583,4116,8144,false
+2026-07-16,USDC,deposit,5491,2052,3940,false
+2026-07-23,USDT,withdrawal,24960,6,17210,false
+2026-07-30,USDT,sweep,14099,13138,2,false
+2026-08-06,USDC,withdrawal,4893,2,3575,false
+2026-08-06,USDC,to_wallet_unlisted,1805,1443,2,false
+2026-08-05,USDT,to_wallet_unlisted,10818,10384,4,false
+2026-08-06,other token,deposit,7581,1078,1060,false
+2026-10-05,other token,to_wallet_unlisted,523,297,10,false
+2026-10-06,USDT,sweep,11959,9917,2,false
+2026-10-06,other token,deposit,10795,1331,1235,false
+2026-10-06,USDT,to_wallet_unlisted,50289,49178,4,false
+2026-10-08,USDC,to_wallet_unlisted,2400,1914,2,false
+2026-08-09,USDT,withdrawal,20034,5,12320,false
+2026-08-09,other token,to_wallet_unlisted,609,190,16,false
+2026-10-29,USDT,deposit,10341,3977,7503,false
+2026-08-28,other token,sweep,4972,786,2,false
+2026-08-28,other token,deposit,6841,1180,983,false
+2026-09-03,USDT,deposit,11342,4494,8548,false
+2026-06-10,USDT,deposit,12049,4844,9198,false
+2026-06-19,other token,withdrawal,10718,11,3384,false
+2026-06-18,USDC,to_wallet_unlisted,1294,1055,2,false
+2026-06-19,USDC,deposit,4729,2078,3507,false
+2026-09-25,ETH,deposit,6489,4116,4590,false
+2026-07-10,ETH,withdrawal,10999,8,8090,false
+2026-08-06,ETH,sweep,1823,1314,2,false
+2026-07-29,USDT,to_wallet_unlisted,2096,1815,4,false
+2026-08-04,other token,sweep,3853,680,2,false
+2026-08-04,USDC,to_wallet_unlisted,1955,1605,2,false
+2026-08-12,other token,sweep,4786,762,2,false
+2026-08-13,other token,deposit,9537,4343,4293,false
+2026-08-14,other token,sweep,4046,764,3,false
+2026-08-15,USDT,sweep,10914,10056,2,false
+2026-08-02,USDC,deposit,3622,1470,2686,false
+2026-08-11,USDC,deposit,5219,2016,3713,false
+2026-07-17,ETH,to_wallet_unlisted,753,597,9,false
+2026-08-08,USDT,sweep,10912,10147,2,false
+2026-08-08,other token,deposit,6235,824,1241,false
+2026-08-08,USDT,to_wallet_unlisted,8962,8622,4,false
+2026-08-08,USDT,deposit,9463,3788,7212,false
+2026-08-08,USDC,to_wallet_unlisted,1402,1146,2,false
+2026-09-22,USDT,deposit,10897,4445,7977,false
+2026-09-27,USDT,deposit,7364,2865,5258,false
+2026-09-27,USDC,to_wallet_unlisted,1283,1002,2,false
+2026-09-30,other token,deposit,9248,1954,2103,false
+2026-09-11,ETH,deposit,7690,4744,5063,false
+2026-08-25,ETH,sweep,2002,1302,2,false
+2026-09-13,USDC,sweep,2430,1875,1,false
+2026-09-13,USDC,withdrawal,3928,2,2742,false
+2026-09-19,USDT,sweep,7134,5488,2,false
+2026-09-24,USDC,withdrawal,5145,2,3566,false
+2026-09-24,other token,deposit_addr_out,757,580,16,false
+2026-09-24,USDT,deposit,9942,4244,7331,false
+2026-10-11,other token,sweep,5173,643,2,false
+2026-10-11,other token,withdrawal,6225,16,1714,false
+2026-10-10,other token,withdrawal,9035,17,1979,false
+2026-10-15,USDT,deposit,11924,4511,8661,false
+2026-09-16,other token,sweep,5376,841,3,false
+2026-09-17,other token,deposit_addr_out,610,549,32,false
+2026-09-16,USDT,to_wallet_unlisted,40872,40062,4,false
+2026-09-26,other token,withdrawal,10226,10,2613,false
+2026-09-26,USDT,withdrawal,24878,6,14743,false
+2026-11-10,USDT,to_wallet_unlisted,6687,5595,6,false
+2026-11-15,USDC,deposit,3993,1750,2874,false
+2026-11-18,USDC,withdrawal,5801,3,4266,false
+2026-11-19,other token,to_wallet_unlisted,661,297,16,false
+2026-10-27,other token,withdrawal,6969,20,2098,false
+2026-11-07,USDC,sweep,3076,2628,1,false
+2026-11-12,other token,withdrawal,14939,19,8098,false
+2026-07-11,ETH,deposit,5868,4123,4249,false
+2026-07-21,ETH,sweep,1799,1313,2,false
+2026-09-11,other token,withdrawal,8712,8,2052,false
+2026-09-10,other token,withdrawal,9783,6,1967,false
+2026-09-11,other token,to_wallet_unlisted,1338,931,12,false
+2026-08-30,USDC,to_wallet_unlisted,1163,963,1,false
+2026-09-07,USDT,to_wallet_unlisted,33773,33142,1,false
+2026-09-07,USDC,deposit,4417,1919,3293,false
+2026-06-15,other token,sweep,5435,802,3,false
+2026-06-15,other token,to_wallet_unlisted,1158,569,15,false
+2026-06-20,USDT,withdrawal,18505,6,12572,false
+2026-06-20,USDC,to_wallet_unlisted,896,712,2,false
+2026-10-09,ETH,to_wallet_unlisted,842,648,7,false
+2026-10-09,ETH,sweep,1780,1210,1,false
+2026-10-20,ETH,sweep,1563,1044,2,false
+2026-07-13,other token,withdrawal,6347,7,2123,false
+2026-09-23,other token,withdrawal,12275,10,2598,false
+2026-10-01,USDC,sweep,5163,4125,2,false
+2026-10-02,USDC,withdrawal,7366,2,5456,false
+2026-10-02,USDT,deposit,12055,4630,8800,false
+2026-06-08,ETH,withdrawal,9145,6,6516,false
+2026-09-03,ETH,sweep,2116,1449,2,false
+2026-11-13,other token,withdrawal,12612,18,5477,false
+2026-11-13,other token,to_wallet_unlisted,5968,5657,19,false
+2026-10-25,USDC,withdrawal,3575,3,2557,false
+2026-08-11,other token,deposit_addr_out,144,53,44,false
+2026-08-16,other token,deposit,7571,885,1286,false
+2026-05-27,other token,deposit_addr_out,7363,5848,9,false
+2026-05-27,other token,deposit,8271,1404,1193,false
+2026-08-25,USDT,sweep,28117,26833,2,false
+2026-09-01,USDC,withdrawal,5980,3,4198,false
+2026-09-01,other token,deposit,7866,1185,968,false
+2026-09-01,USDT,to_wallet_unlisted,14982,14334,2,false
+2026-08-31,USDC,to_wallet_unlisted,1713,1376,2,false
+2026-08-24,USDT,to_wallet_unlisted,8659,8201,5,false
+2026-06-19,ETH,deposit,5456,3843,4069,false
+2026-07-16,ETH,withdrawal,8750,6,6469,false
+2026-09-18,USDT,withdrawal,27907,6,17573,false
+2026-08-20,other token,sweep,6902,1044,2,false
+2026-08-20,USDC,withdrawal,6089,3,4029,false
+2026-08-19,USDC,sweep,3748,2942,2,false
+2026-08-16,ETH,sweep,1182,907,1,false
+2026-08-16,ETH,deposit,4462,3164,3166,false
+2026-09-15,ETH,withdrawal,11118,6,8615,false
+2026-11-17,USDT,to_wallet_unlisted,6334,5214,6,false
+2026-07-05,ETH,withdrawal,7718,6,5799,false
+2026-09-02,USDT,withdrawal,28974,6,18074,false
+2026-07-06,USDT,sweep,31481,30572,2,false
+2026-08-31,ETH,sweep,15811,15161,2,false
+2026-09-08,ETH,sweep,1914,1411,1,false
+2026-10-11,ETH,withdrawal,5983,6,4343,false
+2026-07-07,USDC,sweep,4749,3833,2,false
+2026-07-07,other token,deposit_addr_out,35,12,7,false
+2026-06-23,USDC,sweep,4422,3568,2,false
+2026-08-21,USDT,deposit,11780,4644,8523,false
+2026-09-20,ETH,deposit,5816,4295,3743,false
+2026-09-27,ETH,to_wallet_unlisted,694,571,7,false
+2026-05-28,USDC,sweep,4749,3770,2,false
+2026-06-14,other token,to_wallet_unlisted,582,170,10,false
+2026-05-25,other token,withdrawal,6834,11,2584,true
+2026-05-25,USDT,deposit,7875,3419,6062,true
+2026-11-04,USDT,withdrawal,40871,8,26424,false
+2026-06-06,other token,deposit,9656,1523,1798,false
+2026-10-17,USDC,to_wallet_unlisted,1661,1406,2,false
+2026-10-17,USDC,deposit,3684,1637,2797,false
+2026-10-18,USDT,sweep,6406,4986,2,false
+2026-10-19,USDC,withdrawal,4474,2,3134,false
+2026-10-20,USDT,deposit,10313,3978,7646,false
+2026-10-21,USDC,withdrawal,4880,3,3392,false
+2026-10-22,USDT,to_wallet_unlisted,6893,5773,3,false
+2026-11-20,ETH,to_wallet_unlisted,917,695,9,false
+2026-06-29,USDC,to_wallet_unlisted,1094,927,2,false
+2026-07-04,USDC,sweep,3928,3213,2,false
+2026-08-03,other token,deposit_addr_out,25,13,7,false
+2026-08-19,ETH,sweep,1940,1344,2,false
+2026-08-20,ETH,deposit,8636,5304,5134,false
+2026-08-22,ETH,deposit,7474,5000,4779,false
+2026-10-23,USDC,to_wallet_unlisted,2067,1671,4,false
+2026-11-21,ETH,deposit,4507,2624,3021,false
+2026-11-21,ETH,to_wallet_unlisted,1121,906,3,false
+2026-06-25,USDT,withdrawal,23555,6,16140,false
+2026-07-18,other token,withdrawal,6852,4,2310,false
+2026-07-22,other token,to_wallet_unlisted,681,250,7,false
+2026-07-14,USDC,withdrawal,5923,3,4164,false
+2026-08-27,ETH,withdrawal,9611,7,7296,false
+2026-06-28,other token,sweep,4773,802,2,false
+2026-10-24,other token,withdrawal,12086,16,2978,false
+2026-10-24,other token,deposit_addr_out,3302,2226,18,false
+2026-10-30,USDC,deposit,3632,1413,2880,false
+2026-06-02,USDC,withdrawal,7380,4,5079,false
+2026-06-02,other token,deposit_addr_out,246,184,9,false
+2026-06-04,ETH,deposit,6756,4482,4574,false
+2026-10-24,ETH,withdrawal,6466,6,4548,false
+2026-11-18,ETH,to_wallet_unlisted,797,628,14,false
+2026-11-23,ETH,sweep,423,326,1,false
+2026-05-30,other token,withdrawal,9221,9,2155,false
+2026-05-30,other token,deposit,8466,1247,1103,false
+2026-05-30,USDT,deposit,10216,3887,7611,false
+2026-11-14,USDC,to_wallet_unlisted,2818,2261,2,false
+2026-10-15,ETH,to_wallet_unlisted,927,797,8,false
+2026-07-03,USDT,deposit,12001,4548,9053,false
+2026-06-01,ETH,to_wallet_unlisted,756,626,6,false
+2026-06-07,ETH,to_wallet_unlisted,480,398,3,false
+2026-06-10,ETH,withdrawal,9445,6,6850,false
+2026-10-31,other token,withdrawal,26,1,3,false
+2026-09-16,ETH,sweep,1789,1228,1,false
+2026-06-25,ETH,deposit,6769,4663,4713,false
+2026-10-14,ETH,sweep,1824,1163,1,false
+2026-07-08,USDT,deposit,11746,4743,8692,false
+2026-07-23,other token,to_wallet_unlisted,872,390,12,false
+2026-09-28,USDT,withdrawal,29699,6,18504,false
+2026-10-03,USDT,to_wallet_unlisted,6329,5382,2,false
+2026-10-05,USDT,sweep,8525,6815,2,false
+2026-10-05,other token,withdrawal,10520,12,2284,false
+2026-10-09,other token,deposit_addr_out,1920,1794,10,false
+2026-10-29,USDT,to_wallet_unlisted,6699,5649,5,false
+2026-10-28,USDT,to_wallet_unlisted,6472,5495,4,false
+2026-10-29,USDC,withdrawal,5020,3,3488,false
+2026-08-28,USDT,sweep,6805,5556,2,false
+2026-08-28,USDT,withdrawal,26809,6,16644,false
+2026-08-29,other token,withdrawal,10788,9,4593,false
+2026-09-04,USDC,sweep,4689,3682,2,false
+2026-09-03,other token,deposit,8062,1108,884,false
+2026-06-11,other token,sweep,5869,881,3,false
+2026-06-11,other token,withdrawal,9123,13,2534,false
+2026-06-11,USDT,to_wallet_unlisted,1506,1196,4,false
+2026-06-27,other token,sweep,5114,812,2,false
+2026-10-02,ETH,deposit,6796,4480,4286,false
+2026-10-03,ETH,to_wallet_unlisted,810,571,12,false
+2026-11-06,ETH,deposit,4228,2805,3013,false
+2026-07-01,ETH,to_wallet_unlisted,796,677,4,false
+2026-06-30,ETH,sweep,9713,9210,2,false
+2026-08-06,ETH,deposit,6249,4344,4451,false
+2026-07-29,USDC,withdrawal,5070,3,3604,false
+2026-07-29,other token,deposit,19515,12698,11057,false
+2026-07-28,USDC,to_wallet_unlisted,1625,1333,2,false
+2026-08-04,USDT,withdrawal,25473,6,16445,false
+2026-08-12,USDC,deposit,4780,1998,3509,false
+2026-08-12,USDT,deposit,10272,4056,7631,false
+2026-08-14,other token,deposit_addr_out,95,64,41,false
+2026-08-14,USDT,to_wallet_unlisted,3053,2611,4,false
+2026-08-11,other token,sweep,4973,718,2,false
+2026-07-27,USDC,deposit,4097,1763,3006,false
+2026-08-07,USDT,to_wallet_unlisted,14628,14221,5,false
+2026-11-04,ETH,deposit,5004,2756,3111,false
+2026-09-08,USDT,sweep,22953,21652,2,false
+2026-09-09,USDC,withdrawal,5839,3,4254,false
+2026-09-12,USDC,sweep,3281,2537,1,false
+2026-09-12,USDC,to_wallet_unlisted,1612,1309,1,false
+2026-09-24,USDT,withdrawal,28901,6,17740,false
+2026-09-25,USDC,withdrawal,5582,3,3948,false
+2026-10-11,USDT,deposit,7497,3062,5486,false
+2026-11-01,USDT,deposit,5995,2359,4635,false
+2026-11-02,USDC,deposit,4811,2020,3703,false
+2026-11-09,USDT,sweep,6773,5429,2,false
+2026-11-08,USDT,to_wallet_unlisted,6606,5892,4,false
+2026-10-13,USDC,sweep,4042,3296,2,false
+2026-10-13,USDC,withdrawal,5577,2,3894,false
+2026-09-17,USDC,sweep,4473,3495,2,false
+2026-09-16,other token,deposit_addr_out,663,587,21,false
+2026-09-17,USDC,deposit,5363,2313,3769,false
+2026-11-10,USDC,deposit,4718,1885,3488,false
+2026-11-16,USDC,withdrawal,6158,2,4615,false
+2026-07-20,USDT,deposit,9273,3656,6941,false
+2026-07-21,USDC,withdrawal,5429,3,3826,false
+2026-11-07,other token,sweep,1586,522,1,false
+2026-11-07,other token,withdrawal,10491,19,6184,false
+2026-11-12,USDT,sweep,7477,5741,2,false
+2026-08-30,USDT,sweep,4335,3549,2,false
+2026-09-11,other token,deposit_addr_out,55,21,19,false
+2026-06-12,USDC,to_wallet_unlisted,1480,1171,2,false
+2026-06-15,USDT,withdrawal,22891,6,16007,false
+2026-06-16,USDT,deposit,12325,4643,9288,false
+2026-06-16,USDT,to_wallet_unlisted,4967,4641,3,false
+2026-10-09,ETH,withdrawal,8344,7,5967,false
+2026-11-03,ETH,deposit,4861,2733,3359,false
+2026-07-12,other token,sweep,4635,877,2,false
+2026-07-13,USDC,sweep,5008,3561,2,false
+2026-07-12,USDT,to_wallet_unlisted,8686,8468,1,false
+2026-07-12,USDC,deposit,3957,1351,2362,false
+2026-07-25,other token,sweep,5342,945,2,false
+2026-07-25,USDC,withdrawal,4014,1,2832,false
+2026-10-01,other token,deposit,10362,2493,2471,false
+2026-05-26,ETH,withdrawal,8507,7,6055,false
+2026-06-12,ETH,to_wallet_unlisted,607,516,5,false
+2026-11-13,other token,deposit,8684,2252,2518,false
+2026-10-25,other token,to_wallet_unlisted,335,219,6,false
+2026-08-16,USDC,sweep,2600,2180,2,false
+2026-08-16,other token,deposit_addr_out,35,16,10,false
+2026-08-16,USDT,to_wallet_unlisted,1944,1682,5,false
+2026-05-27,other token,sweep,5819,810,2,false
+2026-05-26,USDT,deposit,11852,4614,8841,false
+2026-08-25,other token,deposit,8314,1310,1558,false
+2026-09-01,other token,sweep,17202,12386,3,false
+2026-08-31,USDC,deposit,5086,2107,3751,false
+2026-08-23,USDC,withdrawal,4093,3,2806,false
+2026-08-27,USDT,withdrawal,26793,6,16787,false
+2026-08-23,USDT,to_wallet_unlisted,11485,11078,2,false
+2026-07-16,ETH,to_wallet_unlisted,828,705,6,false
+2026-08-20,USDC,to_wallet_unlisted,2069,1638,3,false
+2026-08-03,ETH,deposit,5657,3910,3992,false
+2026-09-15,ETH,to_wallet_unlisted,1167,895,14,false
+2026-09-14,ETH,to_wallet_unlisted,896,681,9,false
+2026-08-17,USDT,to_wallet_unlisted,10701,10273,4,false
+2026-07-07,ETH,withdrawal,8456,7,6406,false
+2026-07-07,ETH,to_wallet_unlisted,739,616,7,false
+2026-07-08,ETH,withdrawal,10799,7,7977,false
+2026-07-08,ETH,deposit,5685,3768,4035,false
+2026-07-14,ETH,deposit,6196,3921,4455,false
+2026-07-01,USDT,withdrawal,26055,6,17851,false
+2026-07-02,USDC,deposit,6167,2542,4468,false
+2026-07-05,other token,deposit_addr_out,89,83,7,false
+2026-07-11,other token,deposit_addr_out,2700,2438,7,false
+2026-07-11,USDT,to_wallet_unlisted,1481,1259,5,false
+2026-08-30,ETH,deposit,5525,3965,3689,false
+2026-07-19,other token,deposit_addr_out,48,37,7,false
+2026-09-05,other token,sweep,4458,675,2,false
+2026-06-05,USDC,withdrawal,7351,3,4860,false
+2026-06-04,other token,deposit_addr_out,147,118,7,false
+2026-06-05,other token,deposit_addr_out,157,131,7,false
+2026-06-12,other token,deposit_addr_out,72,16,9,false
+2026-06-17,USDT,to_wallet_unlisted,1519,1210,2,false
+2026-06-24,USDT,sweep,4531,3692,2,false
+2026-06-23,other token,deposit,9792,3453,3307,false
+2026-06-24,ETH,withdrawal,10362,7,7787,false
+2026-05-28,USDT,withdrawal,19920,6,13716,false
+2026-09-04,ETH,withdrawal,13062,7,9554,false
+2026-06-08,USDT,sweep,7400,6465,2,false
+2026-06-07,USDC,withdrawal,4489,2,3074,false
+2026-06-08,other token,to_wallet_unlisted,596,215,8,false
+2026-06-14,USDT,withdrawal,18241,6,12526,false
+2026-06-14,USDT,deposit,7747,3081,5692,false
+2026-06-14,USDC,deposit,3142,1370,2318,false
+2026-10-12,ETH,sweep,1557,1049,2,false
+2026-11-03,other token,sweep,1887,1104,2,false
+2026-10-12,other token,to_wallet_unlisted,586,288,6,false
+2026-06-06,USDT,deposit,12202,4955,8959,false
+2026-10-17,other token,to_wallet_unlisted,491,272,14,false
+2026-10-18,USDT,deposit,7331,2900,5423,false
+2026-10-19,USDT,sweep,7854,6243,2,false
+2026-10-19,other token,to_wallet_unlisted,424,264,6,false
+2026-10-22,other token,sweep,5072,673,2,false
+2026-10-22,other token,deposit_addr_out,953,906,14,false
+2026-10-21,USDC,deposit,4192,1872,3100,false
+2026-10-22,USDT,deposit,10194,3902,7362,false
+2026-09-18,ETH,to_wallet_unlisted,1077,879,13,false
+2026-11-22,USDT,to_wallet_unlisted,5045,3971,4,false
+2026-07-04,USDT,deposit,9317,3563,6961,false
+2026-09-14,other token,to_wallet_unlisted,1013,331,11,false
+2026-09-15,USDC,withdrawal,5411,3,3864,false
+2026-09-15,USDC,to_wallet_unlisted,2603,2143,2,false
+2026-08-03,USDC,to_wallet_unlisted,1664,1351,1,false
+2026-08-18,ETH,to_wallet_unlisted,1121,844,11,false
+2026-08-19,ETH,deposit,6244,4064,4263,false
+2026-08-22,ETH,sweep,2308,1429,1,false
+2026-08-22,USDT,sweep,5787,4617,2,false
+2026-08-22,USDC,to_wallet_unlisted,1793,1361,1,false
+2026-10-14,ETH,deposit,5805,3995,3754,false
+2026-06-28,other token,deposit,8668,2370,3012,false
+2026-06-28,other token,to_wallet_unlisted,654,219,4,false
+2026-06-28,USDC,to_wallet_unlisted,805,640,2,false
+2026-05-29,ETH,to_wallet_unlisted,615,528,4,false
+2026-08-21,other token,deposit_addr_out,22,11,13,false
+2026-07-02,ETH,deposit,6364,4338,4491,false
+2026-06-02,USDT,withdrawal,22169,6,15330,false
+2026-06-02,USDT,to_wallet_unlisted,4663,4293,7,false
+2026-06-02,USDT,deposit,14174,5330,10815,false
+2026-06-02,USDC,deposit,7414,2974,5542,false
+2026-11-17,ETH,deposit,3910,2545,2440,false
+2026-10-27,ETH,deposit,5115,3478,3388,false
+2026-06-08,other token,deposit_addr_out,40,7,8,false
+2026-05-31,USDT,withdrawal,15922,6,10828,false
+2026-05-31,other token,deposit_addr_out,92,20,9,false
+2026-05-31,other token,to_wallet_unlisted,395,179,4,false
+2026-06-21,other token,withdrawal,9165,7,2765,false
+2026-09-30,ETH,withdrawal,9530,7,7258,false
+2026-05-29,USDT,sweep,12895,11948,2,false
+2026-05-30,USDC,sweep,3645,2943,2,false
+2026-05-29,USDT,withdrawal,19192,6,13391,false
+2026-05-29,USDC,to_wallet_unlisted,973,779,4,false
+2026-11-14,USDC,withdrawal,5683,2,4220,false
+2026-06-02,ETH,deposit,8017,5581,5494,false
+2026-06-02,ETH,to_wallet_unlisted,849,662,5,false
+2026-05-28,ETH,deposit,6825,4844,4261,false
+2026-06-10,ETH,sweep,1355,863,1,false
+2026-06-22,ETH,withdrawal,8604,6,6430,false
+2026-10-31,other token,to_wallet_unlisted,7,6,6,false
+2026-10-21,ETH,withdrawal,7525,7,5493,false
+2026-10-21,ETH,deposit,5504,3832,3676,false
+2026-09-16,ETH,deposit,6878,4582,4509,false
+2026-06-24,ETH,deposit,5503,3901,4076,false
+2026-06-29,ETH,deposit,7161,5626,3273,false
+2026-11-05,ETH,deposit,11241,3299,9710,false
+2026-11-11,ETH,deposit,3867,2490,2786,false
+2026-07-08,other token,sweep,5460,746,2,false
+2026-07-15,other token,withdrawal,6972,8,2012,false
+2026-07-23,other token,sweep,5163,1238,2,false
+2026-07-23,USDC,sweep,3880,3064,2,false
+2026-07-31,other token,to_wallet_unlisted,2958,2685,17,false
+2026-08-06,USDT,withdrawal,26351,6,17153,false
+2026-08-06,USDT,deposit,12585,5876,9138,false
+2026-09-29,USDT,sweep,36549,34689,2,false
+2026-09-29,other token,sweep,17974,12712,3,false
+2026-10-03,USDC,sweep,4180,3463,2,false
+2026-10-05,USDC,sweep,4256,3441,2,false
+2026-10-09,USDC,sweep,4574,3605,2,false
+2026-10-09,other token,to_wallet_unlisted,676,330,11,false
+2026-10-08,USDT,sweep,9406,7395,2,false
+2026-10-08,USDC,sweep,4641,3683,2,false
+2026-10-29,USDC,to_wallet_unlisted,2091,1714,3,false
+2026-11-05,USDT,to_wallet_unlisted,2819,2379,8,false
+2026-11-06,USDC,sweep,4165,3219,1,false
+2026-11-06,USDT,withdrawal,36829,8,23711,false
+2026-08-29,USDC,sweep,3482,2626,1,false
+2026-09-04,USDC,withdrawal,6271,3,4306,false
+2026-06-18,other token,withdrawal,9527,12,3262,false
+2026-10-06,ETH,to_wallet_unlisted,860,688,10,false
+2026-07-19,ETH,sweep,1108,851,1,false
+2026-07-20,ETH,to_wallet_unlisted,684,588,4,false
+2026-08-07,ETH,withdrawal,8143,7,5926,false
+2026-07-28,other token,deposit_addr_out,1368,1344,11,false
+2026-07-29,USDT,sweep,4930,3997,2,false
+2026-08-04,USDC,withdrawal,5355,3,3811,false
+2026-08-15,USDT,to_wallet_unlisted,9267,8949,3,false
+2026-08-11,USDC,sweep,4373,3447,1,false
+2026-08-02,USDT,to_wallet_unlisted,7691,7416,5,false
+2026-07-17,ETH,deposit,5961,4104,4226,false
+2026-07-28,ETH,sweep,1760,1270,2,false
+2026-08-09,ETH,sweep,1223,948,1,false
+2026-08-09,ETH,to_wallet_unlisted,671,460,3,false
+2026-07-27,USDT,to_wallet_unlisted,7390,7090,2,false
+2026-08-01,USDC,deposit,4565,1911,3504,false
+2026-08-01,USDC,to_wallet_unlisted,1501,1240,2,false
+2026-08-07,other token,deposit_addr_out,8,4,5,false
+2026-09-30,other token,to_wallet_unlisted,1179,871,8,false
+2026-09-30,USDC,deposit,5077,2235,3771,false
+2026-09-30,other token,deposit_addr_out,132,119,11,false
+2026-09-11,ETH,to_wallet_unlisted,1160,855,12,false
+2026-08-25,ETH,to_wallet_unlisted,1099,828,11,false
+2026-11-09,ETH,deposit,5088,3104,3018,false
+2026-11-09,ETH,to_wallet_unlisted,917,746,14,false
+2026-09-08,USDT,to_wallet_unlisted,38190,37501,2,false
+2026-09-08,USDC,deposit,5430,2143,3729,false
+2026-09-08,USDT,withdrawal,28918,6,18282,false
+2026-09-12,USDT,sweep,6481,5276,2,false
+2026-09-13,USDT,to_wallet_unlisted,3224,2654,2,false
+2026-09-19,USDC,withdrawal,4952,3,3443,false
+2026-09-20,other token,deposit,11121,1678,1592,false
+2026-09-25,USDC,sweep,3824,2946,2,false
+2026-09-25,USDT,to_wallet_unlisted,64059,63108,5,false
+2026-10-11,USDC,deposit,3056,1510,2321,false
+2026-10-14,USDC,deposit,4417,1950,3308,false
+2026-10-14,USDC,to_wallet_unlisted,2023,1644,2,false
+2026-11-01,USDC,withdrawal,7212,1,5316,false
+2026-11-01,other token,to_wallet_unlisted,31,10,15,false
+2026-11-08,other token,sweep,16281,13370,1,false
+2026-09-16,USDT,sweep,43978,42296,2,false
+2026-09-26,USDT,deposit,9000,3574,6521,false
+2026-11-15,other token,withdrawal,13485,13,6065,false
+2026-11-16,USDT,sweep,6699,5332,2,false
+2026-11-19,USDC,withdrawal,5430,2,3994,false
+2026-11-19,USDT,to_wallet_unlisted,9704,8497,3,false
+2026-10-27,other token,sweep,4268,685,3,false
+2026-10-26,USDC,withdrawal,4527,2,3234,false
+2026-10-26,other token,deposit_addr_out,1035,861,17,false
+2026-10-27,other token,deposit,7171,1848,2043,false
+2026-10-27,other token,to_wallet_unlisted,455,292,8,false
+2026-11-07,other token,deposit_addr_out,5060,2742,11,false
+2026-11-07,USDC,deposit,3737,1529,2887,false
+2026-11-11,other token,withdrawal,11836,17,6446,false
+2026-07-21,ETH,withdrawal,9148,6,6982,false
+2026-07-23,ETH,withdrawal,10166,6,7951,false
+2026-07-23,ETH,to_wallet_unlisted,758,650,5,false
+2026-07-26,ETH,withdrawal,6854,6,5052,false
+2026-08-04,ETH,to_wallet_unlisted,842,665,12,false
+2026-09-10,other token,sweep,173406,168849,3,false
+2026-09-11,USDC,sweep,4355,3252,2,false
+2026-09-10,USDC,to_wallet_unlisted,2323,1837,3,false
+2026-08-30,other token,deposit_addr_out,19,12,12,false
+2026-09-06,USDC,sweep,2704,2108,1,false
+2026-11-16,ETH,withdrawal,8645,11,6332,false
+2026-06-12,USDT,deposit,11689,4688,8605,false
+2026-06-15,USDC,to_wallet_unlisted,1174,946,2,false
+2026-06-16,other token,deposit,22085,14045,13217,false
+2026-06-20,USDC,deposit,3481,1555,2647,false
+2026-08-01,ETH,sweep,1530,1255,1,false
+2026-08-13,ETH,deposit,5245,3730,3780,false
+2026-09-14,ETH,withdrawal,9024,7,7027,false
+2026-10-09,ETH,deposit,5902,4074,3949,false
+2026-10-19,ETH,deposit,5126,3568,3381,false
+2026-11-04,ETH,withdrawal,8725,9,6402,false
+2026-07-12,USDT,sweep,11481,10814,2,false
+2026-07-13,other token,deposit_addr_out,17,9,6,false
+2026-07-25,USDT,to_wallet_unlisted,1775,1505,4,false
+2026-09-23,other token,deposit_addr_out,145,122,22,false
+2026-10-01,USDT,sweep,10549,8334,2,false
+2026-10-01,USDT,to_wallet_unlisted,7428,6308,6,false
+2026-05-27,ETH,deposit,6206,4316,4333,false
+2026-06-11,ETH,deposit,6686,4639,4570,false
+2026-05-27,USDT,to_wallet_unlisted,1073,861,2,false
+2026-08-25,other token,to_wallet_unlisted,919,320,7,false
+2026-08-31,USDC,withdrawal,5463,2,3819,false
+2026-09-01,USDT,deposit,12630,4769,9494,false
+2026-09-01,other token,to_wallet_unlisted,1365,787,10,false
+2026-08-23,USDT,sweep,11928,11032,2,false
+2026-08-24,USDC,deposit,4291,1809,3005,false
+2026-08-20,USDT,withdrawal,28484,6,18392,false
+2026-08-15,ETH,sweep,1452,1106,1,false
+2026-07-06,ETH,sweep,14368,13997,2,false
+2026-07-15,ETH,withdrawal,9613,6,7108,false
+2026-07-22,ETH,sweep,1646,1153,2,false
+2026-09-02,USDC,sweep,5291,4209,2,false
+2026-09-02,USDC,to_wallet_unlisted,2374,1926,2,false
+2026-07-01,USDC,sweep,5604,4491,2,false
+2026-07-05,USDT,withdrawal,17953,6,12201,false
+2026-07-06,other token,deposit,19228,11349,10151,false
+2026-07-06,USDC,deposit,4410,1916,3303,false
+2026-07-11,USDC,sweep,3674,2649,1,false
+2026-07-11,other token,withdrawal,11437,9,5667,false
+2026-10-11,ETH,deposit,4621,3260,3159,false
+2026-07-07,USDT,withdrawal,24594,6,16808,false
+2026-07-19,USDT,to_wallet_unlisted,1338,1121,3,false
+2026-09-05,USDC,deposit,4216,1825,3120,false
+2026-06-17,USDC,withdrawal,7151,3,5012,false
+2026-06-17,other token,deposit,20413,11293,9175,false
+2026-06-23,USDT,sweep,4917,3937,2,false
+2026-06-24,other token,to_wallet_unlisted,780,248,5,false
+2026-06-14,ETH,sweep,747,557,1,false
+2026-08-18,other token,deposit,6236,1032,1393,false
+2026-08-21,USDC,sweep,4948,3778,2,false
+2026-08-21,other token,to_wallet_unlisted,1211,445,6,false
+2026-09-20,ETH,to_wallet_unlisted,972,640,9,false
+2026-08-26,ETH,withdrawal,9428,6,7052,false
+2026-06-14,USDC,to_wallet_unlisted,708,604,1,false
+2026-05-25,other token,to_wallet_unlisted,501,72,13,true
+2026-05-26,other token,deposit_addr_out,33,11,8,false
+2026-10-04,ETH,sweep,1310,941,1,false
+2026-11-04,other token,withdrawal,4157,11,2327,false
+2026-10-12,other token,sweep,6843,902,3,false
+2026-06-06,USDC,sweep,5104,4123,2,false
+2026-10-20,USDT,sweep,9043,7139,2,false
+2026-10-20,other token,withdrawal,6514,13,1661,false
+2026-11-23,USDC,sweep,905,770,1,false
+2026-06-30,USDC,sweep,4999,4013,2,false
+2026-06-29,USDT,withdrawal,21984,6,15300,false
+2026-06-30,other token,deposit_addr_out,20,7,5,false
+2026-07-04,other token,to_wallet_unlisted,577,224,10,false
+2026-09-14,other token,sweep,7037,836,3,false
+2026-09-14,other token,deposit_addr_out,93,60,41,false
+2026-09-15,other token,to_wallet_unlisted,955,341,13,false
+2026-10-26,ETH,sweep,1342,902,1,false
+2026-11-10,ETH,withdrawal,10312,10,7596,false
+2026-10-23,other token,withdrawal,6541,18,2079,false
+2026-06-25,other token,withdrawal,25778,6,12444,false
+2026-08-22,USDC,sweep,3701,2868,2,false
+2026-07-18,other token,sweep,3707,601,2,false
+2026-07-14,other token,deposit_addr_out,5,4,4,false
+2026-07-14,USDC,to_wallet_unlisted,2150,1571,3,false
+2026-06-22,USDT,deposit,9623,3875,7248,false
+2026-06-05,ETH,sweep,1723,1112,2,false
+2026-05-25,ETH,sweep,790,631,1,true
+2026-10-24,other token,deposit,10059,1971,2204,false
+2026-06-03,USDT,sweep,6053,4894,2,false
+2026-06-02,other token,to_wallet_unlisted,1687,411,13,false
+2026-06-03,other token,deposit_addr_out,193,150,7,false
+2026-10-26,ETH,to_wallet_unlisted,718,612,10,false
+2026-06-01,USDT,sweep,5069,4168,2,false
+2026-06-01,other token,withdrawal,7623,12,2095,false
+2026-11-14,other token,sweep,4224,751,1,false
+2026-11-14,USDT,withdrawal,32170,8,19587,false
+2026-11-21,USDT,deposit,10573,4305,7595,false
+2026-10-15,ETH,withdrawal,8744,7,5942,false
+2026-07-03,USDC,sweep,5071,4181,2,false
+2026-06-17,ETH,sweep,1152,765,2,false
+2026-08-02,ETH,to_wallet_unlisted,838,483,8,false
+2026-08-17,ETH,withdrawal,7409,7,5707,false
+2026-06-21,ETH,to_wallet_unlisted,341,312,3,false
+2026-10-31,USDC,deposit,2543,1031,2068,false
+2026-09-16,ETH,withdrawal,10163,6,7660,false
+2026-09-22,ETH,sweep,1963,1309,2,false
+2026-07-16,USDC,to_wallet_unlisted,1962,1614,3,false
+2026-07-24,USDC,sweep,3752,2941,2,false
+2026-07-24,other token,withdrawal,7900,10,2088,false
+2026-07-24,USDC,withdrawal,4900,4,3506,false
+2026-07-31,other token,sweep,10446,6112,2,false
+2026-07-30,USDC,sweep,4157,3301,2,false
+2026-07-31,USDT,sweep,11450,10322,2,false
+2026-07-30,USDC,deposit,5016,1905,3579,false
+2026-08-06,USDT,sweep,6135,5015,2,false
+2026-08-05,USDT,deposit,10983,4304,8267,false
+2026-09-29,USDT,withdrawal,29870,6,18527,false
+2026-09-29,USDC,withdrawal,7300,3,5263,false
+2026-10-03,USDC,withdrawal,4384,3,3133,false
+2026-10-04,USDC,deposit,3393,1379,2526,false
+2026-10-09,other token,sweep,8029,951,3,false
+2026-08-10,other token,sweep,4432,652,3,false
+2026-08-10,USDT,withdrawal,23983,6,16034,false
+2026-08-09,USDC,deposit,2898,1269,2154,false
+2026-08-09,USDT,deposit,7301,3035,5541,false
+2026-08-10,USDC,to_wallet_unlisted,1787,1395,2,false
+2026-10-28,USDC,deposit,3863,1644,2786,false
+2026-11-05,USDT,withdrawal,39621,8,25312,false
+2026-11-05,USDC,deposit,4606,1905,3475,false
+2026-11-05,USDC,to_wallet_unlisted,19039,18512,2,false
+2026-08-29,USDC,deposit,4129,1747,2853,false
+2026-09-03,USDC,sweep,4774,3827,2,false
+2026-09-12,ETH,sweep,1789,1202,1,false
+2026-09-13,ETH,withdrawal,9096,6,6778,false
+2026-06-10,USDC,to_wallet_unlisted,1407,1074,2,false
+2026-06-11,USDC,to_wallet_unlisted,1303,1033,3,false
+2026-06-19,USDT,sweep,4453,3559,2,false
+2026-06-19,USDC,withdrawal,6752,2,4749,false
+2026-06-27,USDC,withdrawal,9924,2,6819,false
+2026-10-07,USDT,to_wallet_unlisted,98784,97756,5,false
+2026-09-25,ETH,sweep,1734,1207,1,false
+2026-11-14,ETH,sweep,1818,1344,2,false
+2026-07-09,ETH,withdrawal,9872,7,7393,false
+2026-07-28,USDT,to_wallet_unlisted,13822,13541,3,false
+2026-07-29,USDC,deposit,4519,1932,3243,false
+2026-07-29,USDT,deposit,9571,3838,7132,false
+2026-07-28,USDT,sweep,17526,16502,2,false
+2026-08-13,USDT,to_wallet_unlisted,2888,2455,5,false
+2026-08-15,USDC,deposit,3773,1580,2848,false
+2026-07-30,ETH,withdrawal,9115,6,6916,false
+2026-07-27,other token,withdrawal,9459,7,2315,false
+2026-08-01,other token,withdrawal,5636,4,1880,false
+2026-09-21,other token,to_wallet_unlisted,1268,540,5,false
+2026-09-30,other token,sweep,7527,2758,3,false
+2026-09-30,USDT,to_wallet_unlisted,38952,37828,3,false
+2026-09-08,USDC,to_wallet_unlisted,2218,1741,2,false
+2026-09-08,other token,sweep,5031,851,2,false
+2026-09-13,other token,withdrawal,11706,8,1868,false
+2026-09-20,USDT,sweep,5757,4477,2,false
+2026-09-20,USDT,withdrawal,24670,6,14638,false
+2026-09-24,USDC,to_wallet_unlisted,1790,1432,2,false
+2026-10-10,USDC,deposit,4348,1796,3351,false
+2026-10-10,USDT,to_wallet_unlisted,6315,5328,3,false
+2026-10-15,USDT,sweep,10323,8043,2,false
+2026-10-15,USDT,withdrawal,29058,6,18096,false
+2026-10-14,USDT,withdrawal,28858,6,17825,false
+2026-11-01,other token,deposit,5950,1552,1464,false
+2026-11-09,other token,sweep,38238,32093,2,false
+2026-09-26,other token,sweep,7112,884,2,false
+2026-11-10,other token,sweep,6654,3669,2,false
+2026-11-16,other token,deposit_addr_out,1782,1415,36,false
+2026-11-16,other token,deposit,5326,758,732,false
+2026-11-18,other token,deposit_addr_out,1649,1127,25,false
+2026-10-26,USDT,withdrawal,26768,6,17045,false
+2026-10-26,USDT,deposit,9300,3723,7047,false
+2026-10-26,USDC,deposit,4004,1716,2945,false
+2026-10-26,other token,to_wallet_unlisted,7606,7419,8,false
+2026-07-21,USDC,to_wallet_unlisted,1658,1340,3,false
+2026-11-11,other token,sweep,19955,17224,2,false
+2026-08-05,ETH,to_wallet_unlisted,876,682,9,false
+2026-09-10,USDC,withdrawal,5530,2,3984,false
+2026-09-11,USDT,deposit,11211,4484,8312,false
+2026-09-10,USDC,deposit,6476,2257,3972,false
+2026-08-30,USDT,withdrawal,22608,5,13772,false
+2026-10-29,ETH,withdrawal,6656,8,4841,false
+2026-06-12,USDC,sweep,5484,4338,2,false
+2026-06-12,USDT,withdrawal,22901,6,15749,false
+2026-06-12,USDC,withdrawal,6982,4,4859,false
+2026-06-16,USDT,sweep,10240,9258,2,false
+2026-06-16,USDC,to_wallet_unlisted,1261,997,2,false
+2026-06-20,other token,deposit,18141,5930,9755,false
+2026-08-01,ETH,to_wallet_unlisted,806,568,5,false
+2026-10-20,ETH,to_wallet_unlisted,775,637,11,false
+2026-11-01,ETH,deposit,2501,1850,1994,false
+2026-11-02,ETH,deposit,3795,2716,2782,false
+2026-11-03,ETH,sweep,7608,7162,1,false
+2026-07-25,USDC,deposit,3708,1570,2690,false
+2026-10-02,other token,deposit,11169,2000,2075,false
+2026-05-26,ETH,to_wallet_unlisted,564,477,11,false
+2026-06-12,ETH,withdrawal,9251,7,6752,false
+2026-06-12,ETH,deposit,6608,4657,4553,false
+2026-06-15,ETH,withdrawal,9397,6,6852,false
+2026-08-29,ETH,to_wallet_unlisted,1534,1191,12,false
+2026-11-13,other token,sweep,20004,14745,2,false
+2026-11-20,USDT,to_wallet_unlisted,6815,5574,4,false
+2026-09-01,USDT,sweep,16392,14882,2,false
+2026-08-31,USDT,withdrawal,26232,6,16883,false
+2026-08-27,USDC,sweep,4080,3211,2,false
+2026-08-27,USDC,withdrawal,5438,3,3838,false
+2026-09-18,USDC,sweep,4520,3565,2,false
+2026-09-18,USDT,deposit,11371,4486,8218,false
+2026-08-19,other token,to_wallet_unlisted,667,278,14,false
+2026-08-03,ETH,to_wallet_unlisted,899,634,9,false
+2026-07-13,ETH,deposit,5721,4008,4031,false
+2026-07-07,ETH,sweep,1557,1114,2,false
+2026-07-14,ETH,sweep,22395,21851,1,false
+2026-07-15,ETH,sweep,1978,1413,2,false
+2026-07-14,ETH,to_wallet_unlisted,979,831,7,false
+2026-09-02,other token,to_wallet_unlisted,823,262,7,false
+2026-07-01,other token,withdrawal,33148,5,16807,false
+2026-07-02,USDC,sweep,5173,4148,2,false
+2026-07-02,USDT,withdrawal,25001,6,17192,false
+2026-07-02,USDC,to_wallet_unlisted,1437,1172,3,false
+2026-07-06,USDT,to_wallet_unlisted,22692,22412,2,false
+2026-07-05,USDC,to_wallet_unlisted,989,808,1,false
+2026-07-06,other token,to_wallet_unlisted,574,228,16,false
+2026-07-11,USDT,withdrawal,20281,5,13198,false
+2026-09-09,ETH,withdrawal,11696,7,8863,false
+2026-07-19,USDC,withdrawal,4224,2,3241,false
+2026-07-19,other token,to_wallet_unlisted,398,155,7,false
+2026-06-04,USDC,withdrawal,7278,2,4773,false
+2026-06-04,USDC,deposit,7312,3181,5142,false
+2026-06-04,other token,deposit,11994,1839,1947,false
+2026-06-05,other token,to_wallet_unlisted,891,309,5,false
+2026-06-04,other token,sweep,8062,1256,3,false
+2026-06-24,USDC,sweep,3963,3164,2,false
+2026-11-10,ETH,deposit,4754,2904,3154,false
+2026-08-18,USDC,deposit,5035,1943,3733,false
+2026-08-21,USDC,deposit,5905,2373,4119,false
+2026-08-08,ETH,to_wallet_unlisted,767,546,5,false
+2026-11-03,USDC,sweep,12297,11375,1,false
+2026-09-19,ETH,withdrawal,8496,7,6473,false
+2026-09-20,ETH,withdrawal,7694,6,5883,false
+2026-05-28,USDT,deposit,11759,4658,8737,false
+2026-05-28,USDC,to_wallet_unlisted,927,756,2,false
+2026-06-14,other token,withdrawal,6890,8,1548,false
+2026-06-14,USDC,withdrawal,4580,2,3270,false
+2026-05-25,other token,deposit,11169,5256,5370,true
+2026-05-25,USDC,deposit,3490,1585,2799,true
+2026-10-04,ETH,to_wallet_unlisted,802,493,7,false
+2026-10-05,ETH,sweep,1555,1018,1,false
+2026-08-24,USDC,to_wallet_unlisted,1736,1384,2,false
+2026-06-18,ETH,deposit,5922,4313,4258,false
+2026-11-04,other token,to_wallet_unlisted,256,160,17,false
+2026-11-04,USDT,to_wallet_unlisted,4792,4323,6,false
+2026-06-06,USDT,withdrawal,18483,5,12619,false
+2026-10-17,other token,deposit,8786,2127,2393,false
+2026-10-18,USDC,withdrawal,3568,2,2558,false
+2026-10-21,other token,to_wallet_unlisted,564,311,15,false
+2026-06-29,USDT,deposit,9755,4051,7194,false
+2026-07-04,USDT,sweep,3906,3170,2,false
+2026-07-04,USDT,withdrawal,19730,6,13180,false
+2026-07-04,other token,deposit,18759,10597,9084,false
+2026-09-14,USDT,to_wallet_unlisted,4686,4051,6,false
+2026-09-15,other token,withdrawal,8384,14,1889,false
+2026-08-03,other token,sweep,4454,734,3,false
+2026-11-11,ETH,sweep,1598,1193,2,false
+2026-08-08,ETH,withdrawal,6864,6,5168,false
+2026-08-22,ETH,to_wallet_unlisted,1316,1009,8,false
+2026-10-23,USDT,deposit,9956,3970,7436,false
+2026-07-18,USDC,withdrawal,6127,2,4920,false
+2026-08-27,ETH,to_wallet_unlisted,1303,947,13,false
+2026-06-09,other token,deposit,10632,3601,3637,false
+2026-06-22,USDC,sweep,3618,2968,2,false
+2026-06-22,USDC,withdrawal,6531,3,4546,false
+2026-06-22,USDC,to_wallet_unlisted,1032,866,2,false
+2026-06-06,ETH,deposit,6324,4482,4423,false
+2026-10-24,other token,to_wallet_unlisted,437,269,10,false
+2026-07-02,ETH,sweep,1865,1297,1,false
+2026-10-26,ETH,deposit,4624,2983,3173,false
+2026-06-01,other token,to_wallet_unlisted,708,240,6,false
+2026-05-31,other token,deposit,6853,1188,1081,false
+2026-05-31,USDT,to_wallet_unlisted,780,656,1,false
+2026-06-21,USDC,deposit,2921,1317,2191,false
+2026-05-30,USDT,to_wallet_unlisted,927,753,2,false
+2026-11-14,other token,withdrawal,16512,16,8826,false
+2026-07-03,USDT,to_wallet_unlisted,4327,3990,4,false
+2026-07-03,other token,to_wallet_unlisted,640,291,8,false
+2026-07-03,other token,deposit,13778,6754,6619,false
+2026-06-01,ETH,deposit,6779,4892,4874,false
+2026-06-21,ETH,sweep,700,529,1,false
+2026-10-18,ETH,sweep,1184,857,1,false
+2026-10-30,ETH,deposit,4376,2850,3396,false
+2026-09-23,ETH,deposit,6856,4836,4679,false
+2026-09-29,ETH,deposit,9051,5131,5373,false
+2026-10-01,ETH,to_wallet_unlisted,1067,758,4,false
+2026-07-09,USDC,deposit,6424,2277,4114,false
+2026-07-16,USDC,sweep,4593,3633,1,false
+2026-07-15,USDC,sweep,4672,3557,1,false
+2026-07-15,other token,to_wallet_unlisted,562,226,7,false
+2026-07-31,USDT,to_wallet_unlisted,7607,7203,5,false
+2026-07-31,USDC,deposit,5689,2143,4232,false
+2026-07-31,USDC,to_wallet_unlisted,1871,1543,3,false
+2026-07-30,other token,deposit_addr_out,36,24,9,false
+2026-08-05,USDT,sweep,13579,12425,2,false
+2026-09-28,USDC,sweep,3881,3058,2,false
+2026-10-09,USDT,withdrawal,26060,6,16430,false
+2026-08-10,USDC,sweep,3756,3115,2,false
+2026-08-09,other token,deposit_addr_out,1051,1044,7,false
+2026-10-28,USDT,withdrawal,26902,6,17103,false
+2026-11-05,other token,deposit,4646,1644,1661,false
+2026-08-29,other token,sweep,4580,661,2,false
+2026-08-28,USDC,deposit,4964,2034,3522,false
+2026-09-04,other token,deposit_addr_out,27,12,10,false
+2026-09-06,ETH,sweep,1678,1187,1,false
+2026-09-06,ETH,to_wallet_unlisted,1157,811,8,false
+2026-09-13,ETH,sweep,1492,1000,1,false
+2026-09-12,ETH,withdrawal,9690,6,7358,false
+2026-09-21,ETH,deposit,7002,4473,4701,false
+2026-06-27,USDT,withdrawal,19712,6,13303,false
+2026-10-07,other token,deposit,9583,1173,962,false
+2026-10-02,ETH,withdrawal,9020,7,6831,false
+2026-10-07,ETH,sweep,1874,1221,1,false
+2026-11-06,ETH,to_wallet_unlisted,753,620,10,false
+2026-11-14,ETH,deposit,3565,2304,2501,false
+2026-11-14,ETH,to_wallet_unlisted,739,648,4,false
+2026-07-01,ETH,deposit,5685,3849,4259,false
+2026-07-01,ETH,withdrawal,24943,7,18865,false
+2026-08-06,ETH,to_wallet_unlisted,929,705,6,false
+2026-08-04,USDC,sweep,4996,4116,2,false
+2026-08-13,other token,sweep,4302,713,2,false
+2026-08-12,USDT,withdrawal,25755,6,17061,false
+2026-08-12,other token,withdrawal,7797,9,2073,false
+2026-08-13,USDC,deposit,5324,1931,3940,false
+2026-08-14,other token,withdrawal,6147,9,1643,false
+2026-08-14,USDC,to_wallet_unlisted,1891,1493,3,false
+2026-08-15,USDC,withdrawal,4087,3,3023,false
+2026-08-02,other token,withdrawal,5506,4,1595,false
+2026-07-27,other token,deposit_addr_out,44,27,7,false
+2026-08-02,other token,deposit_addr_out,2178,2146,8,false
+2026-08-07,USDC,sweep,4030,3252,2,false
+2026-08-07,USDC,withdrawal,5169,3,3634,false
+2026-08-08,other token,withdrawal,4768,5,1585,false
+2026-09-21,USDC,to_wallet_unlisted,1985,1556,2,false
+2026-09-30,USDT,sweep,10610,8546,2,false
+2026-11-08,ETH,to_wallet_unlisted,965,888,6,false
+2026-09-08,other token,to_wallet_unlisted,877,283,6,false
+2026-09-09,USDC,deposit,5527,2295,3784,false
+2026-09-09,USDT,withdrawal,29467,6,18680,false
+2026-09-19,USDT,deposit,9632,3764,6797,false
+2026-09-19,USDC,deposit,4080,1843,2858,false
+2026-09-20,USDC,deposit,3348,1523,2276,false
+2026-09-24,USDC,sweep,3910,3050,2,false
+2026-09-25,other token,sweep,8858,3399,3,false
+2026-09-25,other token,deposit_addr_out,1803,1583,8,false
+2026-09-24,other token,to_wallet_unlisted,1015,326,7,false
+2026-10-10,other token,deposit,10861,2336,2284,false
+2026-10-10,USDT,withdrawal,24487,5,15006,false
+2026-10-10,USDC,withdrawal,5014,3,3455,false
+2026-11-02,other token,deposit_addr_out,25,23,24,false
+2026-11-09,USDC,sweep,3784,2959,2,false
+2026-11-08,USDT,sweep,5649,4844,1,false
+2026-11-08,USDC,withdrawal,6068,2,4450,false
+2026-11-09,other token,to_wallet_unlisted,11372,11080,7,false
+2026-09-16,USDC,withdrawal,5846,2,4211,false
+2026-09-16,USDC,deposit,5501,2350,3931,false
+2026-09-26,USDC,to_wallet_unlisted,1571,1187,2,false
+2026-09-26,USDC,deposit,3758,1682,2678,false
+2026-09-26,other token,deposit_addr_out,43,29,7,false
+2026-11-10,USDC,withdrawal,7692,2,5301,false
+2026-11-16,other token,to_wallet_unlisted,590,350,14,false
+2026-11-18,USDC,deposit,4793,2073,3492,false
+2026-10-26,other token,sweep,13212,8982,3,false
+2026-10-27,USDC,withdrawal,4948,3,3497,false
+2026-10-27,USDT,deposit,10123,3957,7587,false
+2026-07-21,other token,sweep,6799,2146,2,false
+2026-07-20,other token,deposit_addr_out,33,18,9,false
+2026-11-11,USDC,to_wallet_unlisted,2956,2432,1,false
+2026-09-10,other token,to_wallet_unlisted,2835,2285,6,false
+2026-08-30,other token,sweep,4898,636,2,false
+2026-10-28,ETH,sweep,1533,1010,1,false
+2026-11-12,ETH,sweep,1794,1389,2,false
+2026-11-15,ETH,to_wallet_unlisted,915,759,9,false
+2026-06-16,other token,sweep,5975,1385,2,false
+2026-06-16,USDT,withdrawal,24323,6,16801,false
+2026-08-01,ETH,deposit,4828,3218,3589,false
+2026-08-11,ETH,to_wallet_unlisted,852,604,3,false
+2026-10-08,ETH,to_wallet_unlisted,809,662,9,false
+2026-07-12,other token,deposit_addr_out,7306,5672,8,false
+2026-07-13,other token,deposit,14407,8508,7190,false
+2026-07-17,USDT,sweep,9582,8630,2,false
+2026-07-17,USDC,deposit,5301,2063,3665,false
+2026-07-25,other token,deposit,8405,1614,1680,false
+2026-07-25,other token,to_wallet_unlisted,902,396,4,false
+2026-09-23,USDC,deposit,4652,2079,3295,false
+2026-09-23,USDC,withdrawal,5693,3,3914,false
+2026-10-01,USDT,deposit,12134,4722,8904,false
+2026-10-02,other token,sweep,7130,969,2,false
+2026-06-09,ETH,withdrawal,9455,6,6707,false
+2026-06-11,ETH,sweep,1321,833,1,false
+2026-08-29,ETH,withdrawal,8307,7,6129,false
+2026-08-28,ETH,to_wallet_unlisted,1163,911,15,false
+2026-11-20,USDC,sweep,4817,3693,2,false
+2026-11-20,USDC,deposit,5259,1971,3797,false
+2026-08-16,USDT,deposit,7424,2969,5749,false
+2026-08-26,USDC,sweep,3856,2958,2,false
+2026-09-01,USDT,withdrawal,29023,6,18295,false
+2026-09-29,ETH,withdrawal,11057,6,8268,false
+2026-08-23,other token,sweep,5937,786,2,false
+2026-06-19,ETH,withdrawal,9359,7,6917,false
+2026-06-27,ETH,sweep,1169,844,1,false
+2026-09-18,USDC,withdrawal,5692,2,3927,false
+2026-09-18,USDC,to_wallet_unlisted,2172,1756,3,false
+2026-08-19,USDT,sweep,12741,11754,2,false
+2026-08-16,ETH,withdrawal,6093,6,4557,false
+2026-08-17,USDT,withdrawal,23901,6,15665,false
+2026-08-17,other token,deposit,6127,988,1267,false
+2026-08-17,other token,to_wallet_unlisted,648,230,5,false
+2026-07-01,USDT,sweep,10624,9486,2,false
+2026-07-05,other token,to_wallet_unlisted,601,235,10,false
+2026-07-06,USDC,to_wallet_unlisted,1211,1026,2,false
+2026-07-11,other token,to_wallet_unlisted,508,251,17,false
+2026-07-19,USDT,sweep,3119,2556,2,false
+2026-09-05,USDT,deposit,9942,3700,7427,false
+2026-06-04,USDT,withdrawal,21299,6,14542,false
+2026-06-04,USDT,sweep,6443,5073,2,false
+2026-06-13,USDT,sweep,3663,3023,2,false
+2026-06-17,other token,sweep,5348,780,2,false
+2026-06-17,USDC,sweep,4494,3527,2,false
+2026-06-23,USDT,withdrawal,23168,6,16028,false
+2026-06-24,other token,withdrawal,10400,12,3722,false
+2026-06-23,USDC,to_wallet_unlisted,1307,1042,2,false
+2026-08-18,USDT,withdrawal,24693,6,15884,false
+2026-08-18,other token,deposit_addr_out,12,5,6,false
+2026-08-21,other token,sweep,8913,1268,3,false
+2026-09-19,ETH,to_wallet_unlisted,1185,869,13,false
+2026-05-28,other token,sweep,6069,1030,2,false
+2026-05-28,USDT,sweep,7367,6364,2,false
+2026-05-28,other token,deposit_addr_out,2316,1949,12,false
+2026-08-25,ETH,withdrawal,10810,6,8125,false
+2026-06-07,other token,sweep,4902,750,2,false
+2026-06-08,USDT,withdrawal,20123,6,14046,false
+2026-06-07,other token,deposit_addr_out,73,21,9,false
+2026-06-08,USDT,to_wallet_unlisted,2985,2734,4,false
+2026-06-14,other token,deposit,7896,2283,2154,false
+2026-08-14,ETH,sweep,1581,1244,1,false
+2026-05-25,USDT,sweep,3313,2793,2,true
+2026-05-25,USDC,sweep,3005,2606,2,true
+2026-10-05,ETH,deposit,5478,3681,3722,false
+2026-10-05,ETH,to_wallet_unlisted,941,632,9,false
+2026-06-18,ETH,to_wallet_unlisted,561,461,6,false
+2026-11-04,USDC,deposit,4839,2001,3565,false
+2026-06-06,USDC,withdrawal,5986,3,4062,false
+2026-06-06,USDC,deposit,5936,2585,4375,false
+2026-10-16,USDT,sweep,9874,7771,2,false
+2026-10-16,other token,deposit,7660,2193,2044,false
+2026-10-16,USDT,to_wallet_unlisted,7606,6360,5,false
+2026-10-18,other token,withdrawal,6229,11,1582,false
+2026-10-18,other token,to_wallet_unlisted,360,235,3,false
+2026-10-19,USDC,to_wallet_unlisted,1840,1533,2,false
+2026-10-20,other token,sweep,4978,711,2,false
+2026-10-19,other token,deposit_addr_out,121,39,11,false
+2026-09-18,ETH,deposit,7515,4644,4972,false
+2026-11-19,ETH,sweep,26633,26067,2,false
+2026-11-22,other token,deposit_addr_out,1479,1113,18,false
+2026-11-23,USDT,to_wallet_unlisted,1726,1471,1,false
+2026-11-22,USDT,deposit,6423,2673,4757,false
+2026-06-30,other token,withdrawal,36014,8,17840,false
+2026-06-30,other token,to_wallet_unlisted,588,276,5,false
+2026-09-15,USDC,sweep,5477,4397,2,false
+2026-09-15,other token,deposit_addr_out,74,35,19,false
+2026-10-27,ETH,sweep,1508,1029,2,false
+2026-08-03,USDC,deposit,4848,2011,3777,false
+2026-08-03,USDT,deposit,10060,4020,7702,false
+2026-06-25,USDC,sweep,5200,4145,2,false
+2026-08-22,USDT,to_wallet_unlisted,3064,2538,2,false
+2026-07-18,USDT,to_wallet_unlisted,1592,1346,2,false
+2026-07-14,USDT,withdrawal,23602,6,16036,false
+2026-07-14,USDT,to_wallet_unlisted,19316,19045,1,false
+2026-08-27,ETH,deposit,6674,4430,4288,false
+2026-06-22,USDC,deposit,4252,1875,3243,false
+2026-06-28,USDC,withdrawal,9439,2,6361,false
+2026-05-30,ETH,withdrawal,8239,6,5841,false
+2026-10-24,USDT,deposit,9062,3512,6651,false
+2026-10-24,USDC,to_wallet_unlisted,1761,1438,1,false
+2026-10-24,USDT,sweep,7911,6187,2,false
+2026-06-02,other token,sweep,6625,1476,2,false
+2026-11-17,ETH,sweep,1750,1309,2,false
+2026-06-01,USDT,withdrawal,19820,6,13938,false
+2026-10-25,ETH,deposit,4236,2981,2931,false
+2026-10-25,ETH,sweep,1141,800,1,false
+2026-11-18,ETH,sweep,1830,1260,1,false
+2026-11-21,ETH,withdrawal,10673,9,7595,false
+2026-05-29,other token,sweep,5928,950,2,false
+2026-05-29,USDT,to_wallet_unlisted,7561,7338,2,false
+2026-05-29,other token,deposit,8360,1361,1218,false
+2026-11-21,USDT,sweep,13330,11303,2,false
+2026-11-21,other token,withdrawal,13088,13,4670,false
+2026-06-13,ETH,deposit,5571,4017,4080,false
+2026-06-17,ETH,to_wallet_unlisted,571,484,9,false
+2026-06-07,ETH,deposit,5856,4477,4559,false
+2026-07-08,other token,to_wallet_unlisted,562,227,9,false
+2026-07-09,USDC,to_wallet_unlisted,1789,1389,3,false
+2026-07-08,other token,deposit_addr_out,199,171,12,false
+2026-07-16,USDT,sweep,5062,4229,2,false
+2026-07-15,USDT,withdrawal,24562,6,16691,false
+2026-07-15,USDC,withdrawal,6268,3,4664,false
+2026-07-16,USDC,withdrawal,5515,3,4042,false
+2026-07-24,USDT,to_wallet_unlisted,5608,5309,4,false
+2026-07-31,other token,withdrawal,8093,8,2241,false
+2026-07-30,other token,withdrawal,8382,7,2187,false
+2026-08-06,USDC,sweep,4412,3469,2,false
+2026-10-05,other token,sweep,6420,827,3,false
+2026-10-06,other token,sweep,9387,2688,3,false
+2026-10-08,other token,withdrawal,12340,8,2870,false
+2026-10-08,USDT,withdrawal,28213,6,17691,false
+2026-10-28,USDT,sweep,8642,6826,2,false
+2026-10-28,USDC,withdrawal,4672,2,3365,false
+2026-09-03,USDT,to_wallet_unlisted,4232,3637,5,false
+2026-09-12,ETH,deposit,6198,4218,3946,false
+2026-09-13,ETH,deposit,5385,3817,3427,false
+2026-09-21,ETH,sweep,16928,16135,2,false
+2026-06-10,USDT,sweep,5418,4592,2,false
+2026-06-18,USDC,withdrawal,7203,3,5023,false
+2026-06-18,other token,to_wallet_unlisted,882,303,9,false
+2026-06-26,USDT,withdrawal,23409,6,15940,false
+2026-10-07,ETH,deposit,6582,4672,4234,false
+2026-11-13,ETH,withdrawal,9954,9,7199,false
+2026-07-10,ETH,sweep,1798,1261,1,false
+2026-07-09,ETH,sweep,1583,1124,2,false
+2026-07-19,ETH,to_wallet_unlisted,462,405,5,false
+2026-07-29,USDC,sweep,3827,2995,2,false
+2026-08-04,other token,to_wallet_unlisted,528,226,16,false
+2026-08-12,USDT,sweep,5838,4740,2,false
+2026-08-13,USDT,withdrawal,24954,6,16276,false
+2026-08-12,other token,deposit,10445,2789,4144,false
+2026-08-12,other token,deposit_addr_out,130,81,28,false
+2026-08-14,other token,deposit,8170,3438,3297,false
+2026-08-15,USDT,withdrawal,22012,6,13433,false
+2026-08-02,other token,sweep,3877,616,2,false
+2026-07-28,ETH,deposit,6216,4104,4253,false
+2026-07-28,ETH,to_wallet_unlisted,909,638,8,false
+2026-08-10,ETH,withdrawal,7462,7,5590,false
+2026-07-27,USDC,withdrawal,4579,3,3432,false
+2026-07-27,USDT,deposit,8821,3624,6594,false
+2026-08-07,USDT,deposit,11243,4481,8264,false
+2026-09-22,USDC,sweep,4640,3540,2,false
+2026-09-27,USDT,withdrawal,24091,6,14110,false
+2026-09-30,USDC,withdrawal,6423,3,4802,false
+2026-09-30,USDC,sweep,4385,3507,2,false
+2026-06-26,ETH,to_wallet_unlisted,1422,1283,8,false
+2026-09-11,ETH,sweep,2274,1468,1,false
+2026-09-08,other token,deposit,7899,1126,1867,false
+2026-09-09,USDC,sweep,4541,3466,2,false
+2026-09-13,USDT,withdrawal,22855,5,13945,false
+2026-09-12,USDT,deposit,9159,3789,6744,false
+2026-09-19,USDT,withdrawal,25447,6,15473,false
+2026-09-20,USDT,deposit,7939,3103,5612,false
+2026-09-24,other token,withdrawal,10940,19,2924,false
+2026-09-24,USDT,to_wallet_unlisted,5694,4809,2,false
+2026-09-24,USDC,deposit,4655,2025,3356,false
+2026-10-10,USDT,deposit,9425,3870,6919,false
+2026-11-01,other token,withdrawal,3972,13,2873,false
+2026-11-02,USDT,deposit,9805,3899,7417,false
+2026-11-02,other token,to_wallet_unlisted,20,9,18,false
+2026-11-02,USDT,to_wallet_unlisted,9,4,5,false
+2026-10-13,USDT,sweep,9431,7358,2,false
+2026-09-17,other token,withdrawal,9550,17,2911,false
+2026-11-15,USDT,deposit,8553,3626,6221,false
+2026-11-16,other token,sweep,4239,663,2,false
+2026-11-16,USDT,deposit,9120,3641,6765,false
+2026-11-18,USDT,sweep,7137,5601,2,false
+2026-11-18,USDT,withdrawal,36504,9,23478,false
+2026-11-18,USDC,to_wallet_unlisted,2931,2450,1,false
+2026-10-27,other token,deposit_addr_out,269,176,15,false
+2026-10-26,USDT,to_wallet_unlisted,6095,5122,2,false
+2026-07-21,USDT,withdrawal,21874,6,14762,false
+2026-07-21,other token,deposit_addr_out,19,9,6,false
+2026-11-07,other token,deposit,4931,2097,2141,false
+2026-11-12,other token,deposit,8996,3571,4023,false
+2026-11-12,other token,to_wallet_unlisted,12910,11607,14,false
+2026-07-24,ETH,sweep,1616,1214,1,false
+2026-07-23,ETH,sweep,1659,1199,1,false
+2026-07-26,ETH,to_wallet_unlisted,815,573,8,false
+2026-08-04,ETH,sweep,1746,1372,2,false
+2026-08-04,ETH,deposit,6158,4001,4588,false
+2026-08-30,USDC,withdrawal,3808,1,2778,false
+2026-08-30,other token,deposit,6976,918,778,false
+2026-09-06,USDT,sweep,21634,20660,2,false
+2026-09-06,other token,deposit_addr_out,64,41,42,false
+2026-06-12,other token,withdrawal,7499,14,1953,false
+2026-06-15,other token,withdrawal,8006,15,1990,false
+2026-06-15,USDC,withdrawal,6425,3,4595,false
+2026-08-12,ETH,withdrawal,8354,6,6257,false
+2026-10-20,ETH,deposit,5382,3540,3607,false
+2026-10-19,ETH,to_wallet_unlisted,687,573,9,false
+2026-11-01,ETH,to_wallet_unlisted,789,665,12,false
+2026-07-13,USDT,deposit,9272,3885,6918,false
+2026-07-17,other token,deposit,5790,975,1103,false
+2026-07-25,USDC,sweep,3146,2483,1,false
+2026-07-25,other token,deposit_addr_out,27,18,6,false
+2026-09-23,USDT,deposit,10714,4186,7666,false
+2026-09-23,USDT,to_wallet_unlisted,11238,10285,3,false
+2026-09-23,other token,sweep,8141,1030,3,false
+2026-10-01,other token,to_wallet_unlisted,639,304,25,false
+2026-10-02,USDT,sweep,10527,8282,2,false
+2026-10-02,USDC,deposit,5711,2299,4284,false
+2026-06-08,ETH,sweep,1156,737,1,false
+2026-06-08,ETH,deposit,6331,4517,4709,false
+2026-06-08,ETH,to_wallet_unlisted,606,498,3,false
+2026-08-28,ETH,deposit,6430,4431,4133,false
+2026-11-20,other token,to_wallet_unlisted,807,379,14,false
+2026-10-25,other token,deposit_addr_out,1913,912,21,false
+2026-10-25,USDC,to_wallet_unlisted,1418,1169,1,false
+2026-08-16,USDC,to_wallet_unlisted,1235,1040,1,false
+2026-05-26,other token,deposit,9212,1505,1507,false
+2026-08-25,USDT,to_wallet_unlisted,31332,30731,5,false
+2026-09-01,USDC,sweep,5593,4387,1,false
+2026-08-31,USDT,sweep,10698,9578,2,false
+2026-11-04,other token,sweep,1364,351,2,false
+2026-09-28,ETH,withdrawal,9848,7,7053,false
+2026-08-23,USDC,to_wallet_unlisted,1435,1172,1,false
+2026-09-18,other token,withdrawal,15170,18,6670,false
+2026-09-18,USDT,to_wallet_unlisted,47683,46731,5,false
+2026-08-20,other token,to_wallet_unlisted,978,404,6,false
+2026-08-15,ETH,deposit,5057,3448,3682,false
+2026-08-24,ETH,sweep,14027,13324,2,false
+2026-07-08,ETH,to_wallet_unlisted,797,638,7,false
+2026-07-05,ETH,sweep,1220,920,1,false
+2026-07-15,ETH,to_wallet_unlisted,928,774,8,false
+2026-07-22,ETH,to_wallet_unlisted,771,640,6,false
+2026-07-01,USDT,to_wallet_unlisted,5291,5003,2,false
+2026-07-01,USDC,to_wallet_unlisted,1552,1298,2,false
+2026-07-01,other token,to_wallet_unlisted,703,313,8,false
+2026-07-05,USDT,sweep,5806,5298,2,false
+2026-07-06,other token,deposit_addr_out,41,20,11,false
+2026-07-11,USDT,sweep,4083,3386,2,false
+2026-07-11,USDC,to_wallet_unlisted,1363,1056,2,false
+2026-06-05,USDC,deposit,7342,3311,5062,false
+2026-06-04,USDC,sweep,6089,4828,2,false
+2026-06-13,USDT,withdrawal,19068,6,12923,false
+2026-06-13,USDC,withdrawal,5584,2,3991,false
+2026-06-17,other token,deposit_addr_out,52,7,8,false
+2026-06-24,USDC,deposit,4598,1972,3433,false
+2026-06-23,other token,deposit_addr_out,39,7,8,false
+2026-06-14,ETH,deposit,4361,3072,3256,false
+2026-06-14,ETH,to_wallet_unlisted,400,302,3,false
+2026-06-24,ETH,sweep,96327,95989,1,false
+2026-08-18,USDT,to_wallet_unlisted,12827,12331,4,false
+2026-08-21,USDT,to_wallet_unlisted,12100,11489,3,false
+2026-11-10,ETH,sweep,1926,1362,2,false
+2026-05-28,other token,deposit,8350,1418,1293,false
+2026-07-10,other token,withdrawal,8740,9,2683,false
+2026-07-10,other token,to_wallet_unlisted,671,451,15,false
+2026-06-08,USDC,to_wallet_unlisted,1133,916,2,false
+2026-06-07,other token,to_wallet_unlisted,509,201,15,false
+2026-05-25,USDC,withdrawal,3632,2,2705,true
+2026-10-22,ETH,sweep,1619,1062,1,false
+2026-06-18,ETH,sweep,1107,755,2,false
+2026-11-03,USDC,deposit,5600,2209,4355,false
+2026-10-17,other token,withdrawal,6586,14,1660,false
+2026-10-17,USDT,deposit,9136,3520,6690,false
+2026-10-18,other token,sweep,4821,679,2,false
+2026-10-18,USDT,withdrawal,23133,5,13813,false
+2026-10-21,USDT,withdrawal,28180,6,17748,false
+2026-10-22,USDT,withdrawal,28735,6,17717,false
+2026-10-22,USDC,to_wallet_unlisted,5929,5542,2,false
+2026-11-22,USDC,sweep,2385,1893,2,false
+2026-11-22,other token,withdrawal,8233,10,3623,false
+2026-11-23,other token,deposit_addr_out,355,272,8,false
+2026-11-23,USDT,deposit,2255,1068,1841,false
+2026-06-30,USDC,withdrawal,17723,3,11457,false
+2026-06-30,USDC,deposit,5884,2563,4350,false
+2026-09-14,USDC,deposit,4682,1901,3229,false
+2026-11-11,ETH,withdrawal,10272,10,7557,false
+2026-10-22,other token,to_wallet_unlisted,512,280,9,false
+2026-10-23,other token,deposit,7478,1771,1892,false
+2026-06-25,other token,deposit_addr_out,26,14,6,false
+2026-07-18,USDC,sweep,3812,2812,1,false
+2026-07-22,other token,sweep,4877,757,2,false
+2026-07-22,USDT,sweep,4642,3714,2,false
+2026-07-22,USDC,deposit,4799,1869,3384,false
+2026-07-14,USDT,sweep,24435,23472,2,false
+2026-06-22,other token,sweep,5080,725,3,false
+2026-06-28,other token,withdrawal,23702,4,10924,false
+2026-06-28,USDC,deposit,3215,1577,2263,false
+2026-05-29,ETH,withdrawal,9475,7,6928,false
+2026-05-30,ETH,sweep,1071,677,1,false
+2026-10-24,USDC,sweep,3129,2451,2,false
+2026-07-03,ETH,sweep,1596,1158,2,false
+2026-06-03,USDT,withdrawal,21647,6,14996,false
+2026-06-03,other token,withdrawal,9982,12,2173,false
+2026-06-04,ETH,to_wallet_unlisted,953,758,2,false
+2026-10-27,ETH,to_wallet_unlisted,800,691,10,false
+2026-06-01,USDC,sweep,4931,4034,2,false
+2026-06-01,USDT,deposit,12085,4836,9126,false
+2026-06-01,USDC,deposit,5695,2514,4312,false
+2026-06-01,other token,deposit,8773,1513,1341,false
+2026-06-01,USDC,to_wallet_unlisted,950,744,2,false
+2026-05-31,USDT,deposit,8329,3369,6264,false
+2026-11-14,other token,deposit_addr_out,6242,3993,21,false
+2026-11-21,USDT,withdrawal,31644,9,19371,false
+2026-11-21,USDC,deposit,5153,2184,3623,false
+2026-05-25,ETH,deposit,4471,2804,3591,true
+2026-06-17,ETH,deposit,6177,4282,4388,false
+2026-08-02,ETH,withdrawal,6466,7,4826,false
+2026-08-17,ETH,to_wallet_unlisted,1020,728,9,false
+2026-10-18,ETH,to_wallet_unlisted,625,527,10,false
+2026-05-31,ETH,to_wallet_unlisted,479,397,6,false
+2026-10-13,ETH,sweep,1895,1267,1,false
+2026-07-08,other token,deposit,12926,6646,6489,false
+2026-07-08,USDC,to_wallet_unlisted,1474,1226,2,false
+2026-07-08,USDC,deposit,5431,2264,3920,false
+2026-07-09,USDT,to_wallet_unlisted,4819,4446,5,false
+2026-07-16,other token,withdrawal,5844,7,1947,false
+2026-07-16,other token,deposit_addr_out,10,5,8,false
+2026-07-24,USDT,deposit,10153,4154,7541,false
+2026-07-31,USDT,withdrawal,24453,6,16292,false
+2026-09-28,other token,deposit_addr_out,8,6,4,false
+2026-09-28,USDT,deposit,9842,3860,7213,false
+2026-09-29,USDT,to_wallet_unlisted,66034,65151,4,false
+2026-10-04,USDC,sweep,2855,2307,1,false
+2026-10-05,USDC,withdrawal,5051,2,3535,false
+2026-10-08,other token,deposit_addr_out,931,854,22,false
+2026-08-09,other token,sweep,4217,559,2,false
+2026-08-10,USDC,deposit,4427,1894,3430,false
+2026-10-28,USDC,to_wallet_unlisted,2031,1708,2,false
+2026-10-29,USDC,sweep,3601,2930,2,false
+2026-10-29,other token,to_wallet_unlisted,532,343,4,false
+2026-11-05,USDT,deposit,10453,4142,7828,false
+2026-08-28,other token,withdrawal,12009,15,5479,false
+2026-08-28,other token,deposit_addr_out,178,126,86,false
+2026-08-28,USDT,deposit,10534,4099,7887,false
+2026-08-28,USDC,to_wallet_unlisted,1955,1491,3,false
+2026-09-04,other token,sweep,5626,829,2,false
+2026-09-04,USDT,deposit,11717,4557,8757,false
+2026-09-03,USDT,sweep,7594,6215,2,false
+2026-09-03,other token,sweep,5819,726,2,false
+2026-09-07,ETH,withdrawal,9963,6,7607,false
+2026-09-06,ETH,deposit,6500,4478,4386,false
+2026-06-11,other token,deposit_addr_out,401,332,8,false
+2026-06-11,USDC,deposit,6182,2535,4605,false
+2026-06-10,USDC,deposit,6431,2469,4861,false
+2026-06-18,USDT,deposit,11953,4670,8683,false
+2026-06-26,other token,deposit_addr_out,31,8,5,false
+2026-10-07,USDT,sweep,13896,11916,2,false
+2026-10-07,USDC,sweep,5959,4950,2,false
+2026-10-03,ETH,deposit,5766,4115,3641,false
+2026-11-05,ETH,sweep,1746,1238,1,false
+2026-05-28,ETH,sweep,1326,846,1,false
+2026-07-29,USDT,withdrawal,23801,6,15531,false
+2026-07-28,other token,withdrawal,9869,7,2305,false
+2026-08-12,USDC,sweep,4046,3190,2,false
+2026-08-13,other token,to_wallet_unlisted,670,232,12,false
+2026-08-14,USDT,withdrawal,24816,6,15855,false
+2026-08-15,other token,to_wallet_unlisted,908,544,11,false
+2026-08-11,other token,withdrawal,7932,12,1872,false
+2026-06-28,ETH,withdrawal,16096,6,11994,false
+2026-07-18,ETH,to_wallet_unlisted,576,499,6,false
+2026-06-26,ETH,sweep,69548,69034,1,false
+2026-07-27,USDT,withdrawal,22041,6,14575,false
+2026-08-01,USDT,to_wallet_unlisted,2309,1925,4,false
+2026-08-07,USDT,withdrawal,26090,6,16937,false
+2026-09-21,USDT,deposit,10176,4108,7309,false
+2026-09-21,other token,deposit,13461,1869,1766,false
+2026-09-22,USDT,sweep,67791,65933,2,false
+2026-09-21,USDT,withdrawal,27789,6,17603,false
+2026-09-21,other token,deposit_addr_out,131,63,18,false
+2026-08-25,ETH,deposit,7240,4665,4758,false
+2026-09-28,ETH,deposit,7264,4693,4425,false
+2026-09-09,USDT,deposit,11047,4551,8131,false
+2026-09-19,USDT,to_wallet_unlisted,4674,3894,3,false
+2026-09-24,other token,sweep,7083,883,3,false
+2026-10-10,other token,sweep,6489,746,2,false
+2026-10-11,USDT,sweep,6514,5092,2,false
+2026-10-14,USDT,sweep,9040,7106,2,false
+2026-10-15,other token,deposit,9369,1961,1819,false
+2026-11-08,USDC,deposit,2637,1188,1982,false
+2026-09-16,USDC,to_wallet_unlisted,2182,1765,3,false
+2026-11-10,USDT,sweep,8360,6766,2,false
+2026-11-10,other token,deposit,6350,2162,2209,false
+2026-11-15,USDT,to_wallet_unlisted,4900,3960,2,false
+2026-11-16,USDT,withdrawal,32533,9,20471,false
+2026-07-21,USDT,to_wallet_unlisted,3899,3592,3,false
+2026-11-12,other token,sweep,10359,7443,2,false
+2026-11-11,USDT,deposit,10670,4455,7872,false
+2026-11-11,other token,deposit,5854,2193,2275,false
+2026-11-12,USDT,to_wallet_unlisted,6592,5502,3,false
+2026-07-26,ETH,sweep,12484,12207,1,false
+2026-07-26,ETH,deposit,4730,3231,3357,false
+2026-08-04,ETH,withdrawal,7871,7,5973,false
+2026-08-05,ETH,withdrawal,8249,6,6229,false
+2026-09-11,USDC,withdrawal,5996,2,4253,false
+2026-09-07,USDT,withdrawal,27229,6,17435,false
+2026-11-16,ETH,sweep,1772,1190,1,false
+2026-06-12,USDT,to_wallet_unlisted,1428,1154,2,false
+2026-06-15,USDT,sweep,4498,3614,2,false
+2026-06-16,other token,withdrawal,8622,14,2900,false
+2026-06-15,other token,deposit,11046,3849,3454,false
+2026-06-15,USDC,deposit,5048,2263,3786,false
+2026-06-20,USDT,deposit,9279,3646,6987,false
+2026-08-11,ETH,deposit,5636,3787,4081,false
+2026-07-26,USDC,sweep,2344,1858,1,false
+2026-10-08,ETH,deposit,5885,3997,3753,false
+2026-11-01,ETH,withdrawal,10823,9,8498,false
+2026-07-12,USDT,deposit,7183,2839,5230,false
+2026-07-17,USDT,deposit,10400,3976,7718,false
+2026-07-17,other token,deposit_addr_out,35,21,6,false
+2026-09-23,other token,deposit,12030,2448,2188,false
+2026-09-23,USDT,sweep,8614,6720,2,false
+2026-10-02,USDC,sweep,4962,4017,2,false
+2026-10-02,USDT,withdrawal,28550,6,17932,false
+2026-06-16,ETH,withdrawal,9502,6,6957,false
+2026-08-29,ETH,deposit,7572,5766,5035,false
+2026-09-02,ETH,sweep,2114,1519,1,false
+2026-11-13,USDT,deposit,11022,4182,8103,false
+2026-08-16,USDT,withdrawal,20495,5,12435,false
+2026-08-16,other token,to_wallet_unlisted,2164,1819,5,false
+2026-05-27,USDT,deposit,11247,4435,8225,false
+2026-09-01,USDC,to_wallet_unlisted,2375,1876,3,false
+2026-08-23,USDC,sweep,2873,2273,2,false
+2026-08-27,USDT,deposit,9887,3898,7276,false
+2026-06-20,ETH,withdrawal,9903,7,7838,false
+2026-08-23,ETH,to_wallet_unlisted,878,599,6,false
+2026-09-10,ETH,withdrawal,10604,6,7652,false
+2026-11-17,USDC,to_wallet_unlisted,3252,2724,1,false
+2026-07-13,ETH,to_wallet_unlisted,674,546,6,false
+2026-09-02,USDT,sweep,16362,14954,2,false
+2026-09-02,other token,deposit_addr_out,247,212,36,false
+2026-07-05,USDT,to_wallet_unlisted,3431,3279,2,false
+2026-07-11,other token,deposit,11164,4540,5370,false
+2026-07-07,USDC,to_wallet_unlisted,1685,1383,2,false
+2026-07-07,USDT,sweep,9014,7996,2,false
+2026-09-05,USDT,sweep,6577,5395,2,false
+2026-06-05,other token,withdrawal,12679,11,2635,false
+2026-06-05,USDT,withdrawal,21545,6,14710,false
+2026-06-05,USDT,to_wallet_unlisted,1621,1245,3,false
+2026-06-17,other token,to_wallet_unlisted,650,253,14,false
+2026-06-23,other token,withdrawal,11119,10,3458,false
+2026-06-23,USDT,deposit,11687,4399,8654,false
+2026-06-23,other token,to_wallet_unlisted,8476,7814,7,false
+2026-06-25,ETH,sweep,51610,51128,1,false
+2026-08-21,other token,deposit,12503,1794,1682,false
+2026-09-03,other token,deposit_addr_out,28,18,14,false
+2026-09-27,ETH,sweep,1502,987,1,false
+2026-05-28,USDC,withdrawal,6236,2,4299,false
+2026-07-10,USDT,deposit,11348,4319,8579,false
+2026-06-07,USDT,deposit,8751,3852,6509,false
+2026-05-25,USDT,to_wallet_unlisted,303,194,1,true
+2026-10-12,ETH,to_wallet_unlisted,785,619,11,false
+2026-10-15,ETH,sweep,1735,1206,2,false
+2026-11-04,other token,deposit_addr_out,1547,1050,9,false
+2026-10-12,USDC,sweep,3563,2890,2,false
+2026-10-12,USDC,withdrawal,4990,2,3535,false
+2026-10-12,USDC,deposit,4237,1908,3155,false
+2026-06-06,other token,withdrawal,10949,10,2735,false
+2026-06-06,other token,sweep,6750,1086,2,false
+2026-10-16,USDC,withdrawal,5201,3,3617,false
+2026-10-16,USDT,deposit,11130,4195,8271,false
+2026-10-17,other token,sweep,4959,693,2,false
+2026-10-18,other token,deposit,7883,2088,2089,false
+2026-10-18,USDT,to_wallet_unlisted,5009,4104,5,false
+2026-10-19,other token,deposit,8243,2349,2281,false
+2026-10-20,USDC,deposit,4324,1784,3202,false
+2026-10-20,other token,deposit_addr_out,70,18,15,false
+2026-11-19,ETH,withdrawal,8057,9,5869,false
+2026-11-22,other token,sweep,2974,512,1,false
+2026-11-23,USDC,withdrawal,1890,1,1489,false
+2026-11-23,other token,withdrawal,4314,8,2124,false
+2026-07-04,other token,sweep,4781,684,2,false
+2026-07-04,USDC,deposit,4676,1785,3530,false
+2026-09-15,other token,sweep,6070,836,3,false
+2026-09-15,USDT,deposit,11654,4543,8538,false
+2026-10-27,ETH,withdrawal,6691,8,4738,false
+2026-08-03,other token,to_wallet_unlisted,651,266,18,false
+2026-08-03,USDT,sweep,10252,9350,2,false
+2026-06-13,ETH,sweep,1029,712,2,false
+2026-08-20,ETH,withdrawal,10045,8,7354,false
+2026-10-23,other token,deposit_addr_out,304,214,16,false
+2026-06-25,other token,sweep,6142,922,3,false
+2026-06-25,other token,deposit,9672,2697,2563,false
+2026-08-22,USDT,deposit,9940,3883,7259,false
+2026-07-22,other token,deposit_addr_out,67,47,7,false
+2026-07-14,USDC,deposit,6272,2379,4331,false
+2026-06-09,USDT,withdrawal,21606,6,14698,false
+2026-06-09,other token,to_wallet_unlisted,730,250,12,false
+2026-06-22,USDT,sweep,3908,3176,2,false
+2026-06-28,USDT,to_wallet_unlisted,910,774,2,false
+2026-10-24,USDC,deposit,3659,1600,2670,false
+2026-10-30,other token,sweep,1222,250,1,false
+2026-10-30,USDT,sweep,2300,1983,1,false
+2026-10-30,USDT,withdrawal,6557,5,4858,false
+2026-06-03,USDC,sweep,5899,4857,2,false
+2026-06-03,other token,to_wallet_unlisted,1105,264,12,false
+2026-11-17,ETH,withdrawal,8427,9,6242,false
+2026-06-21,USDC,withdrawal,5015,1,3507,false
+2026-06-21,USDT,deposit,7941,3024,5891,false
+2026-06-21,USDT,to_wallet_unlisted,952,762,2,false
+2026-11-22,ETH,sweep,19166,18749,1,false
+2026-05-29,USDC,sweep,4864,3994,2,false
+2026-05-30,USDC,deposit,4207,1881,3175,false
+2026-06-13,ETH,to_wallet_unlisted,481,397,3,false
+2026-08-21,ETH,withdrawal,10012,7,7499,false
+2026-08-21,ETH,deposit,8193,5322,5293,false
+2026-06-10,ETH,deposit,6825,4805,4741,false
+2026-09-16,ETH,to_wallet_unlisted,1074,806,13,false
+2026-09-17,ETH,withdrawal,8983,7,6697,false
+2026-09-23,ETH,withdrawal,9666,6,7364,false
+2026-06-29,ETH,to_wallet_unlisted,1474,1376,5,false
+2026-11-05,ETH,to_wallet_unlisted,736,603,16,false
+2026-07-16,USDT,withdrawal,23279,6,15983,false
+2026-07-15,USDT,deposit,10988,4255,8254,false
+2026-07-16,other token,deposit,6175,991,1423,false
+2026-07-15,USDC,deposit,5780,2226,3996,false
+2026-07-16,other token,to_wallet_unlisted,554,195,12,false
+2026-08-06,other token,sweep,9821,5297,2,false
+2026-08-05,other token,withdrawal,6700,8,2123,false
+2026-09-29,USDC,sweep,4398,3483,2,false
+2026-10-03,USDT,sweep,8193,6494,2,false
+2026-10-04,other token,withdrawal,8191,13,2153,false
+2026-10-03,USDC,to_wallet_unlisted,1876,1496,2,false
+2026-10-04,other token,to_wallet_unlisted,400,233,24,false
+2026-10-05,USDT,withdrawal,26431,6,17113,false
+2026-10-05,USDT,deposit,9836,3864,7355,false
+2026-10-08,other token,sweep,7003,843,3,false
+2026-10-08,USDT,to_wallet_unlisted,6857,5682,3,false
+2026-08-09,USDT,sweep,3854,3198,2,false
+2026-08-10,USDT,sweep,11760,10773,2,false
+2026-08-10,other token,deposit,6890,924,1437,false
+2026-10-28,other token,deposit,6916,1619,1882,false
+2026-11-05,other token,withdrawal,4806,15,2100,false
+2026-11-06,USDT,deposit,10774,4187,7939,false
+2026-08-29,USDC,withdrawal,4414,3,3113,false
+2026-09-07,ETH,to_wallet_unlisted,1205,847,14,false
+2026-06-10,other token,sweep,5097,789,2,false
+2026-06-11,USDC,sweep,5356,4329,2,false
+2026-06-10,other token,deposit,17099,7304,9219,false
+2026-06-18,other token,deposit_addr_out,246,184,10,false
+2026-06-19,other token,to_wallet_unlisted,781,234,13,false
+2026-10-07,other token,withdrawal,11902,16,2859,false
+2026-10-07,USDC,withdrawal,5758,2,4141,false
+2026-10-07,USDT,deposit,10934,4437,7941,false
+2026-09-25,ETH,withdrawal,9721,6,7279,false
+2026-09-26,ETH,withdrawal,7783,7,5784,false
+2026-09-26,ETH,sweep,1456,1010,1,false
+2026-10-07,ETH,to_wallet_unlisted,884,729,12,false
+2026-11-06,ETH,withdrawal,8963,10,6569,false
+2026-11-13,ETH,sweep,1893,1386,2,false
+2026-05-28,ETH,withdrawal,10348,6,7662,false
+2026-07-29,USDC,to_wallet_unlisted,1465,1204,2,false
+2026-07-28,other token,sweep,7266,1565,3,false
+2026-08-11,USDC,to_wallet_unlisted,1942,1553,2,false
+2026-06-28,ETH,deposit,4091,2851,2984,false
+2026-07-18,ETH,sweep,1332,1013,2,false
+2026-07-18,ETH,withdrawal,7713,6,6002,false
+2026-08-01,other token,to_wallet_unlisted,576,232,14,false
+2026-08-08,USDC,sweep,3406,2745,1,false
+2026-09-22,USDT,to_wallet_unlisted,91386,90369,3,false
+2026-09-22,other token,deposit_addr_out,637,589,17,false
+2026-09-30,USDT,deposit,11962,4772,8778,false
+2026-09-30,USDC,to_wallet_unlisted,2146,1745,3,false
+2026-09-08,USDT,deposit,10804,4346,8182,false
+2026-09-09,other token,withdrawal,8648,10,1993,false
+2026-09-12,other token,to_wallet_unlisted,882,476,12,false
+2026-09-25,USDT,withdrawal,28541,6,17052,false
+2026-09-25,USDT,deposit,9954,3957,7228,false
+2026-09-25,USDC,deposit,4410,1907,3172,false
+2026-09-25,USDC,to_wallet_unlisted,1895,1500,3,false
+2026-10-10,USDC,to_wallet_unlisted,2046,1709,1,false
+2026-10-14,other token,deposit,8787,2270,2087,false
+2026-10-14,USDT,deposit,10288,4081,7622,false
+2026-11-02,USDT,withdrawal,49254,8,33027,false
+2026-11-01,USDC,deposit,2673,1008,2241,false
+2026-11-08,other token,withdrawal,10902,19,6079,false
+2026-11-09,USDC,deposit,4320,1871,3060,false
+2026-10-13,USDC,deposit,4803,2029,3603,false
+2026-09-17,USDC,withdrawal,5346,4,3704,false
+2026-11-16,USDC,sweep,3624,2830,2,false
+2026-11-16,USDC,to_wallet_unlisted,2641,2147,1,false
+2026-11-19,other token,withdrawal,10803,14,3755,false
+2026-10-26,other token,deposit,8915,2112,2981,false
+2026-07-20,other token,deposit,5221,860,728,false
+2026-07-20,USDC,withdrawal,4814,3,3466,false
+2026-07-21,other token,to_wallet_unlisted,4084,3693,14,false
+2026-11-12,USDC,deposit,4203,1732,3089,false
+2026-07-21,ETH,deposit,6458,4302,4567,false
+2026-07-24,ETH,deposit,6152,4186,4524,false
+2026-09-10,USDT,withdrawal,29247,6,18546,false
+2026-09-10,USDT,deposit,11698,4626,8521,false
+2026-09-10,other token,deposit_addr_out,49,17,15,false
+2026-08-30,other token,to_wallet_unlisted,756,210,7,false
+2026-09-06,other token,sweep,5650,776,1,false
+2026-09-07,other token,sweep,25481,20660,3,false
+2026-09-07,USDC,sweep,3826,3060,2,false
+2026-09-06,USDT,withdrawal,24947,5,14907,false
+2026-09-06,other token,to_wallet_unlisted,678,247,12,false
+2026-10-28,ETH,withdrawal,6578,7,4727,false
+2026-11-07,ETH,deposit,4750,2818,3496,false
+2026-11-08,ETH,withdrawal,9442,9,7156,false
+2026-06-16,USDC,sweep,5133,4175,2,false
+2026-06-15,USDT,deposit,10926,4329,8195,false
+2026-06-20,USDC,sweep,2965,2414,2,false
+2026-07-29,ETH,to_wallet_unlisted,935,669,7,false
+2026-08-12,ETH,to_wallet_unlisted,834,630,4,false
+2026-07-26,other token,sweep,5701,852,2,false
+2026-07-26,USDT,deposit,6855,2999,5249,false
+2026-07-17,USDT,withdrawal,22354,6,15097,false
+2026-07-25,USDT,sweep,3798,3132,2,false
+2026-09-23,USDC,to_wallet_unlisted,2071,1612,3,false
+2026-09-23,other token,to_wallet_unlisted,1297,474,4,false
+2026-09-23,USDC,sweep,3947,3056,2,false
+2026-09-23,USDT,withdrawal,28671,6,17881,false
+2026-10-01,USDC,deposit,5983,2279,4403,false
+2026-05-26,ETH,sweep,1260,881,2,false
+2026-06-09,ETH,sweep,1331,862,1,false
+2026-06-16,ETH,deposit,6066,3865,4235,false
+2026-09-03,ETH,withdrawal,10603,6,7937,false
+2026-09-05,ETH,withdrawal,10821,6,7969,false
+2026-10-30,ETH,sweep,469,369,1,false
+2026-11-20,other token,sweep,5680,751,1,false
+2026-10-25,other token,sweep,5050,558,2,false
+2026-10-25,USDT,deposit,7163,2823,5233,false
+2026-05-26,other token,sweep,6285,1039,3,false
+2026-05-26,other token,to_wallet_unlisted,590,141,10,false
+2026-05-26,USDT,to_wallet_unlisted,602,431,2,false
+2026-05-27,USDC,deposit,5004,2200,3712,false
+2026-05-27,USDC,to_wallet_unlisted,834,658,2,false
+2026-08-25,USDT,withdrawal,27200,6,17387,false
+2026-08-25,USDC,withdrawal,5996,3,4200,false
+2026-08-26,other token,sweep,5765,786,3,false
+2026-08-31,other token,deposit_addr_out,224,186,22,false
+2026-09-10,ETH,sweep,2000,1391,1,false
+2026-08-27,other token,sweep,5655,763,3,false
+2026-06-19,ETH,sweep,1099,803,1,false
+2026-09-18,USDT,sweep,40698,38784,2,false
+2026-08-20,USDC,sweep,4545,3497,2,false
+2026-08-23,ETH,withdrawal,7594,6,5628,false
+2026-11-17,other token,deposit_addr_out,1463,1140,14,false
+2026-08-17,USDT,sweep,11863,10977,2,false
+2026-07-06,ETH,deposit,7337,3563,6002,false
+2026-07-08,ETH,sweep,1684,1201,2,false
+2026-07-05,ETH,deposit,4868,3388,3565,false
+2026-07-05,USDC,sweep,2730,2181,2,false
+2026-07-05,other token,sweep,4734,759,2,false
+2026-07-06,USDC,sweep,3712,2995,2,false
+2026-07-06,USDT,withdrawal,22951,6,16053,false
+2026-07-06,USDC,withdrawal,5944,3,4318,false
+2026-07-06,other token,withdrawal,8718,7,2822,false
+2026-07-11,USDC,deposit,4539,1615,2918,false
+2026-10-11,ETH,sweep,1292,855,1,false
+2026-07-07,other token,deposit,15672,9788,9686,false
+2026-07-19,other token,deposit,4503,706,894,false
+2026-09-05,USDC,withdrawal,4673,3,3259,false
+2026-06-04,USDT,to_wallet_unlisted,1661,1273,2,false
+2026-06-05,USDC,sweep,6112,4732,2,false
+2026-06-13,USDT,to_wallet_unlisted,1157,925,2,false
+2026-06-13,USDC,deposit,5124,1834,3934,false
+2026-06-13,other token,deposit,17491,5514,10417,false
+2026-06-14,ETH,withdrawal,6954,6,5044,false
+2026-09-18,ETH,sweep,2068,1285,1,false
+2026-08-08,ETH,sweep,1502,1144,1,false
+2026-07-10,USDT,sweep,17374,16401,2,false
+2026-06-08,USDC,sweep,4410,3630,2,false
+2026-06-07,USDC,to_wallet_unlisted,786,640,1,false
+2026-10-12,other token,deposit_addr_out,339,300,119,false
+2026-10-18,USDC,sweep,2305,1840,2,false
+2026-10-19,other token,sweep,5058,768,2,false
+2026-10-21,other token,sweep,5241,727,2,false
+2026-10-21,USDC,to_wallet_unlisted,2332,1901,2,false
+2026-11-20,ETH,sweep,2082,1409,1,false
+2026-11-20,ETH,withdrawal,8011,9,5776,false
+2026-11-23,USDC,deposit,973,512,797,false
+2026-11-22,USDC,to_wallet_unlisted,1807,1458,2,false
+2026-06-29,USDC,sweep,3960,3162,2,false
+2026-07-04,other token,deposit_addr_out,13,6,4,false
+2026-09-14,USDC,withdrawal,4846,2,3615,false
+2026-08-18,ETH,deposit,6228,4243,4346,false
+2026-08-19,ETH,to_wallet_unlisted,865,662,9,false
+2026-10-23,USDT,sweep,8729,6915,2,false
+2026-08-22,USDT,withdrawal,24880,6,14903,false
+2026-07-18,other token,deposit,5691,844,1365,false
+2026-07-22,USDT,to_wallet_unlisted,2024,1714,1,false
+2026-06-09,USDC,withdrawal,6792,4,4736,false
+2026-06-22,other token,deposit_addr_out,67,10,9,false
+2026-05-29,ETH,sweep,1279,818,2,false
+2026-10-30,USDC,withdrawal,1273,3,1025,false
+2026-10-30,USDT,deposit,12688,4360,10071,false
+2026-10-30,USDT,to_wallet_unlisted,1511,1389,5,false
+2026-07-03,ETH,to_wallet_unlisted,682,584,7,false
+2026-06-02,USDC,sweep,6453,5231,2,false
+2026-06-02,other token,withdrawal,8063,10,1949,false
+2026-06-03,USDT,deposit,13330,5406,9904,false
+2026-06-03,USDC,to_wallet_unlisted,1339,1051,3,false
+2026-07-10,other token,deposit_addr_out,104,84,8,false
+2026-06-03,ETH,deposit,7303,5192,5171,false
+2026-11-02,USDC,to_wallet_unlisted,3,2,2,false
+2026-06-21,USDT,sweep,2933,2398,2,false
+2026-06-21,other token,deposit,9997,3938,3693,false
+2026-05-30,other token,deposit_addr_out,145,96,11,false
+2026-05-30,other token,to_wallet_unlisted,678,214,4,false
+2026-11-14,USDC,deposit,4183,1702,2977,false
+2026-06-02,ETH,sweep,1610,1021,2,false
+2026-06-23,ETH,sweep,1169,807,1,false
+2026-05-25,ETH,withdrawal,5201,7,4056,true
+2026-07-03,other token,deposit_addr_out,10599,8966,9,false
+2026-08-02,ETH,deposit,4746,3213,3462,false
+2026-06-22,ETH,deposit,5021,3554,3728,false
+2026-10-21,ETH,sweep,1621,1078,2,false

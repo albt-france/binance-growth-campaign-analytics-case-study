@@ -1,0 +1,46 @@
+/// D7 / D30 retention by first-deposit month and channel (full cohorts) (SIMULATED)
+table retention_by_channel_month
+	lineageTag: 9e881103-2b66-56a7-a0fd-839514cabf10
+
+	column dep_month
+		dataType: dateTime
+		formatString: yyyy-mm-dd
+		lineageTag: 7c4540bb-c901-5c05-babc-25fd4924d367
+		summarizeBy: none
+		sourceColumn: dep_month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column channel
+		dataType: string
+		lineageTag: 8276f08e-05ed-56b6-b9c9-a596a36638b6
+		summarizeBy: none
+		sourceColumn: channel
+
+	column depositors_full_30d
+		dataType: int64
+		lineageTag: 8d70bd7b-e54c-536a-8084-a6921e3abbff
+		summarizeBy: none
+		sourceColumn: depositors_full_30d
+
+	column retention_d7
+		dataType: double
+		lineageTag: c7d1bb3c-3cd0-5f5f-86c3-8b40c7183825
+		summarizeBy: none
+		sourceColumn: retention_d7
+
+	column retention_d30
+		dataType: double
+		lineageTag: 95c4ad62-5e96-5fba-94af-def1228666b2
+		summarizeBy: none
+		sourceColumn: retention_d30
+
+	partition retention_by_channel_month = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "retention_by_channel_month_model.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"dep_month", type date}, {"channel", type text}, {"depositors_full_30d", Int64.Type}, {"retention_d7", type number}, {"retention_d30", type number}}, "en-US")
+				in
+				    Typed
